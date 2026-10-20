@@ -32,6 +32,14 @@
   "url": "https://x.com/OpenAI/status/2112310345863930168"
  },
  {
+  "id": "2112294957256196387",
+  "created_at": "2026-10-19T21:28:57Z",
+  "user": "USTreasury",
+  "text": "Today, Treasury announced that @FinCENnews has identified approximately $270 million in suspicious financial activity potentially linked to fraud against federal student aid programs. FinCEN has referred these findings to federal investigators to pursue potential fraud schemes",
+  "zh": "美国财政部：金融犯罪执法网络（FinCEN）发现约2.7亿美元可疑资金活动，可能涉及联邦学生资助项目欺诈，已移交联邦调查人员追查。",
+  "url": "https://x.com/USTreasury/status/2112294957256196387"
+ },
+ {
   "id": "2112294609980198977",
   "created_at": "2026-10-19T21:27:34Z",
   "user": "realDonaldTrump",
@@ -46,6 +54,14 @@
   "text": "A BIG THANK YOU to our legendary friend, @ElonMusk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon",
   "zh": "特朗普：非常感谢传奇朋友马斯克慷慨地通过“特朗普账户”向数百万美国儿童赠送SpaceX股票！这正是设立特朗普账户的初衷——把伟大的私营部门汇聚起来……",
   "url": "https://x.com/realDonaldTrump/status/2112293785472225568"
+ },
+ {
+  "id": "2112278748741657065",
+  "created_at": "2026-10-19T20:24:32Z",
+  "user": "SECGov",
+  "text": "The SEC's Office of Data Standards and Innovation in the Division of Economic and Risk Analysis is hosting a roundtable, Machine-Understandable Data In the Age of Super Intelligence, on Monday November 9, 2026.",
+  "zh": "美国SEC：经济与风险分析部数据标准与创新办公室将于11月9日举办圆桌会议，主题为“超级智能时代的机器可理解数据”。",
+  "url": "https://x.com/SECGov/status/2112278748741657065"
  },
  {
   "id": "2112271262043246713",
@@ -96,6 +112,14 @@
   "url": "https://x.com/Tesla/status/2112190017267532210"
  },
  {
+  "id": "2112168320946634932",
+  "created_at": "2026-10-19T13:05:44Z",
+  "user": "satyanadella",
+  "text": "I recently wrote about why we need to treat models as insider risks, with security controls sitting outside the model itself.\n\nToday, we're putting that principle into practice by expanding Project Perception with new capabilities to help continuously assess agent risk, adapt",
+  "zh": "纳德拉（微软）：应把AI模型当作“内部风险”对待、在模型之外设安全管控；微软今天扩展Project Perception，新增持续评估AI智能体风险等能力。",
+  "url": "https://x.com/satyanadella/status/2112168320946634932"
+ },
+ {
   "id": "2112154040524026151",
   "created_at": "2026-10-19T12:08:59Z",
   "user": "nvidia",
@@ -104,11 +128,27 @@
   "url": "https://x.com/nvidia/status/2112154040524026151"
  },
  {
+  "id": "2112154024158101780",
+  "created_at": "2026-10-19T12:08:55Z",
+  "user": "esa",
+  "text": "We're developing a service station for the Moon. 🌕\n\nOASIS will provide power, communications and data services to scientific experiments, helping them survive the two-week lunar night and operate for years on the surface.",
+  "zh": "欧洲航天局：正在研制月球“服务站”OASIS，为月面科学实验提供电力、通信和数据服务，帮助其熬过两周的月夜并在月面运行多年。",
+  "url": "https://x.com/esa/status/2112154024158101780"
+ },
+ {
   "id": "2112089556615123114",
   "created_at": "2026-10-19T07:52:45Z",
   "user": "elonmusk",
   "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many.",
   "zh": "马斯克：明年我将把自己持有的SpaceX股票，给美国每个孩子各送一股。这只是开始。",
   "url": "https://x.com/elonmusk/status/2112089556615123114"
+ },
+ {
+  "id": "2112083213124272563",
+  "created_at": "2026-10-19T07:27:33Z",
+  "user": "SpaceX",
+  "text": "Now targeting no earlier than Tuesday, October 20 for Falcon 9’s launch of the Bandwagon-5 rideshare mission from Florida due to unfavorable recovery weather conditions",
+  "zh": "SpaceX：因回收区天气不佳，猎鹰9号“Bandwagon-5”拼车任务改为最早10月20日（周二）从佛罗里达发射。",
+  "url": "https://x.com/SpaceX/status/2112083213124272563"
  }
 ]
