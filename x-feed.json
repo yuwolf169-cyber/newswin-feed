@@ -1,1 +1,114 @@
-[]
+[
+ {
+  "id": "2112373713937084809",
+  "created_at": "2026-10-20T02:41:54Z",
+  "user": "elonmusk",
+  "text": "Two important changes to timeline recommendations:\n\n- New AI/SI ranking model that predicts probable time spent much better\n\n- Retrieval model trained to surface posts people read all the way through\n\nUser active seconds is growing exponentially and hitting all-time highs almost",
+  "zh": "马斯克：X时间线推荐两项重要调整——新的AI排序模型能更准地预测停留时长；检索模型优先推送被完整读完的帖子。用户活跃时长呈指数增长，几乎天天创新高。",
+  "url": "https://x.com/elonmusk/status/2112373713937084809"
+ },
+ {
+  "id": "2112362899960439171",
+  "created_at": "2026-10-20T01:58:55Z",
+  "user": "WhiteHouse",
+  "text": "Protecting America's Farmers. — quoting @USDA: Today, @POTUS and @SecRollins announced the Harvest Fuel Relief Program — making $8 BILLION available for one-time payments to farmers facing higher costs and market disruptions.",
+  "zh": "白宫：保护美国农民。（转引美国农业部：特朗普与农业部长罗林斯宣布“收获燃料救济计划”，拿出80亿美元向面临成本上升和市场扰动的农民一次性发放补贴。）",
+  "url": "https://x.com/WhiteHouse/status/2112362899960439171"
+ },
+ {
+  "id": "2112348601255125059",
+  "created_at": "2026-10-20T01:02:06Z",
+  "user": "elonmusk",
+  "text": "Have to give the EU regulators credit where it’s due for making all Apple products use USB-C",
+  "zh": "马斯克：该给欧盟监管者记一功——是他们让所有苹果产品都用上了USB-C。",
+  "url": "https://x.com/elonmusk/status/2112348601255125059"
+ },
+ {
+  "id": "2112310345863930168",
+  "created_at": "2026-10-19T22:30:05Z",
+  "user": "OpenAI",
+  "text": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.\n\nThese languages power software that banks, governments, and businesses depend on. Progress here means",
+  "zh": "OpenAI：最新模型在COBOL、Fortran、Visual Basic等小众编程语言上的开发与迁移能力更强，这些语言支撑着银行、政府和企业依赖的系统。",
+  "url": "https://x.com/OpenAI/status/2112310345863930168"
+ },
+ {
+  "id": "2112294609980198977",
+  "created_at": "2026-10-19T21:27:34Z",
+  "user": "realDonaldTrump",
+  "text": "🚨 TEXAS!\n\nEarly Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!",
+  "zh": "特朗普：得州中期选举现场提前投票于10月19日开启，呼吁选民立即投票，在各级选举中支持共和党候选人。",
+  "url": "https://x.com/realDonaldTrump/status/2112294609980198977"
+ },
+ {
+  "id": "2112293785472225568",
+  "created_at": "2026-10-19T21:24:17Z",
+  "user": "realDonaldTrump",
+  "text": "A BIG THANK YOU to our legendary friend, @ElonMusk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon",
+  "zh": "特朗普：非常感谢传奇朋友马斯克慷慨地通过“特朗普账户”向数百万美国儿童赠送SpaceX股票！这正是设立特朗普账户的初衷——把伟大的私营部门汇聚起来……",
+  "url": "https://x.com/realDonaldTrump/status/2112293785472225568"
+ },
+ {
+  "id": "2112271262043246713",
+  "created_at": "2026-10-19T19:54:47Z",
+  "user": "WhiteHouse",
+  "text": "President Donald J. Trump’s @ONDCP has overseen a MASSIVE decrease in drug overdose deaths since such deaths peaked under the Biden Administration, saving thousands of American lives. 🇺🇸",
+  "zh": "白宫：在特朗普政府国家药物管制政策办公室主导下，药物过量死亡人数较拜登时期峰值大幅下降，挽救了数千人的生命。",
+  "url": "https://x.com/WhiteHouse/status/2112271262043246713"
+ },
+ {
+  "id": "2112269224949485860",
+  "created_at": "2026-10-19T19:46:41Z",
+  "user": "nvidia",
+  "text": "Germany knows how to build, and now it’s bringing that expertise to industrial AI. 🇩🇪\n\nTonight in Berlin, @JensenHuang and Chancellor @_FriedrichMerz discussed combining German engineering with NVIDIA AI to advance manufacturing and automotive.\n\nWe’re also backing Germany’s",
+  "zh": "英伟达：黄仁勋与德国总理默茨在柏林探讨将德国工程能力与英伟达AI结合，推动制造业和汽车业发展；英伟达同时加大对德国的支持。",
+  "url": "https://x.com/nvidia/status/2112269224949485860"
+ },
+ {
+  "id": "2112244894878032121",
+  "created_at": "2026-10-19T18:10:01Z",
+  "user": "nvidianewsroom",
+  "text": "NVIDIA and @fzj_jsc ran a record 104-qubit simulation of fault-tolerant quantum computing on JUPITER, Europe’s biggest supercomputer, so researchers can refine designs before building hardware, shortening the path to viable quantum computers.",
+  "zh": "英伟达与于利希超算中心在欧洲最大超算JUPITER上完成创纪录的104量子比特容错量子计算模拟，可在造硬件前优化设计，缩短实用量子计算机的研发路径。",
+  "url": "https://x.com/nvidianewsroom/status/2112244894878032121"
+ },
+ {
+  "id": "2112238612087439670",
+  "created_at": "2026-10-19T17:45:03Z",
+  "user": "federalreserve",
+  "text": "Join #FederalReserveEducation on Tuesday, October 20, as we celebrate #EconEdMonth with our webinar, Teaching Monetary Policy: From the Fed’s Origins to Today’s Tools.",
+  "zh": "美联储：10月20日（周二）举办网络研讨会《讲授货币政策：从美联储起源到当今工具》，庆祝经济教育月。",
+  "url": "https://x.com/federalreserve/status/2112238612087439670"
+ },
+ {
+  "id": "2112224045802414256",
+  "created_at": "2026-10-19T16:47:10Z",
+  "user": "nvidia",
+  "text": "AI factories need to respond when the power grid needs relief.\n\nAt #OCPSummit26, NVIDIA’s Ian Buck explains how adjusting power use and shifting computing workloads can help, and why collaboration across the industry matters.",
+  "zh": "英伟达：OCP峰会上，英伟达Ian Buck称AI工厂要能在电网吃紧时响应，可通过调节用电、转移算力负载来缓解，并需全行业协作。",
+  "url": "https://x.com/nvidia/status/2112224045802414256"
+ },
+ {
+  "id": "2112190017267532210",
+  "created_at": "2026-10-19T14:31:57Z",
+  "user": "Tesla",
+  "text": "Tesla shareholders: Our Annual Meeting is coming up on Dec 3rd\n\nThis year, we’re asking you to vote “FOR” all three proposals on the ballot, including the re-election of Elon Musk, Robyn Denholm and JB Straubel to Tesla’s Board.",
+  "zh": "特斯拉：股东年会定于12月3日举行，呼吁股东对三项议案全部投赞成票，包括马斯克、罗宾·丹霍姆和JB·斯特劳贝尔连任董事。",
+  "url": "https://x.com/Tesla/status/2112190017267532210"
+ },
+ {
+  "id": "2112154040524026151",
+  "created_at": "2026-10-19T12:08:59Z",
+  "user": "nvidia",
+  "text": "Entire industries will be built on open models.\nDevelopers need the freedom to build them.\n\n@JensenHuang on why keeping these models open and accessible matters.",
+  "zh": "黄仁勋：整个产业都将建立在开放模型之上，开发者需要自由去构建它们——保持模型开放可用至关重要。",
+  "url": "https://x.com/nvidia/status/2112154040524026151"
+ },
+ {
+  "id": "2112089556615123114",
+  "created_at": "2026-10-19T07:52:45Z",
+  "user": "elonmusk",
+  "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many.",
+  "zh": "马斯克：明年我将把自己持有的SpaceX股票，给美国每个孩子各送一股。这只是开始。",
+  "url": "https://x.com/elonmusk/status/2112089556615123114"
+ }
+]
