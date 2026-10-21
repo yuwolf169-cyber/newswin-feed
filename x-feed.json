@@ -1,5 +1,45 @@
 [
  {
+  "id": "2112854058377564364",
+  "created_at": "2026-10-21T10:30:37Z",
+  "user": "nvidianewsroom",
+  "text": "NVIDIA announces new Isaac tools for agents to help developers train, test and deploy robots as Agile Robots unveils Agile ONE SN, a reference humanoid built on Isaac GR00T and powered by Jetson Thor.",
+  "zh": "英伟达：发布面向智能体的 Isaac 新工具，助开发者训练、测试和部署机器人；Agile Robots 推出基于 Isaac GR00T、搭载 Jetson Thor 的参考人形机器人 Agile ONE SN。",
+  "url": "https://x.com/nvidianewsroom/status/2112854058377564364"
+ },
+ {
+  "id": "2112852110173765893",
+  "created_at": "2026-10-21T10:22:52Z",
+  "user": "nvidianewsroom",
+  "text": "At #NVIDIAGTC Berlin, European mobility leaders showcased how NVIDIA Hyperion supports safe 4 autonomous driving and future robotaxi fleets. NVIDIA also introduced Halos SAFE to accelerate AV safety validation, and Alpamayo 2 Edge for in-vehicle reasoning.",
+  "zh": "英伟达：GTC 柏林大会上欧洲车企展示 Hyperion 平台支持 L4 自动驾驶和 Robotaxi 车队；同时推出加速自动驾驶安全验证的 Halos SAFE 和车端推理模型 Alpamayo 2 Edge。",
+  "url": "https://x.com/nvidianewsroom/status/2112852110173765893"
+ },
+ {
+  "id": "2112851150361842058",
+  "created_at": "2026-10-21T10:19:03Z",
+  "user": "nvidianewsroom",
+  "text": "NVIDIA and @UWproteindesign introduce RFD4-Proteina, an open model to design proteins and refine candidates for lab testing, paving the way for new medicines and diagnostics.",
+  "zh": "英伟达：与华盛顿大学蛋白质设计研究所推出开源蛋白质设计模型 RFD4-Proteina，助力新药和诊断研发。",
+  "url": "https://x.com/nvidianewsroom/status/2112851150361842058"
+ },
+ {
+  "id": "2112850208283344962",
+  "created_at": "2026-10-21T10:15:19Z",
+  "user": "nvidianewsroom",
+  "text": "Leading telecom operators are adding NVIDIA computing across data centers and cell sites to bring AI services closer to users, alongside live-network AI-RAN pilots with @nokia.",
+  "zh": "英伟达：多家头部电信运营商在数据中心和基站部署英伟达算力，把 AI 服务推近用户，并与诺基亚开展现网 AI-RAN 试点。",
+  "url": "https://x.com/nvidianewsroom/status/2112850208283344962"
+ },
+ {
+  "id": "2112847277282721888",
+  "created_at": "2026-10-21T10:03:40Z",
+  "user": "nvidia",
+  "text": "Jensen introduces the OpenShell Reference Architecture to help businesses set boundaries for AI agents and stop them when they step outside those boundaries.",
+  "zh": "黄仁勋：推出 OpenShell 参考架构，帮助企业为 AI 智能体设定边界，越界时及时叫停。",
+  "url": "https://x.com/nvidia/status/2112847277282721888"
+ },
+ {
   "id": "2112846545905230041",
   "created_at": "2026-10-21T10:00:45Z",
   "user": "nvidianewsroom",
@@ -278,37 +318,5 @@
   "text": "AI factories need to respond when the power grid needs relief.\n\nAt #OCPSummit26, NVIDIA’s Ian Buck explains how adjusting power use and shifting computing workloads can help, and why collaboration across the industry matters.",
   "zh": "英伟达：OCP峰会上，英伟达Ian Buck称AI工厂要能在电网吃紧时响应，可通过调节用电、转移算力负载来缓解，并需全行业协作。",
   "url": "https://x.com/nvidia/status/2112224045802414256"
- },
- {
-  "id": "2112190017267532210",
-  "created_at": "2026-10-19T14:31:57Z",
-  "user": "Tesla",
-  "text": "Tesla shareholders: Our Annual Meeting is coming up on Dec 3rd\n\nThis year, we’re asking you to vote “FOR” all three proposals on the ballot, including the re-election of Elon Musk, Robyn Denholm and JB Straubel to Tesla’s Board.",
-  "zh": "特斯拉：股东年会定于12月3日举行，呼吁股东对三项议案全部投赞成票，包括马斯克、罗宾·丹霍姆和JB·斯特劳贝尔连任董事。",
-  "url": "https://x.com/Tesla/status/2112190017267532210"
- },
- {
-  "id": "2112168320946634932",
-  "created_at": "2026-10-19T13:05:44Z",
-  "user": "satyanadella",
-  "text": "I recently wrote about why we need to treat models as insider risks, with security controls sitting outside the model itself.\n\nToday, we're putting that principle into practice by expanding Project Perception with new capabilities to help continuously assess agent risk, adapt",
-  "zh": "纳德拉（微软）：应把AI模型当作“内部风险”对待、在模型之外设安全管控；微软今天扩展Project Perception，新增持续评估AI智能体风险等能力。",
-  "url": "https://x.com/satyanadella/status/2112168320946634932"
- },
- {
-  "id": "2112154040524026151",
-  "created_at": "2026-10-19T12:08:59Z",
-  "user": "nvidia",
-  "text": "Entire industries will be built on open models.\nDevelopers need the freedom to build them.\n\n@JensenHuang on why keeping these models open and accessible matters.",
-  "zh": "黄仁勋：整个产业都将建立在开放模型之上，开发者需要自由去构建它们——保持模型开放可用至关重要。",
-  "url": "https://x.com/nvidia/status/2112154040524026151"
- },
- {
-  "id": "2112154024158101780",
-  "created_at": "2026-10-19T12:08:55Z",
-  "user": "esa",
-  "text": "We're developing a service station for the Moon. 🌕\n\nOASIS will provide power, communications and data services to scientific experiments, helping them survive the two-week lunar night and operate for years on the surface.",
-  "zh": "欧洲航天局：正在研制月球“服务站”OASIS，为月面科学实验提供电力、通信和数据服务，帮助其熬过两周的月夜并在月面运行多年。",
-  "url": "https://x.com/esa/status/2112154024158101780"
  }
 ]
