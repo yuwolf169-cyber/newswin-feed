@@ -1,5 +1,53 @@
 [
  {
+  "id": "2113400239017378069",
+  "created_at": "2026-10-22T22:40:56Z",
+  "user": "SpaceX",
+  "text": "Watch Falcon 9 launch 27 @Starlink satellites to orbit from California",
+  "zh": "SpaceX：猎鹰 9 号从加州发射 27 颗星链卫星入轨。",
+  "url": "https://x.com/SpaceX/status/2113400239017378069"
+ },
+ {
+  "id": "2113390212911083894",
+  "created_at": "2026-10-22T22:01:06Z",
+  "user": "AnthropicAI",
+  "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale. Formal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).",
+  "zh": "Anthropic：发布用 Claude 大规模做软件形式化验证的研究，过去这类证明代码无特定漏洞的方法只适用于小代码库或需大量专家时间。",
+  "url": "https://x.com/AnthropicAI/status/2113390212911083894"
+ },
+ {
+  "id": "2113352056723697729",
+  "created_at": "2026-10-22T19:29:29Z",
+  "user": "WhiteHouse",
+  "text": "RESTORING THE AMERICAN DREAM OF HOMEOWNERSHIP. President Donald J. Trump is lowering the costs of single-family homeownership & mortgages, & removing unnecessary red tape to make homeownership more affordable for all Americans.",
+  "zh": "白宫：特朗普将降低独栋住房和房贷成本、削减不必要的监管，让美国人更买得起房。",
+  "url": "https://x.com/WhiteHouse/status/2113352056723697729"
+ },
+ {
+  "id": "2113347282469077501",
+  "created_at": "2026-10-22T19:10:30Z",
+  "user": "satyanadella",
+  "text": "Important work from our team in @ScienceMagazine today, showing how our diagnostic orchestrator can reason through complex medical cases, achieving greater diagnostic accuracy while reducing testing costs. — quoting @mustafasuleyman: Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED.",
+  "zh": "纳德拉：微软 AI 诊断系统成果登上《科学》杂志，在急诊复杂病例中准确率达医生的 1.7 倍，同时减少检查、降低成本。",
+  "url": "https://x.com/satyanadella/status/2113347282469077501"
+ },
+ {
+  "id": "2113298833392496746",
+  "created_at": "2026-10-22T15:57:59Z",
+  "user": "OpenAI",
+  "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks.",
+  "zh": "OpenAI：今夏邀请 METR 和 Redwood Research 进驻三周，深度评估其监测内部 AI 智能体失控风险的系统，结果已用于加强安全防护。",
+  "url": "https://x.com/OpenAI/status/2113298833392496746"
+ },
+ {
+  "id": "2113241032913547768",
+  "created_at": "2026-10-22T12:08:19Z",
+  "user": "esa",
+  "text": "The 350th ESA Council has appointed two new ESA Directors: Andrzej Banasiak, Director of Commercialisation and Industry Partnership; Nicolaus Hanowski, Director of Space Operations. Both will take up their duties on 1 January 2027.",
+  "zh": "欧洲航天局：第 350 次理事会任命两位新主任，分管商业化与产业合作和空间运行，2027 年 1 月 1 日上任。",
+  "url": "https://x.com/esa/status/2113241032913547768"
+ },
+ {
   "id": "2113047735951933848",
   "created_at": "2026-10-21T23:20:13Z",
   "user": "USTreasury",
@@ -182,133 +230,5 @@
   "text": "Congrats SpaceX team! — quoting @SpaceX: Q3 2026 highlights: Delivered revenue of $14.6 billion, up 161% year-over-year. Successfully launched our first revenue-generating Starship mission, delivering 26 Starlink V3 satellites",
   "zh": "马斯克：祝贺 SpaceX 团队！（转引 SpaceX 2026 年三季度要点：营收 146 亿美元，同比增 161%；星舰首次执行商业任务，送入 26 颗星链 V3 卫星）",
   "url": "https://x.com/elonmusk/status/2112781132387529005"
- },
- {
-  "id": "2112675282658205884",
-  "created_at": "2026-10-20T22:40:13Z",
-  "user": "USTreasury",
-  "text": "Treasury congratulates @TheJusticeDept on launching the Fraud Whistleblower Incentive Program and is proud to commit $25 million to support it.",
-  "zh": "美国财政部：祝贺司法部推出欺诈举报人激励计划，财政部承诺拨款 2500 万美元支持。",
-  "url": "https://x.com/USTreasury/status/2112675282658205884"
- },
- {
-  "id": "2112666467712073815",
-  "created_at": "2026-10-20T22:05:12Z",
-  "user": "elonmusk",
-  "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible",
-  "zh": "马斯克：听起来很疯狂，但 SpaceX 在 2028 年实现 1 万亿美元营收已不再是不可能。",
-  "url": "https://x.com/elonmusk/status/2112666467712073815"
- },
- {
-  "id": "2112652656602923366",
-  "created_at": "2026-10-20T21:10:19Z",
-  "user": "sama",
-  "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense.",
-  "zh": "奥特曼：感谢 Aleksander 接受邀请回归 OpenAI 负责安全工作，面对超级智能，我们的安全挑战极其巨大。",
-  "url": "https://x.com/sama/status/2112652656602923366"
- },
- {
-  "id": "2112637394654822514",
-  "created_at": "2026-10-20T20:09:40Z",
-  "user": "SpaceX",
-  "text": "Our Q3 2026 earnings report is now public. The live webcast with @ElonMusk, @Gwynne_Shotwell, and @BretWJ will begin in 30 minutes",
-  "zh": "SpaceX：2026 年第三季度财报已发布，马斯克、肖特维尔等将进行财报直播。",
-  "url": "https://x.com/SpaceX/status/2112637394654822514"
- },
- {
-  "id": "2112607347688583586",
-  "created_at": "2026-10-20T18:10:16Z",
-  "user": "OpenAI",
-  "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.",
-  "zh": "OpenAI：已收购生物医药协作平台 Orchestra Bio，将结合其生命科学 AI 工具 Rosalind 加速药物研发。",
-  "url": "https://x.com/OpenAI/status/2112607347688583586"
- },
- {
-  "id": "2112604875452223824",
-  "created_at": "2026-10-20T18:00:27Z",
-  "user": "NASA",
-  "text": "Preview of two upcoming spacewalks set for Oct. 29 and Nov. 5 to finish installing solar arrays.",
-  "zh": "NASA：空间站将于 10 月 29 日和 11 月 5 日进行两次太空行走，完成太阳能电池阵安装。",
-  "url": "https://x.com/NASA/status/2112604875452223824"
- },
- {
-  "id": "2112603906723487744",
-  "created_at": "2026-10-20T17:56:36Z",
-  "user": "elonmusk",
-  "text": "“Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed. If there was twice as much time, this would be relatively easy, but there is not. — quoting @: Former $GOOGL employee on why data center capacity and electricity are the real bottlenecks",
-  "zh": "马斯克：说算力瓶颈是“缺电”太简单化了，极速上线海量算力的每个环节都难；时间若多一倍会相对容易，但没有这个时间。",
-  "url": "https://x.com/elonmusk/status/2112603906723487744"
- },
- {
-  "id": "2112592291147747809",
-  "created_at": "2026-10-20T17:10:26Z",
-  "user": "SpaceX",
-  "text": "Falcon 9 launches the Bandwagon-5 rideshare mission to orbit from Florida",
-  "zh": "SpaceX：猎鹰 9 号从佛罗里达发射 Bandwagon-5 拼车任务入轨，一级回收成功。",
-  "url": "https://x.com/SpaceX/status/2112592291147747809"
- },
- {
-  "id": "2112590295334277253",
-  "created_at": "2026-10-20T17:02:31Z",
-  "user": "elonmusk",
-  "text": "The value of Terafab’s output will place it in the top 20 of country GDP in a single building — quoting: Terafab is now talking to almost every Korean chip supplier",
-  "zh": "马斯克：Terafab 芯片厂单栋楼的产值将可排进全球国家 GDP 前 20（引述：Terafab 正与几乎所有韩国芯片供应商洽谈）。",
-  "url": "https://x.com/elonmusk/status/2112590295334277253"
- },
- {
-  "id": "2112579251555721573",
-  "created_at": "2026-10-20T16:18:38Z",
-  "user": "AnthropicAI",
-  "text": "New on our Science Blog: designing protein binders against scorpion neurotoxins. Claude has made an early step toward finding new treatments.",
-  "zh": "Anthropic：Claude 协助设计针对蝎毒神经毒素的蛋白结合剂，为新疗法迈出早期一步。",
-  "url": "https://x.com/AnthropicAI/status/2112579251555721573"
- },
- {
-  "id": "2112570851597943267",
-  "created_at": "2026-10-20T15:45:15Z",
-  "user": "nvidia",
-  "text": "Tomorrow, Jensen takes the stage at #NVIDIAGTC Berlin.",
-  "zh": "英伟达：黄仁勋明天将在 GTC 柏林大会登台演讲，主题是欧洲 AI 建设。",
-  "url": "https://x.com/nvidia/status/2112570851597943267"
- },
- {
-  "id": "2112553116390269175",
-  "created_at": "2026-10-20T14:34:46Z",
-  "user": "NASA",
-  "text": "Welcome to the Artemis Accords, Uzbekistan. Uzbekistan has joined 76 other nations.",
-  "zh": "NASA：乌兹别克斯坦加入《阿尔忒弥斯协定》，签署国增至 77 个。",
-  "url": "https://x.com/NASA/status/2112553116390269175"
- },
- {
-  "id": "2112543241169997918",
-  "created_at": "2026-10-20T13:55:32Z",
-  "user": "WhiteHouse",
-  "text": "THE TRUMP EFFECT. American manufacturing is back! — quoting: Apple commits up to $100 million for US titanium in domestic manufacturing push",
-  "zh": "白宫：美国制造业回来了！（引述：苹果承诺投入至多 1 亿美元采购美国本土钛材，推动国内制造）",
-  "url": "https://x.com/WhiteHouse/status/2112543241169997918"
- },
- {
-  "id": "2112537379152216111",
-  "created_at": "2026-10-20T13:32:14Z",
-  "user": "tim_cook",
-  "text": "New and expanded partnerships with Perryman Company and Qnity Electronics for American manufacturing!",
-  "zh": "库克：苹果与 Perryman、Qnity Electronics 新建和扩大合作，推进美国本土制造。",
-  "url": "https://x.com/tim_cook/status/2112537379152216111"
- },
- {
-  "id": "2112515951249768470",
-  "created_at": "2026-10-20T12:07:06Z",
-  "user": "esa",
-  "text": "Galileo Second Generation is taking shape. A new signal generation module, designed to be reprogrammed in orbit.",
-  "zh": "欧洲航天局：第二代伽利略导航系统成形，新信号生成模块可在轨重新编程。",
-  "url": "https://x.com/esa/status/2112515951249768470"
- },
- {
-  "id": "2112498869531754900",
-  "created_at": "2026-10-20T10:59:13Z",
-  "user": "satyanadella",
-  "text": "Great to meet with the @saintgobain team in Paris today and learn how they’re using Microsoft Discovery to accelerate new construction materials.",
-  "zh": "纳德拉：在巴黎会见圣戈班团队，了解其用 Microsoft Discovery 加速研发高效建材。",
-  "url": "https://x.com/satyanadella/status/2112498869531754900"
  }
 ]
