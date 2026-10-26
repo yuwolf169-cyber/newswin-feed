@@ -1,170 +1,50 @@
 [
  {
-  "id": "2113550852879474733",
-  "created_at": "2026-10-23T08:39:25Z",
-  "user": "nvidianewsroom",
-  "text": "Following GTC Berlin, @JensenHuang visited Astana for Kazakhstan’s AI Month, joining Deputy Prime Minister @Zhaslan_Madiyev to discuss how the country can build AI using its own knowledge and talent.",
-  "zh": "黄仁勋：GTC 柏林大会后到访阿斯塔纳参加哈萨克斯坦“AI月”，与副总理马季耶夫探讨该国如何依靠本土知识和人才发展AI。",
-  "url": "https://x.com/nvidianewsroom/status/2113550852879474733"
+  "id": "2114484649430798432",
+  "created_at": "2026-10-25T22:30:00Z",
+  "user": "NASA",
+  "text": "October’s full moon, named the Hunter’s Moon, will rise on the night of Oct. 26.",
+  "zh": "NASA：10月满月“狩猎月”将于10月26日夜间升起。",
+  "url": "https://x.com/NASA/status/2114484649430798432"
  },
  {
-  "id": "2113400239017378069",
-  "created_at": "2026-10-22T22:40:56Z",
+  "id": "2114444137067844004",
+  "created_at": "2026-10-25T19:49:01Z",
   "user": "SpaceX",
-  "text": "Watch Falcon 9 launch 27 @Starlink satellites to orbit from California",
-  "zh": "SpaceX：猎鹰 9 号从加州发射 27 颗星链卫星入轨。",
-  "url": "https://x.com/SpaceX/status/2113400239017378069"
+  "text": "Full duration 33-engine static fire for the Super Heavy booster preparing for Flight 15",
+  "zh": "SpaceX：星舰第15次飞行的超重型助推器完成33台发动机全时长静态点火。",
+  "url": "https://x.com/SpaceX/status/2114444137067844004"
  },
  {
-  "id": "2113390212911083894",
-  "created_at": "2026-10-22T22:01:06Z",
-  "user": "AnthropicAI",
-  "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale. Formal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).",
-  "zh": "Anthropic：发布用 Claude 大规模做软件形式化验证的研究，过去这类证明代码无特定漏洞的方法只适用于小代码库或需大量专家时间。",
-  "url": "https://x.com/AnthropicAI/status/2113390212911083894"
- },
- {
-  "id": "2113352056723697729",
-  "created_at": "2026-10-22T19:29:29Z",
+  "id": "2114394551158722793",
+  "created_at": "2026-10-25T16:31:59Z",
   "user": "WhiteHouse",
-  "text": "RESTORING THE AMERICAN DREAM OF HOMEOWNERSHIP. President Donald J. Trump is lowering the costs of single-family homeownership & mortgages, & removing unnecessary red tape to make homeownership more affordable for all Americans.",
-  "zh": "白宫：特朗普将降低独栋住房和房贷成本、削减不必要的监管，让美国人更买得起房。",
-  "url": "https://x.com/WhiteHouse/status/2113352056723697729"
+  "text": "The illegal immigrant population is collapsing. Down 2.3 MILLION+ since President Trump took office.",
+  "zh": "白宫：称特朗普上任以来美国非法移民人口减少逾230万。",
+  "url": "https://x.com/WhiteHouse/status/2114394551158722793"
  },
  {
-  "id": "2113347282469077501",
-  "created_at": "2026-10-22T19:10:30Z",
-  "user": "satyanadella",
-  "text": "Important work from our team in @ScienceMagazine today, showing how our diagnostic orchestrator can reason through complex medical cases, achieving greater diagnostic accuracy while reducing testing costs. — quoting @mustafasuleyman: Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED.",
-  "zh": "纳德拉：微软 AI 诊断系统成果登上《科学》杂志，在急诊复杂病例中准确率达医生的 1.7 倍，同时减少检查、降低成本。",
-  "url": "https://x.com/satyanadella/status/2113347282469077501"
- },
- {
-  "id": "2113298833392496746",
-  "created_at": "2026-10-22T15:57:59Z",
-  "user": "OpenAI",
-  "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks.",
-  "zh": "OpenAI：今夏邀请 METR 和 Redwood Research 进驻三周，深度评估其监测内部 AI 智能体失控风险的系统，结果已用于加强安全防护。",
-  "url": "https://x.com/OpenAI/status/2113298833392496746"
- },
- {
-  "id": "2113241032913547768",
-  "created_at": "2026-10-22T12:08:19Z",
-  "user": "esa",
-  "text": "The 350th ESA Council has appointed two new ESA Directors: Andrzej Banasiak, Director of Commercialisation and Industry Partnership; Nicolaus Hanowski, Director of Space Operations. Both will take up their duties on 1 January 2027.",
-  "zh": "欧洲航天局：第 350 次理事会任命两位新主任，分管商业化与产业合作和空间运行，2027 年 1 月 1 日上任。",
-  "url": "https://x.com/esa/status/2113241032913547768"
- },
- {
-  "id": "2113047735951933848",
-  "created_at": "2026-10-21T23:20:13Z",
-  "user": "USTreasury",
-  "text": "Today, U.S. Treasury's @USOCC took a critical step toward implementing the GENIUS Act with the release of a final rule that delivers a federal framework for stablecoins.",
-  "zh": "美国财政部：货币监理署（OCC）发布落实《GENIUS 法案》的最终规则，建立联邦层面的稳定币监管框架。",
-  "url": "https://x.com/USTreasury/status/2113047735951933848"
- },
- {
-  "id": "2113011056847278486",
-  "created_at": "2026-10-21T20:54:28Z",
+  "id": "2114205004340854795",
+  "created_at": "2026-10-25T03:58:47Z",
   "user": "elonmusk",
-  "text": "People are buying FSD with a car attached, not the other way around — quoting: Tesla Q3: EPS $0.48 (vs $0.45 est), revenue $28.05B (vs $28.3B est), active FSD subscriptions 1.74M, up 67% YoY",
-  "zh": "马斯克：人们买的是附带一辆车的 FSD，而不是反过来。（特斯拉三季度每股收益 0.48 美元高于预期，营收 280.5 亿美元略低于预期，FSD 活跃订阅 174 万，同比增 67%）",
-  "url": "https://x.com/elonmusk/status/2113011056847278486"
+  "text": "The way to think about this is: How many super smart and dedicated people do you want to hire? And they keep getting better. — quoting: GPUs are still renting ahead of a standard 6-year depreciation schedule (H200 +143%, B200 +111%, H100 +54%, A100 +9%)",
+  "zh": "马斯克：评GPU租金仍远高于6年折旧曲线（H200高143%、H100高54%）——该这样想：你想雇多少超聪明又敬业的人？而且它们还在不断变强。",
+  "url": "https://x.com/elonmusk/status/2114205004340854795"
  },
  {
-  "id": "2113008920008790488",
-  "created_at": "2026-10-21T20:45:58Z",
-  "user": "satyanadella",
-  "text": "In my annual letter, I share how we're building a frontier ecosystem to turn technological progress into real-world outcomes and economic opportunity.",
-  "zh": "纳德拉：发布年度致股东信，阐述微软如何打造前沿生态，把技术进步转化为实际成果和经济机会。",
-  "url": "https://x.com/satyanadella/status/2113008920008790488"
- },
- {
-  "id": "2112998455383847332",
-  "created_at": "2026-10-21T20:04:24Z",
-  "user": "Tesla",
-  "text": "Q3 Shareholder Update: FSD Supervised attach rate over 75% of new vehicle deliveries in NA; next-gen Roadster unveiled; record deliveries in Canada, Australia, Japan & Taiwan; Tesla Semi now in volume production.",
-  "zh": "特斯拉：发布三季度股东信，北美新车 FSD 搭载率超 75%，发布新一代 Roadster，加拿大、澳洲、日本、台湾交付创纪录，Semi 卡车已量产。",
-  "url": "https://x.com/Tesla/status/2112998455383847332"
- },
- {
-  "id": "2112988118471295323",
-  "created_at": "2026-10-21T19:23:19Z",
-  "user": "OpenAI",
-  "text": "OpenAI models are coming to Google Cloud. We're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden.",
-  "zh": "OpenAI：旗下前沿模型和 Codex 智能体工作流将登陆谷歌云 Model Garden，供企业直接使用。",
-  "url": "https://x.com/OpenAI/status/2112988118471295323"
- },
- {
-  "id": "2112962938969497655",
-  "created_at": "2026-10-21T17:43:16Z",
-  "user": "WhiteHouse",
-  "text": "SOON AT THE WHITE HOUSE: President Donald J. Trump highlights the admin's efforts to crack down on foreign criminal networks that lure Americans into fraudulent crypto investments.",
-  "zh": "白宫：特朗普将介绍政府打击诱骗美国人参与虚假加密货币投资的境外犯罪网络的行动。",
-  "url": "https://x.com/WhiteHouse/status/2112962938969497655"
- },
- {
-  "id": "2112956889004679566",
-  "created_at": "2026-10-21T17:19:13Z",
-  "user": "USTreasury",
-  "text": "Treasury sanctioned Panama- and Greece-based law firm Karnakis and Karnakis, shipping agents, and vessels which have supported illicit Iranian shipping activity.",
-  "zh": "美国财政部：制裁巴拿马和希腊的一家律所及多家航运代理和船只，理由是协助伊朗非法航运、为德黑兰创收。",
-  "url": "https://x.com/USTreasury/status/2112956889004679566"
- },
- {
-  "id": "2112950704327520260",
-  "created_at": "2026-10-21T16:54:39Z",
-  "user": "elonmusk",
-  "text": "Starlink moves the needle — quoting: United CEO says customers are switching from other airlines because of Starlink; United will cross 50% of flights with Starlink this week",
-  "zh": "马斯克：星链真能带来改变。（美联航 CEO 称有乘客因星链从别家航司转来，本周超半数航班装上星链，明年底全机队完成）",
-  "url": "https://x.com/elonmusk/status/2112950704327520260"
- },
- {
-  "id": "2112945705757315307",
-  "created_at": "2026-10-21T16:34:47Z",
-  "user": "sundarpichai",
-  "text": "Great to sit down with @alexeheath to talk about Argon, the frontier, and our plans for personal agents! — quoting: Sundar Pichai on Gemini 4 and the AI compute crunch. Even Google can't get enough compute.",
-  "zh": "皮查伊：接受专访谈 Gemini 4 Argon 和个人智能体计划，坦言连谷歌也算力不够用。",
-  "url": "https://x.com/sundarpichai/status/2112945705757315307"
- },
- {
-  "id": "2112920354230296993",
-  "created_at": "2026-10-21T14:54:03Z",
+  "id": "2114105704089100458",
+  "created_at": "2026-10-24T21:24:12Z",
   "user": "nvidia",
-  "text": "Demand for compute is extraordinary. We're working with Amkor, IBIDEN, KYEC, Samsung Electro-Mechanics, SPIL, and Unimicron to expand our supply around the world.",
-  "zh": "英伟达：算力需求异常旺盛，正与安靠、揖斐电、京元电、三星电机、矽品、欣兴六家伙伴扩充全球供应，从零部件到先进封装测试。",
-  "url": "https://x.com/nvidia/status/2112920354230296993"
+  "text": "Europe has spent generations mastering science, engineering, and manufacturing. That knowledge and expertise can now power AI of its own. “Let’s work together to build Europe’s AI economy and put AI to work.” — @JensenHuang at GTC Berlin",
+  "zh": "黄仁勋：在GTC柏林大会上称，欧洲几代人积累的科学、工程和制造能力，如今可以支撑它自己的AI，呼吁共建欧洲AI经济。",
+  "url": "https://x.com/nvidia/status/2114105704089100458"
  },
  {
-  "id": "2112907856018309586",
-  "created_at": "2026-10-21T14:04:23Z",
-  "user": "OpenAI",
-  "text": "OpenAI models helped researchers discover critical security flaws in PHP, used to run an estimated 70% of websites.",
-  "zh": "OpenAI：旗下模型协助研究人员在 PHP 中发现严重安全漏洞，全球约 70% 网站使用 PHP。",
-  "url": "https://x.com/OpenAI/status/2112907856018309586"
- },
- {
-  "id": "2112899854569762936",
-  "created_at": "2026-10-21T13:32:35Z",
-  "user": "OpenAI",
-  "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?",
-  "zh": "OpenAI：GPT-Rosalind 发现一条新药研发线索，恢复胆固醇转运或可保护神经元免于退化。",
-  "url": "https://x.com/OpenAI/status/2112899854569762936"
- },
- {
-  "id": "2112882448530800716",
-  "created_at": "2026-10-21T12:23:25Z",
-  "user": "nvidia",
-  "text": "We introduced DSX POD at NVIDIA GTC Berlin: AI factories integrated and tested before delivery, deployable at prepared sites in as little as 14 days.",
-  "zh": "英伟达：GTC 柏林大会发布 DSX POD，AI 工厂出厂前完成集成测试，最快 14 天即可在现场部署。",
-  "url": "https://x.com/nvidia/status/2112882448530800716"
- },
- {
-  "id": "2112875664743563709",
-  "created_at": "2026-10-21T11:56:28Z",
-  "user": "WhiteHouse",
-  "text": "President Donald J. Trump announces the release of Stephen Hubbard, taken four years ago by Russia during the Biden Administration.",
-  "zh": "白宫：特朗普宣布被俄罗斯关押四年的美国人斯蒂芬·哈伯德获释回国。",
-  "url": "https://x.com/WhiteHouse/status/2112875664743563709"
+  "id": "2113799050877452321",
+  "created_at": "2026-10-24T01:05:40Z",
+  "user": "tim_cook",
+  "text": "Welcome to the world, iPhone Duo! It’s such a delight to see the excitement of our customers around the world as they experience the magic of iPhone Duo for the very first time.",
+  "zh": "库克：iPhone Duo 正式开售，全球用户首次上手。",
+  "url": "https://x.com/tim_cook/status/2113799050877452321"
  }
 ]
