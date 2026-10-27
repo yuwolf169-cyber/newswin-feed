@@ -1,5 +1,77 @@
 [
  {
+  "id": "2114827978748383342",
+  "created_at": "2026-10-26T21:14:16Z",
+  "user": "nvidia",
+  "text": "SimBioSys' FDA-cleared TumorSight Risk, powered by NVIDIA, analyzes an existing breast MRI alongside pathology to help assess breast cancer recurrence risk.",
+  "zh": "英伟达：SimBioSys 用英伟达技术的 TumorSight Risk 获 FDA 批准，结合乳腺 MRI 和病理评估乳腺癌复发风险。",
+  "url": "https://x.com/nvidia/status/2114827978748383342"
+ },
+ {
+  "id": "2114780711664398349",
+  "created_at": "2026-10-26T18:06:27Z",
+  "user": "OpenAI",
+  "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.",
+  "zh": "OpenAI：发布 GPT-6.1 Terra，主打更快、更便宜的电脑操作能力，能看懂屏幕并跨应用执行任务。",
+  "url": "https://x.com/OpenAI/status/2114780711664398349"
+ },
+ {
+  "id": "2114772404463337693",
+  "created_at": "2026-10-26T17:33:26Z",
+  "user": "elonmusk",
+  "text": "Supervised FSD approved in Latvia! — quoting @Tesla_Europe: Tesla FSD Supervised (Tesla Assisted Driving in Europe) approved in Latvia, the 10th European country.",
+  "zh": "马斯克：特斯拉监督版 FSD 获拉脱维亚批准，已是第 10 个放行的欧洲国家。",
+  "url": "https://x.com/elonmusk/status/2114772404463337693"
+ },
+ {
+  "id": "2114764208399421635",
+  "created_at": "2026-10-26T17:00:52Z",
+  "user": "elonmusk",
+  "text": "It means entire countries and cultures will go extinct forever — quoting: at 1.14 children per woman (Italy, Japan), each generation is roughly half the size of the one before.",
+  "zh": "马斯克：生育率 1.14（意大利、日本水平）意味着每代人口约减半，整个国家和文化会永久消失。",
+  "url": "https://x.com/elonmusk/status/2114764208399421635"
+ },
+ {
+  "id": "2114758101316288555",
+  "created_at": "2026-10-26T16:36:36Z",
+  "user": "federalreserve",
+  "text": "Be suspicious of unexpected emails claiming to be from the Federal Reserve. Scammers send fake fraud alerts and scare tactics to steal your financial information.",
+  "zh": "美联储：提醒警惕冒充美联储的邮件，骗子用假的欺诈警报吓人套取金融信息。",
+  "url": "https://x.com/federalreserve/status/2114758101316288555"
+ },
+ {
+  "id": "2114752343673577983",
+  "created_at": "2026-10-26T16:13:43Z",
+  "user": "USTreasury",
+  "text": "America's manufacturing sector has expanded for nine consecutive months, with 72,000 manufacturing jobs added in 2026 through September.",
+  "zh": "美国财政部：美国制造业已连续 9 个月扩张，2026 年前 9 个月新增 7.2 万个制造业岗位。",
+  "url": "https://x.com/USTreasury/status/2114752343673577983"
+ },
+ {
+  "id": "2114750819094704138",
+  "created_at": "2026-10-26T16:07:40Z",
+  "user": "WhiteHouse",
+  "text": "Audi is investing a historic $4 billion to build its FIRST-EVER production facility in the United States.",
+  "zh": "白宫：奥迪将投资 40 亿美元建其首座美国工厂，称是关税和制造业回流政策的成果。",
+  "url": "https://x.com/WhiteHouse/status/2114750819094704138"
+ },
+ {
+  "id": "2114707637506117956",
+  "created_at": "2026-10-26T13:16:04Z",
+  "user": "elonmusk",
+  "text": "Starlink coming to EasyJet — quoting: easyJet will install Starlink across its A320/A320neo/A321neo fleet from H1 2027, complete by early 2028.",
+  "zh": "马斯克：易捷航空将装星链，2027 上半年开始在 A320 系列机队安装，2028 年初完成。",
+  "url": "https://x.com/elonmusk/status/2114707637506117956"
+ },
+ {
+  "id": "2114705042817110293",
+  "created_at": "2026-10-26T13:05:46Z",
+  "user": "AnthropicAI",
+  "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.",
+  "zh": "Anthropic：已向美国证监会递交 S-1 招股文件，拟进行 IPO。",
+  "url": "https://x.com/AnthropicAI/status/2114705042817110293"
+ },
+ {
   "id": "2114513919566033266",
   "created_at": "2026-10-26T00:26:18Z",
   "user": "elonmusk",
@@ -38,13 +110,5 @@
   "text": "The way to think about this is: How many super smart and dedicated people do you want to hire? And they keep getting better. — quoting: GPUs are still renting ahead of a standard 6-year depreciation schedule (H200 +143%, B200 +111%, H100 +54%, A100 +9%)",
   "zh": "马斯克：评GPU租金仍远高于6年折旧曲线（H200高143%、H100高54%）——该这样想：你想雇多少超聪明又敬业的人？而且它们还在不断变强。",
   "url": "https://x.com/elonmusk/status/2114205004340854795"
- },
- {
-  "id": "2114105704089100458",
-  "created_at": "2026-10-24T21:24:12Z",
-  "user": "nvidia",
-  "text": "Europe has spent generations mastering science, engineering, and manufacturing. That knowledge and expertise can now power AI of its own. “Let’s work together to build Europe’s AI economy and put AI to work.” — @JensenHuang at GTC Berlin",
-  "zh": "黄仁勋：在GTC柏林大会上称，欧洲几代人积累的科学、工程和制造能力，如今可以支撑它自己的AI，呼吁共建欧洲AI经济。",
-  "url": "https://x.com/nvidia/status/2114105704089100458"
  }
 ]
