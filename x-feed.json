@@ -1,5 +1,93 @@
 [
  {
+  "id": "2115207004293853358",
+  "created_at": "2026-10-27T22:20:23Z",
+  "user": "AnthropicAI",
+  "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.",
+  "zh": "Anthropic：与美国总务署扩大合作，按新 OneGov 协议，Claude 以四折优惠（减40%）提供给联邦、州及地方政府。",
+  "url": "https://x.com/AnthropicAI/status/2115207004293853358"
+ },
+ {
+  "id": "2115199197162967313",
+  "created_at": "2026-10-27T21:49:21Z",
+  "user": "WhiteHouse",
+  "text": "U.S. consumer confidence rises sharply in October.",
+  "zh": "白宫：美国10月消费者信心大幅回升。",
+  "url": "https://x.com/WhiteHouse/status/2115199197162967313"
+ },
+ {
+  "id": "2115178675050307942",
+  "created_at": "2026-10-27T20:27:48Z",
+  "user": "AnthropicAI",
+  "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.",
+  "zh": "Anthropic：过去几个月与六家新药研发机构深度合作，并已启动自己的药物发现项目。",
+  "url": "https://x.com/AnthropicAI/status/2115178675050307942"
+ },
+ {
+  "id": "2115174666914631686",
+  "created_at": "2026-10-27T20:11:53Z",
+  "user": "WhiteHouse",
+  "text": "The first shipment from the historic Venezuela oil deal arrives TODAY in Corpus Christi, Texas! ... this oil will belong to America and will be refined at home, increasing domestic supply and LOWERING PRICES at the pump.",
+  "zh": "白宫：委内瑞拉石油协议首批原油今天运抵得州科珀斯克里斯蒂，将在美国本土炼化，增加国内供应、压低油价。",
+  "url": "https://x.com/WhiteHouse/status/2115174666914631686"
+ },
+ {
+  "id": "2115164253124510036",
+  "created_at": "2026-10-27T19:30:30Z",
+  "user": "SECGov",
+  "text": "NEW: The SEC's Division of Trading and Markets created an Innovation Exemption website with related FAQs, a list of persons that submitted TSV notices, and contact information.",
+  "zh": "美国证监会：交易与市场部上线「创新豁免」专题网站，含常见问答、已提交通知的机构名单及联系方式。",
+  "url": "https://x.com/SECGov/status/2115164253124510036"
+ },
+ {
+  "id": "2115129428158087498",
+  "created_at": "2026-10-27T17:12:07Z",
+  "user": "NASA",
+  "text": "Tune in on Oct. 29 at 6:30am ET (1030 UTC) to watch two astronauts deploy a new solar array on the @Space_Station.",
+  "zh": "NASA：两名宇航员将于美东时间10月29日6:30（北京时间18:30）出舱，为国际空间站安装新太阳能电池阵，届时直播。",
+  "url": "https://x.com/NASA/status/2115129428158087498"
+ },
+ {
+  "id": "2115129139468673514",
+  "created_at": "2026-10-27T17:10:58Z",
+  "user": "elonmusk",
+  "text": "Good — quoting: THE CEASEFIRE HAS COMMENCED. The ceasefire between Ukraine and Russia took effect at 4:00am Moscow time on October 27, 2026, two days ahead of schedule.",
+  "zh": "马斯克：「好」——转评消息：俄乌停火已于莫斯科时间10月27日凌晨4点生效，比原计划提前两天。",
+  "url": "https://x.com/elonmusk/status/2115129139468673514"
+ },
+ {
+  "id": "2115115252690145519",
+  "created_at": "2026-10-27T16:15:47Z",
+  "user": "sundarpichai",
+  "text": "Excited to share Genie 4 today our most realistic and interactive world model: steer dynamic environments in real time... generate native audio matched to the world.",
+  "zh": "皮查伊：谷歌发布最逼真、交互性最强的世界模型 Genie 4，可实时操控动态环境，并生成匹配场景的原生音频。",
+  "url": "https://x.com/sundarpichai/status/2115115252690145519"
+ },
+ {
+  "id": "2115092766275543266",
+  "created_at": "2026-10-27T14:46:26Z",
+  "user": "elonmusk",
+  "text": "Starlink Brasil — quoting @Starlink: Starlink Mobile is now live in Brazil with @vivobr! 50M customers can use apps and messaging in cellular dead zones — with 7M phones already connected.",
+  "zh": "马斯克：星链手机直连服务已在巴西与 Vivo 合作上线，5000万用户可在无信号区用应用和发消息，已有700万部手机接入。",
+  "url": "https://x.com/elonmusk/status/2115092766275543266"
+ },
+ {
+  "id": "2115086429067850212",
+  "created_at": "2026-10-27T14:21:15Z",
+  "user": "esa",
+  "text": "Our Hera spacecraft can now see Didymos and Dimorphos as two separate asteroids! It will study the effects of NASA's 2022 DART impact and help advance asteroid deflection as a planetary defence technique.",
+  "zh": "欧空局：Hera 探测器已能分辨双小行星 Didymos 和 Dimorphos，将研究 NASA 2022 年 DART 撞击效果，推进小行星偏转防御技术。",
+  "url": "https://x.com/esa/status/2115086429067850212"
+ },
+ {
+  "id": "2115082768111775775",
+  "created_at": "2026-10-27T14:06:42Z",
+  "user": "federalreserve",
+  "text": "Tomorrow at 2:30 p.m. ET: Chairman Warsh hosts live #FOMC press conference",
+  "zh": "美联储：主席沃什将于美东时间周三14:30（北京时间周四凌晨2:30）召开 FOMC 议息新闻发布会。",
+  "url": "https://x.com/federalreserve/status/2115082768111775775"
+ },
+ {
   "id": "2115004840321659292",
   "created_at": "2026-10-27T08:57:03Z",
   "user": "SpaceX",
@@ -94,29 +182,5 @@
   "text": "Starship Flight 15 static fire — quoting @SpaceX: Full duration 33-engine static fire for the Super Heavy booster preparing for Flight 15",
   "zh": "马斯克：星舰第15次试飞的超重型助推器完成33台发动机全时长静态点火测试。",
   "url": "https://x.com/elonmusk/status/2114513919566033266"
- },
- {
-  "id": "2114484649430798432",
-  "created_at": "2026-10-25T22:30:00Z",
-  "user": "NASA",
-  "text": "October’s full moon, named the Hunter’s Moon, will rise on the night of Oct. 26.",
-  "zh": "NASA：10月满月“狩猎月”将于10月26日夜间升起。",
-  "url": "https://x.com/NASA/status/2114484649430798432"
- },
- {
-  "id": "2114444137067844004",
-  "created_at": "2026-10-25T19:49:01Z",
-  "user": "SpaceX",
-  "text": "Full duration 33-engine static fire for the Super Heavy booster preparing for Flight 15",
-  "zh": "SpaceX：星舰第15次飞行的超重型助推器完成33台发动机全时长静态点火。",
-  "url": "https://x.com/SpaceX/status/2114444137067844004"
- },
- {
-  "id": "2114394551158722793",
-  "created_at": "2026-10-25T16:31:59Z",
-  "user": "WhiteHouse",
-  "text": "The illegal immigrant population is collapsing. Down 2.3 MILLION+ since President Trump took office.",
-  "zh": "白宫：称特朗普上任以来美国非法移民人口减少逾230万。",
-  "url": "https://x.com/WhiteHouse/status/2114394551158722793"
  }
 ]
