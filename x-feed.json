@@ -1,5 +1,85 @@
 [
  {
+  "id": "2115577764300693644",
+  "created_at": "2026-10-28T22:53:39Z",
+  "user": "satyanadella",
+  "text": "Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY.",
+  "zh": "纳德拉：微软财报电话会结束，新财年开局强劲，微软云收入超630亿美元，同比增速加快至30%。",
+  "url": "https://x.com/satyanadella/status/2115577764300693644"
+ },
+ {
+  "id": "2115555403312287772",
+  "created_at": "2026-10-28T21:24:47Z",
+  "user": "USTreasury",
+  "text": "@SecScottBessent: Operation Economic Outcast ... the toughest operation ever to isolate a single economy",
+  "zh": "美国财政部：贝森特称“经济弃儿行动”已满八周，是史上孤立单一经济体最严厉的行动。",
+  "url": "https://x.com/USTreasury/status/2115555403312287772"
+ },
+ {
+  "id": "2115535455156642066",
+  "created_at": "2026-10-28T20:05:31Z",
+  "user": "sundarpichai",
+  "text": "Q3 is in the books! We're now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%. Our AI investments are driving overall Search query growth...",
+  "zh": "皮查伊：Alphabet三季度年化收入达5000亿美元，营收增长25%，AI投入推动搜索查询量创五年最高增速。",
+  "url": "https://x.com/sundarpichai/status/2115535455156642066"
+ },
+ {
+  "id": "2115504207977435556",
+  "created_at": "2026-10-28T18:01:22Z",
+  "user": "federalreserve",
+  "text": "Federal Reserve issues #FOMC statement",
+  "zh": "美联储：发布10月FOMC议息会议声明，主席沃什随后召开新闻发布会。",
+  "url": "https://x.com/federalreserve/status/2115504207977435556"
+ },
+ {
+  "id": "2115503730368061688",
+  "created_at": "2026-10-28T17:59:28Z",
+  "user": "elonmusk",
+  "text": "Impressive — quoting @sundarpichai: introducing Gemini 4 Carbon, our next frontier model.",
+  "zh": "马斯克：评谷歌发布 Gemini 4 Carbon 模型——“令人印象深刻”。",
+  "url": "https://x.com/elonmusk/status/2115503730368061688"
+ },
+ {
+  "id": "2115494289488953462",
+  "created_at": "2026-10-28T17:21:57Z",
+  "user": "tim_cook",
+  "text": "We brought Touch to the Mac! ... MacBook Pro with PROLED XDR Display and Touch",
+  "zh": "库克：苹果首次为 Mac 带来触屏，推出配 PROLED XDR 触控屏的 MacBook Pro，并发布新 iPad mini 和 iMac。",
+  "url": "https://x.com/tim_cook/status/2115494289488953462"
+ },
+ {
+  "id": "2115492556570022399",
+  "created_at": "2026-10-28T17:15:04Z",
+  "user": "WhiteHouse",
+  "text": "Slashing costly methane regulations ... $45 billion in regulatory savings. 210 MILLION barrels of U.S. oil will be released.",
+  "zh": "白宫：削减甲烷监管，预计节省450亿美元监管成本，释放2.1亿桶石油和1.4万亿立方英尺天然气产量。",
+  "url": "https://x.com/WhiteHouse/status/2115492556570022399"
+ },
+ {
+  "id": "2115490856685990244",
+  "created_at": "2026-10-28T17:08:18Z",
+  "user": "satyanadella",
+  "text": "GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost",
+  "zh": "纳德拉：GitHub Universe 发布 Copilot Fusion，前沿级质量，速度快40%，成本最多低77%。",
+  "url": "https://x.com/satyanadella/status/2115490856685990244"
+ },
+ {
+  "id": "2115489219804352921",
+  "created_at": "2026-10-28T17:01:48Z",
+  "user": "sundarpichai",
+  "text": "introducing Gemini 4 Carbon, our next frontier model. Following Argon's release just two weeks ago... it ranks #1 on the recently updated v5.0 of @ArtificialAnlys",
+  "zh": "皮查伊：谷歌发布新一代前沿模型 Gemini 4 Carbon，距 Argon 发布仅两周，在 Artificial Analysis v5.0 榜单排名第一。",
+  "url": "https://x.com/sundarpichai/status/2115489219804352921"
+ },
+ {
+  "id": "2115476295169814978",
+  "created_at": "2026-10-28T16:10:27Z",
+  "user": "SpaceX",
+  "text": "Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire",
+  "zh": "SpaceX：星舰第15次试飞的42号飞船完成六台发动机全时长静态点火测试。",
+  "url": "https://x.com/SpaceX/status/2115476295169814978"
+ },
+ {
   "id": "2115324467295756543",
   "created_at": "2026-10-28T06:07:08Z",
   "user": "elonmusk",
@@ -110,77 +190,5 @@
   "text": "NVIDIA and @Meta will expand our partnership on @Muse models to improve inference and training performance. Together, we’re exploring NVIDIA OpenShell for safe AI agent deployment and NVIDIA Sentry for monitoring agent behavior. Meta plans broader deployments of NVIDIA Vera",
   "zh": "英伟达：将与 Meta 扩大在 Muse 模型上的合作，提升推理和训练性能；双方正探索用 OpenShell 安全部署 AI 智能体、用 Sentry 监控智能体行为，Meta 还计划更大规模部署英伟达 Vera。",
   "url": "https://x.com/nvidianewsroom/status/2114960962734412112"
- },
- {
-  "id": "2114827978748383342",
-  "created_at": "2026-10-26T21:14:16Z",
-  "user": "nvidia",
-  "text": "SimBioSys' FDA-cleared TumorSight Risk, powered by NVIDIA, analyzes an existing breast MRI alongside pathology to help assess breast cancer recurrence risk.",
-  "zh": "英伟达：SimBioSys 用英伟达技术的 TumorSight Risk 获 FDA 批准，结合乳腺 MRI 和病理评估乳腺癌复发风险。",
-  "url": "https://x.com/nvidia/status/2114827978748383342"
- },
- {
-  "id": "2114780711664398349",
-  "created_at": "2026-10-26T18:06:27Z",
-  "user": "OpenAI",
-  "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.",
-  "zh": "OpenAI：发布 GPT-6.1 Terra，主打更快、更便宜的电脑操作能力，能看懂屏幕并跨应用执行任务。",
-  "url": "https://x.com/OpenAI/status/2114780711664398349"
- },
- {
-  "id": "2114772404463337693",
-  "created_at": "2026-10-26T17:33:26Z",
-  "user": "elonmusk",
-  "text": "Supervised FSD approved in Latvia! — quoting @Tesla_Europe: Tesla FSD Supervised (Tesla Assisted Driving in Europe) approved in Latvia, the 10th European country.",
-  "zh": "马斯克：特斯拉监督版 FSD 获拉脱维亚批准，已是第 10 个放行的欧洲国家。",
-  "url": "https://x.com/elonmusk/status/2114772404463337693"
- },
- {
-  "id": "2114764208399421635",
-  "created_at": "2026-10-26T17:00:52Z",
-  "user": "elonmusk",
-  "text": "It means entire countries and cultures will go extinct forever — quoting: at 1.14 children per woman (Italy, Japan), each generation is roughly half the size of the one before.",
-  "zh": "马斯克：生育率 1.14（意大利、日本水平）意味着每代人口约减半，整个国家和文化会永久消失。",
-  "url": "https://x.com/elonmusk/status/2114764208399421635"
- },
- {
-  "id": "2114758101316288555",
-  "created_at": "2026-10-26T16:36:36Z",
-  "user": "federalreserve",
-  "text": "Be suspicious of unexpected emails claiming to be from the Federal Reserve. Scammers send fake fraud alerts and scare tactics to steal your financial information.",
-  "zh": "美联储：提醒警惕冒充美联储的邮件，骗子用假的欺诈警报吓人套取金融信息。",
-  "url": "https://x.com/federalreserve/status/2114758101316288555"
- },
- {
-  "id": "2114752343673577983",
-  "created_at": "2026-10-26T16:13:43Z",
-  "user": "USTreasury",
-  "text": "America's manufacturing sector has expanded for nine consecutive months, with 72,000 manufacturing jobs added in 2026 through September.",
-  "zh": "美国财政部：美国制造业已连续 9 个月扩张，2026 年前 9 个月新增 7.2 万个制造业岗位。",
-  "url": "https://x.com/USTreasury/status/2114752343673577983"
- },
- {
-  "id": "2114750819094704138",
-  "created_at": "2026-10-26T16:07:40Z",
-  "user": "WhiteHouse",
-  "text": "Audi is investing a historic $4 billion to build its FIRST-EVER production facility in the United States.",
-  "zh": "白宫：奥迪将投资 40 亿美元建其首座美国工厂，称是关税和制造业回流政策的成果。",
-  "url": "https://x.com/WhiteHouse/status/2114750819094704138"
- },
- {
-  "id": "2114707637506117956",
-  "created_at": "2026-10-26T13:16:04Z",
-  "user": "elonmusk",
-  "text": "Starlink coming to EasyJet — quoting: easyJet will install Starlink across its A320/A320neo/A321neo fleet from H1 2027, complete by early 2028.",
-  "zh": "马斯克：易捷航空将装星链，2027 上半年开始在 A320 系列机队安装，2028 年初完成。",
-  "url": "https://x.com/elonmusk/status/2114707637506117956"
- },
- {
-  "id": "2114705042817110293",
-  "created_at": "2026-10-26T13:05:46Z",
-  "user": "AnthropicAI",
-  "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.",
-  "zh": "Anthropic：已向美国证监会递交 S-1 招股文件，拟进行 IPO。",
-  "url": "https://x.com/AnthropicAI/status/2114705042817110293"
  }
 ]
