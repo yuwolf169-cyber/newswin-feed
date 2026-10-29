@@ -214,13 +214,5 @@
   "text": "Falcon 9 launches 27 @Starlink satellites from California",
   "zh": "SpaceX：猎鹰9号从加州发射27颗星链卫星。",
   "url": "https://x.com/SpaceX/status/2115004840321659292"
- },
- {
-  "id": "2114960962734412112",
-  "created_at": "2026-10-27T06:02:42Z",
-  "user": "nvidianewsroom",
-  "text": "NVIDIA and @Meta will expand our partnership on @Muse models to improve inference and training performance. Together, we’re exploring NVIDIA OpenShell for safe AI agent deployment and NVIDIA Sentry for monitoring agent behavior. Meta plans broader deployments of NVIDIA Vera",
-  "zh": "英伟达：将与 Meta 扩大在 Muse 模型上的合作，提升推理和训练性能；双方正探索用 OpenShell 安全部署 AI 智能体、用 Sentry 监控智能体行为，Meta 还计划更大规模部署英伟达 Vera。",
-  "url": "https://x.com/nvidianewsroom/status/2114960962734412112"
  }
 ]
