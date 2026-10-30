@@ -1,5 +1,69 @@
 [
  {
+  "id": "2115935053347786773",
+  "created_at": "2026-10-29T22:33:23Z",
+  "user": "elonmusk",
+  "text": "Everyday is Zeroday — quoting: BREAKING: Binance has been hacked with wallets across the Ethereum, Bitcoin, and TRON networks seeing outflows of -$5.7 billion. The hack includes $1.45 billion worth of Bitcoin and $875 million worth of ETH. If confirmed, this would mark the biggest hack in crypto history.",
+  "zh": "马斯克：“每天都是零日漏洞日”——转引消息称币安疑遭黑客攻击，以太坊、比特币、波场链上钱包流出约57亿美元（含14.5亿美元比特币、8.75亿美元ETH），若属实将是加密史上最大黑客事件。",
+  "url": "https://x.com/elonmusk/status/2115935053347786773"
+ },
+ {
+  "id": "2115900247230537920",
+  "created_at": "2026-10-29T20:15:05Z",
+  "user": "NASA",
+  "text": "NASA's Dragonfly mission will launch in 2028 to explore the dunes, lakes, and rivers of Saturn's moon, Titan, and your name can come along!",
+  "zh": "NASA：“蜻蜓号”任务将于2028年发射，探索土卫六的沙丘、湖泊和河流，公众可报名把名字送上探测器。",
+  "url": "https://x.com/NASA/status/2115900247230537920"
+ },
+ {
+  "id": "2115896329645723836",
+  "created_at": "2026-10-29T19:59:31Z",
+  "user": "OpenAI",
+  "text": "Today, we're sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model's attempt to access the live internet during training.",
+  "zh": "OpenAI：公开扩展后的前沿模型监控系统，9月曾借此发现一个模型在训练中试图访问真实互联网。",
+  "url": "https://x.com/OpenAI/status/2115896329645723836"
+ },
+ {
+  "id": "2115883180926414989",
+  "created_at": "2026-10-29T19:07:16Z",
+  "user": "USTreasury",
+  "text": "Today's Q3 GDP report confirms that a new American industrial supercycle is underway. Growth beat expectations yet again at 3.4%, household demand remained robust, and equipment investment posted its fastest Q1–Q3 pace since 2010.",
+  "zh": "美国财政部：三季度GDP增长3.4%再超预期，居民需求稳健，设备投资创2010年以来同期最快，称美国工业“超级周期”已开启。",
+  "url": "https://x.com/USTreasury/status/2115883180926414989"
+ },
+ {
+  "id": "2115871889549865429",
+  "created_at": "2026-10-29T18:22:24Z",
+  "user": "AnthropicAI",
+  "text": "We've trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation.",
+  "zh": "Anthropic：训练Claude在每次回复后对对话做初步安全自评（self-assessment），用于发现潜在滥用，6月启用以来已查出其他手段漏掉的滥用。",
+  "url": "https://x.com/AnthropicAI/status/2115871889549865429"
+ },
+ {
+  "id": "2115825787647496203",
+  "created_at": "2026-10-29T15:19:12Z",
+  "user": "elonmusk",
+  "text": "Our civilization would be winning wondrously if we are exploring the galaxy with Von Neumann probes by 2100! Larry Page might be right. He has correctly predicted many things.",
+  "zh": "马斯克：如果到2100年人类能用冯·诺依曼探测器探索银河系，文明就赢麻了；拉里·佩奇可能是对的，他预言对过很多事。",
+  "url": "https://x.com/elonmusk/status/2115825787647496203"
+ },
+ {
+  "id": "2115825653539025142",
+  "created_at": "2026-10-29T15:18:40Z",
+  "user": "AnthropicAI",
+  "text": "We've expanded our AI for Science program beyond individual teams to support some of the world's leading scientific foundations, institutions, and research groups.",
+  "zh": "Anthropic：AI for Science 计划扩大，从单个团队扩展到支持全球顶尖科学基金会、机构和研究组。",
+  "url": "https://x.com/AnthropicAI/status/2115825653539025142"
+ },
+ {
+  "id": "2115765869196251319",
+  "created_at": "2026-10-29T11:21:06Z",
+  "user": "esa",
+  "text": "We've signed three new contracts in Norway to strengthen the resilience of satellite navigation. The projects focus on GNSS interference testing, maritime navigation and drones operating in challenging environments.",
+  "zh": "欧空局：在挪威签下三份新合同，增强卫星导航抗干扰能力，涉及GNSS干扰测试、海上导航和复杂环境无人机。",
+  "url": "https://x.com/esa/status/2115765869196251319"
+ },
+ {
   "id": "2115753332958433574",
   "created_at": "2026-10-29T10:31:18Z",
   "user": "NASA",
@@ -126,93 +190,5 @@
   "text": "10k Starship launches/year is just from Starbase Louisiana — quoting: In a comment to the FAA, SpaceX says it wants to launch 10,000 times per year. The FAA asked for input on where to build new spaceports and how to give rocket launches priority in US airspace. They're preparing for 10,000 launches a year by 2035. SpaceX replied that rockets",
   "zh": "马斯克：星舰每年1万次发射仅来自路易斯安那星基地 — 援引：SpaceX向FAA称希望每年发射1万次",
   "url": "https://x.com/elonmusk/status/2115324467295756543"
- },
- {
-  "id": "2115207004293853358",
-  "created_at": "2026-10-27T22:20:23Z",
-  "user": "AnthropicAI",
-  "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.",
-  "zh": "Anthropic：与美国总务署扩大合作，按新 OneGov 协议，Claude 以四折优惠（减40%）提供给联邦、州及地方政府。",
-  "url": "https://x.com/AnthropicAI/status/2115207004293853358"
- },
- {
-  "id": "2115199197162967313",
-  "created_at": "2026-10-27T21:49:21Z",
-  "user": "WhiteHouse",
-  "text": "U.S. consumer confidence rises sharply in October.",
-  "zh": "白宫：美国10月消费者信心大幅回升。",
-  "url": "https://x.com/WhiteHouse/status/2115199197162967313"
- },
- {
-  "id": "2115178675050307942",
-  "created_at": "2026-10-27T20:27:48Z",
-  "user": "AnthropicAI",
-  "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.",
-  "zh": "Anthropic：过去几个月与六家新药研发机构深度合作，并已启动自己的药物发现项目。",
-  "url": "https://x.com/AnthropicAI/status/2115178675050307942"
- },
- {
-  "id": "2115174666914631686",
-  "created_at": "2026-10-27T20:11:53Z",
-  "user": "WhiteHouse",
-  "text": "The first shipment from the historic Venezuela oil deal arrives TODAY in Corpus Christi, Texas! ... this oil will belong to America and will be refined at home, increasing domestic supply and LOWERING PRICES at the pump.",
-  "zh": "白宫：委内瑞拉石油协议首批原油今天运抵得州科珀斯克里斯蒂，将在美国本土炼化，增加国内供应、压低油价。",
-  "url": "https://x.com/WhiteHouse/status/2115174666914631686"
- },
- {
-  "id": "2115164253124510036",
-  "created_at": "2026-10-27T19:30:30Z",
-  "user": "SECGov",
-  "text": "NEW: The SEC's Division of Trading and Markets created an Innovation Exemption website with related FAQs, a list of persons that submitted TSV notices, and contact information.",
-  "zh": "美国证监会：交易与市场部上线「创新豁免」专题网站，含常见问答、已提交通知的机构名单及联系方式。",
-  "url": "https://x.com/SECGov/status/2115164253124510036"
- },
- {
-  "id": "2115129428158087498",
-  "created_at": "2026-10-27T17:12:07Z",
-  "user": "NASA",
-  "text": "Tune in on Oct. 29 at 6:30am ET (1030 UTC) to watch two astronauts deploy a new solar array on the @Space_Station.",
-  "zh": "NASA：两名宇航员将于美东时间10月29日6:30（北京时间18:30）出舱，为国际空间站安装新太阳能电池阵，届时直播。",
-  "url": "https://x.com/NASA/status/2115129428158087498"
- },
- {
-  "id": "2115129139468673514",
-  "created_at": "2026-10-27T17:10:58Z",
-  "user": "elonmusk",
-  "text": "Good — quoting: THE CEASEFIRE HAS COMMENCED. The ceasefire between Ukraine and Russia took effect at 4:00am Moscow time on October 27, 2026, two days ahead of schedule.",
-  "zh": "马斯克：「好」——转评消息：俄乌停火已于莫斯科时间10月27日凌晨4点生效，比原计划提前两天。",
-  "url": "https://x.com/elonmusk/status/2115129139468673514"
- },
- {
-  "id": "2115115252690145519",
-  "created_at": "2026-10-27T16:15:47Z",
-  "user": "sundarpichai",
-  "text": "Excited to share Genie 4 today our most realistic and interactive world model: steer dynamic environments in real time... generate native audio matched to the world.",
-  "zh": "皮查伊：谷歌发布最逼真、交互性最强的世界模型 Genie 4，可实时操控动态环境，并生成匹配场景的原生音频。",
-  "url": "https://x.com/sundarpichai/status/2115115252690145519"
- },
- {
-  "id": "2115092766275543266",
-  "created_at": "2026-10-27T14:46:26Z",
-  "user": "elonmusk",
-  "text": "Starlink Brasil — quoting @Starlink: Starlink Mobile is now live in Brazil with @vivobr! 50M customers can use apps and messaging in cellular dead zones — with 7M phones already connected.",
-  "zh": "马斯克：星链手机直连服务已在巴西与 Vivo 合作上线，5000万用户可在无信号区用应用和发消息，已有700万部手机接入。",
-  "url": "https://x.com/elonmusk/status/2115092766275543266"
- },
- {
-  "id": "2115086429067850212",
-  "created_at": "2026-10-27T14:21:15Z",
-  "user": "esa",
-  "text": "Our Hera spacecraft can now see Didymos and Dimorphos as two separate asteroids! It will study the effects of NASA's 2022 DART impact and help advance asteroid deflection as a planetary defence technique.",
-  "zh": "欧空局：Hera 探测器已能分辨双小行星 Didymos 和 Dimorphos，将研究 NASA 2022 年 DART 撞击效果，推进小行星偏转防御技术。",
-  "url": "https://x.com/esa/status/2115086429067850212"
- },
- {
-  "id": "2115082768111775775",
-  "created_at": "2026-10-27T14:06:42Z",
-  "user": "federalreserve",
-  "text": "Tomorrow at 2:30 p.m. ET: Chairman Warsh hosts live #FOMC press conference",
-  "zh": "美联储：主席沃什将于美东时间周三14:30（北京时间周四凌晨2:30）召开 FOMC 议息新闻发布会。",
-  "url": "https://x.com/federalreserve/status/2115082768111775775"
  }
 ]
