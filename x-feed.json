@@ -1,218 +1,42 @@
 [
  {
-  "id": "2116035373361230325",
-  "created_at": "2026-10-30T05:12:01Z",
-  "user": "elonmusk",
-  "text": "The Terafab project is going well — quoting: Terafab is moving forward at lightning speed because the engineers themselves have the authority to make decisions (Korea's The Elec, citing a Korean supplier executive)",
-  "zh": "马斯克：Terafab 项目进展顺利（转引韩国 The Elec：供应商高管称 Terafab 推进极快，工程师自己有决策权）",
-  "url": "https://x.com/elonmusk/status/2116035373361230325"
- },
- {
-  "id": "2116034741224784288",
-  "created_at": "2026-10-30T05:09:30Z",
-  "user": "elonmusk",
-  "text": "True — quoting: It's almost incomprehensible how wide the distance is between someone who's working at the frontier with AI and basically everyone else right now. The lines are not converging, but only growing farther apart.",
-  "zh": "马斯克：赞同“AI 前沿从业者与其他所有人之间的差距大到难以想象，而且还在越拉越大”",
-  "url": "https://x.com/elonmusk/status/2116034741224784288"
- },
- {
-  "id": "2116019939056513218",
-  "created_at": "2026-10-30T04:10:41Z",
-  "user": "elonmusk",
-  "text": "Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see. It is ready from an engineering standpoint. Just waiting on regulatory approval.",
-  "zh": "马斯克：Neuralink 第二款产品叫 Blindsight，能让完全失明甚至天生失明的人看见；工程上已就绪，只等监管批准。",
-  "url": "https://x.com/elonmusk/status/2116019939056513218"
- },
- {
-  "id": "2116018780111597911",
-  "created_at": "2026-10-30T04:06:05Z",
-  "user": "elonmusk",
-  "text": "Neuralink's first product is called Telepathy. It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.",
-  "zh": "马斯克：Neuralink 首款产品名为 Telepathy，只靠意念就能与电脑或他人高速交流，几年内输出速度将远超最快的说话和打字。",
-  "url": "https://x.com/elonmusk/status/2116018780111597911"
- },
- {
-  "id": "2115935053347786773",
-  "created_at": "2026-10-29T22:33:23Z",
-  "user": "elonmusk",
-  "text": "Everyday is Zeroday — quoting: BREAKING: Binance has been hacked with wallets across the Ethereum, Bitcoin, and TRON networks seeing outflows of -$5.7 billion. The hack includes $1.45 billion worth of Bitcoin and $875 million worth of ETH. If confirmed, this would mark the biggest hack in crypto history.",
-  "zh": "马斯克：“每天都是零日漏洞日”——转引消息称币安疑遭黑客攻击，以太坊、比特币、波场链上钱包流出约57亿美元（含14.5亿美元比特币、8.75亿美元ETH），若属实将是加密史上最大黑客事件。",
-  "url": "https://x.com/elonmusk/status/2115935053347786773"
- },
- {
-  "id": "2115900247230537920",
-  "created_at": "2026-10-29T20:15:05Z",
-  "user": "NASA",
-  "text": "NASA's Dragonfly mission will launch in 2028 to explore the dunes, lakes, and rivers of Saturn's moon, Titan, and your name can come along!",
-  "zh": "NASA：“蜻蜓号”任务将于2028年发射，探索土卫六的沙丘、湖泊和河流，公众可报名把名字送上探测器。",
-  "url": "https://x.com/NASA/status/2115900247230537920"
- },
- {
-  "id": "2115896329645723836",
-  "created_at": "2026-10-29T19:59:31Z",
-  "user": "OpenAI",
-  "text": "Today, we're sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model's attempt to access the live internet during training.",
-  "zh": "OpenAI：公开扩展后的前沿模型监控系统，9月曾借此发现一个模型在训练中试图访问真实互联网。",
-  "url": "https://x.com/OpenAI/status/2115896329645723836"
- },
- {
-  "id": "2115883180926414989",
-  "created_at": "2026-10-29T19:07:16Z",
-  "user": "USTreasury",
-  "text": "Today's Q3 GDP report confirms that a new American industrial supercycle is underway. Growth beat expectations yet again at 3.4%, household demand remained robust, and equipment investment posted its fastest Q1–Q3 pace since 2010.",
-  "zh": "美国财政部：三季度GDP增长3.4%再超预期，居民需求稳健，设备投资创2010年以来同期最快，称美国工业“超级周期”已开启。",
-  "url": "https://x.com/USTreasury/status/2115883180926414989"
- },
- {
-  "id": "2115871889549865429",
-  "created_at": "2026-10-29T18:22:24Z",
-  "user": "AnthropicAI",
-  "text": "We've trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation.",
-  "zh": "Anthropic：训练Claude在每次回复后对对话做初步安全自评（self-assessment），用于发现潜在滥用，6月启用以来已查出其他手段漏掉的滥用。",
-  "url": "https://x.com/AnthropicAI/status/2115871889549865429"
- },
- {
-  "id": "2115825787647496203",
-  "created_at": "2026-10-29T15:19:12Z",
-  "user": "elonmusk",
-  "text": "Our civilization would be winning wondrously if we are exploring the galaxy with Von Neumann probes by 2100! Larry Page might be right. He has correctly predicted many things.",
-  "zh": "马斯克：如果到2100年人类能用冯·诺依曼探测器探索银河系，文明就赢麻了；拉里·佩奇可能是对的，他预言对过很多事。",
-  "url": "https://x.com/elonmusk/status/2115825787647496203"
- },
- {
-  "id": "2115825653539025142",
-  "created_at": "2026-10-29T15:18:40Z",
-  "user": "AnthropicAI",
-  "text": "We've expanded our AI for Science program beyond individual teams to support some of the world's leading scientific foundations, institutions, and research groups.",
-  "zh": "Anthropic：AI for Science 计划扩大，从单个团队扩展到支持全球顶尖科学基金会、机构和研究组。",
-  "url": "https://x.com/AnthropicAI/status/2115825653539025142"
- },
- {
-  "id": "2115765869196251319",
-  "created_at": "2026-10-29T11:21:06Z",
-  "user": "esa",
-  "text": "We've signed three new contracts in Norway to strengthen the resilience of satellite navigation. The projects focus on GNSS interference testing, maritime navigation and drones operating in challenging environments.",
-  "zh": "欧空局：在挪威签下三份新合同，增强卫星导航抗干扰能力，涉及GNSS干扰测试、海上导航和复杂环境无人机。",
-  "url": "https://x.com/esa/status/2115765869196251319"
- },
- {
-  "id": "2115753332958433574",
-  "created_at": "2026-10-29T10:31:18Z",
-  "user": "NASA",
-  "text": "LIVE: NASA's Anil Menon and @csa_asc's Joshua Kutryk are setting up a new solar array outside the @Space_Station. Today's spacewalk is scheduled to start around 8am ET (1200 UTC) and run for about six and a half hours.",
-  "zh": "NASA：宇航员阿尼尔·梅农与加拿大航天局的约书亚·库特里克正在国际空间站外安装新太阳能电池阵，本次太空行走约美东时间早8点开始，持续约6.5小时（直播中）。",
-  "url": "https://x.com/NASA/status/2115753332958433574"
- },
- {
-  "id": "2115641332035465243",
-  "created_at": "2026-10-29T03:06:14Z",
-  "user": "elonmusk",
-  "text": "Standard practice — quoting @unknown: Starlink Mobile is providing free connectivity to @orange_es and @Telefonica customers affected by the devastating train collision in Spain. Families, communities, and businesses with compatible LTE phones can stay connected via apps and texts even when cell towers are down",
-  "zh": "马斯克：标准做法——SpaceX 用星链移动为西班牙列车事故中橙与Telefonica受影响用户提供免费连接，即使基站断电也能用应用和短信",
-  "url": "https://x.com/elonmusk/status/2115641332035465243"
- },
- {
-  "id": "2115640651517939785",
-  "created_at": "2026-10-29T03:03:32Z",
-  "user": "elonmusk",
-  "text": "If you look closely enough, breakthroughs in everything are accelerating exponentially. An exponential always starts off looking small. — quoting @2358540265: this might be my last normal tweet before biotech goes vertical… there's a massive shift happening in human biology right now",
-  "zh": "马斯克：仔细看会发现，各领域突破都在指数加速；指数曲线一开始总显得很小 —— 引用：生物科技或将陡升，人体生物学正发生巨大转变",
-  "url": "https://x.com/elonmusk/status/2115640651517939785"
- },
- {
-  "id": "2115634093949911506",
-  "created_at": "2026-10-29T02:37:29Z",
-  "user": "elonmusk",
-  "text": "As the prophecy foretold, Starship 42 will be the first tower catch — quoting @SpaceX: Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn",
-  "zh": "马斯克：如预言所说，星舰42号将是首次塔架捕获 —— 引用SpaceX：42号完成静火，为第15次飞行做全时长六发静火并单台猛禽模拟离轨点火",
-  "url": "https://x.com/elonmusk/status/2115634093949911506"
- },
- {
-  "id": "2115602270775603617",
-  "created_at": "2026-10-29T00:31:01Z",
+  "id": "2117011225879970299",
+  "created_at": "2026-11-01T21:49:43Z",
   "user": "WhiteHouse",
-  "text": "Prices for key dairy products have decreased under President Trump.\n\nTangible results for American families. — quoting: AFFORDABILITY ALERT! THEN: Under Biden, prices for dairy products surged, with butter up 34.8%, milk up 24.3%, and American cheese up 20.6%! NOW: Under @POTUS, prices for ALL THREE are DOWN, with butter alone falling 19.4%!",
-  "zh": "白宫：特朗普任内主要乳制品价格下降（黄油较此前高峰回落约19%等），称给美国家庭带来实惠。",
-  "url": "https://x.com/WhiteHouse/status/2115602270775603617"
+  "text": "President Trump has delivered historic wins for America's fishing industry by putting American fishermen FIRST, unlocking billions of dollars in economic growth, revitalizing the industry, & providing critical regulatory relief.",
+  "zh": "白宫：特朗普为美国渔业放松监管、优先保护本国渔民，释放数十亿美元经济增长。",
+  "url": "https://x.com/WhiteHouse/status/2117011225879970299"
  },
  {
-  "id": "2115577764300693644",
-  "created_at": "2026-10-28T22:53:39Z",
-  "user": "satyanadella",
-  "text": "Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY.",
-  "zh": "纳德拉：微软财报电话会结束，新财年开局强劲，微软云收入超630亿美元，同比增速加快至30%。",
-  "url": "https://x.com/satyanadella/status/2115577764300693644"
- },
- {
-  "id": "2115555403312287772",
-  "created_at": "2026-10-28T21:24:47Z",
-  "user": "USTreasury",
-  "text": "@SecScottBessent: Operation Economic Outcast ... the toughest operation ever to isolate a single economy",
-  "zh": "美国财政部：贝森特称“经济弃儿行动”已满八周，是史上孤立单一经济体最严厉的行动。",
-  "url": "https://x.com/USTreasury/status/2115555403312287772"
- },
- {
-  "id": "2115535455156642066",
-  "created_at": "2026-10-28T20:05:31Z",
-  "user": "sundarpichai",
-  "text": "Q3 is in the books! We're now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%. Our AI investments are driving overall Search query growth...",
-  "zh": "皮查伊：Alphabet三季度年化收入达5000亿美元，营收增长25%，AI投入推动搜索查询量创五年最高增速。",
-  "url": "https://x.com/sundarpichai/status/2115535455156642066"
- },
- {
-  "id": "2115504207977435556",
-  "created_at": "2026-10-28T18:01:22Z",
-  "user": "federalreserve",
-  "text": "Federal Reserve issues #FOMC statement",
-  "zh": "美联储：发布10月FOMC议息会议声明，主席沃什随后召开新闻发布会。",
-  "url": "https://x.com/federalreserve/status/2115504207977435556"
- },
- {
-  "id": "2115503730368061688",
-  "created_at": "2026-10-28T17:59:28Z",
+  "id": "2116991729660575998",
+  "created_at": "2026-11-01T20:32:14Z",
   "user": "elonmusk",
-  "text": "Impressive — quoting @sundarpichai: introducing Gemini 4 Carbon, our next frontier model.",
-  "zh": "马斯克：评谷歌发布 Gemini 4 Carbon 模型——“令人印象深刻”。",
-  "url": "https://x.com/elonmusk/status/2115503730368061688"
+  "text": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours — quoting: SpaceXAI's Colossus 2 in Memphis is the world's most powerful AI data center, roughly 1.11 million H100 equivalents, ahead of OpenAI's Stargate.",
+  "zh": "马斯克：其他超算项目达不到目标，SpaceX 已经在实现我们的目标（引述：孟菲斯 Colossus 2 约合 111 万块 H100，是全球最强 AI 数据中心，领先 OpenAI 星际之门）。",
+  "url": "https://x.com/elonmusk/status/2116991729660575998"
  },
  {
-  "id": "2115494289488953462",
-  "created_at": "2026-10-28T17:21:57Z",
-  "user": "tim_cook",
-  "text": "We brought Touch to the Mac! ... MacBook Pro with PROLED XDR Display and Touch",
-  "zh": "库克：苹果首次为 Mac 带来触屏，推出配 PROLED XDR 触控屏的 MacBook Pro，并发布新 iPad mini 和 iMac。",
-  "url": "https://x.com/tim_cook/status/2115494289488953462"
+  "id": "2116551882219090231",
+  "created_at": "2026-10-31T15:24:27Z",
+  "user": "elonmusk",
+  "text": "Tesla and SpaceX have created meaningful wealth for hundreds of thousands of employees over time and improved the retirement savings of hundreds of millions of people",
+  "zh": "马斯克：特斯拉和 SpaceX 多年来为数十万员工创造了可观财富，也改善了数亿人的养老储蓄。",
+  "url": "https://x.com/elonmusk/status/2116551882219090231"
  },
  {
-  "id": "2115492556570022399",
-  "created_at": "2026-10-28T17:15:04Z",
-  "user": "WhiteHouse",
-  "text": "Slashing costly methane regulations ... $45 billion in regulatory savings. 210 MILLION barrels of U.S. oil will be released.",
-  "zh": "白宫：削减甲烷监管，预计节省450亿美元监管成本，释放2.1亿桶石油和1.4万亿立方英尺天然气产量。",
-  "url": "https://x.com/WhiteHouse/status/2115492556570022399"
- },
- {
-  "id": "2115490856685990244",
-  "created_at": "2026-10-28T17:08:18Z",
-  "user": "satyanadella",
-  "text": "GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost",
-  "zh": "纳德拉：GitHub Universe 发布 Copilot Fusion，前沿级质量，速度快40%，成本最多低77%。",
-  "url": "https://x.com/satyanadella/status/2115490856685990244"
- },
- {
-  "id": "2115489219804352921",
-  "created_at": "2026-10-28T17:01:48Z",
-  "user": "sundarpichai",
-  "text": "introducing Gemini 4 Carbon, our next frontier model. Following Argon's release just two weeks ago... it ranks #1 on the recently updated v5.0 of @ArtificialAnlys",
-  "zh": "皮查伊：谷歌发布新一代前沿模型 Gemini 4 Carbon，距 Argon 发布仅两周，在 Artificial Analysis v5.0 榜单排名第一。",
-  "url": "https://x.com/sundarpichai/status/2115489219804352921"
- },
- {
-  "id": "2115476295169814978",
-  "created_at": "2026-10-28T16:10:27Z",
+  "id": "2116401549828391177",
+  "created_at": "2026-10-31T05:27:04Z",
   "user": "SpaceX",
-  "text": "Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire",
-  "zh": "SpaceX：星舰第15次试飞的42号飞船完成六台发动机全时长静态点火测试。",
-  "url": "https://x.com/SpaceX/status/2115476295169814978"
+  "text": "Falcon 9 launches 27 @Starlink satellites from California",
+  "zh": "SpaceX：猎鹰9号从加州发射27颗星链卫星，部署成功。",
+  "url": "https://x.com/SpaceX/status/2116401549828391177"
+ },
+ {
+  "id": "2116349211549843666",
+  "created_at": "2026-10-31T01:59:06Z",
+  "user": "AnthropicAI",
+  "text": "New Anthropic research: Automating subtle emergent misalignment research. We set thousands of Claude agents the task of evading a training data ...",
+  "zh": "Anthropic：新研究用数千个 Claude 智能体自动化红队测试，探查隐蔽的模型失准问题。",
+  "url": "https://x.com/AnthropicAI/status/2116349211549843666"
  }
 ]
