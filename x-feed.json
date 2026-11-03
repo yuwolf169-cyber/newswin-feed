@@ -1,5 +1,45 @@
 [
  {
+  "id": "2117368789742272843",
+  "created_at": "2026-11-02T21:30:32Z",
+  "user": "WhiteHouse",
+  "text": "Millions of Americans paid No Tax on Tips this tax season. This landmark policy wouldn't have been possible without President Trump's determination to pass the Working Families Tax Cuts.",
+  "zh": "白宫：本报税季数百万美国人享受了“小费免税”，这得益于特朗普推动通过的《工薪家庭减税法案》。",
+  "url": "https://x.com/WhiteHouse/status/2117368789742272843"
+ },
+ {
+  "id": "2117359293024416144",
+  "created_at": "2026-11-02T20:52:48Z",
+  "user": "WhiteHouse",
+  "text": "\"Oil Prices are DROPPING LIKE A ROCK, down almost $10 a Barrel, A RECORD...\" - President Donald J. Trump",
+  "zh": "白宫：引述特朗普称油价“像石头一样暴跌”，每桶下跌近 10 美元，创纪录。",
+  "url": "https://x.com/WhiteHouse/status/2117359293024416144"
+ },
+ {
+  "id": "2117343929960112486",
+  "created_at": "2026-11-02T19:51:45Z",
+  "user": "AnthropicAI",
+  "text": "Applications are now open for the Anthropic Residency, a paid, fixed-term research program for academics, technical founders, and staff-level engineers who want to make AI safe and beneficial for everyone. No ML background is required. Apply by November 22",
+  "zh": "Anthropic：开放“Anthropic 驻留计划”申请，这是面向学者、技术创始人和资深工程师的带薪定期 AI 安全研究项目，不要求机器学习背景，11 月 22 日截止。",
+  "url": "https://x.com/AnthropicAI/status/2117343929960112486"
+ },
+ {
+  "id": "2117331383966183750",
+  "created_at": "2026-11-02T19:01:54Z",
+  "user": "federalreserve",
+  "text": "Now available: quarterly survey on bank lending practices covering bank loans to businesses and households",
+  "zh": "美联储：发布最新季度银行贷款行为调查（高级信贷员调查），涵盖对企业和家庭的贷款情况。",
+  "url": "https://x.com/federalreserve/status/2117331383966183750"
+ },
+ {
+  "id": "2117307611338997846",
+  "created_at": "2026-11-02T17:27:26Z",
+  "user": "OpenAI",
+  "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to",
+  "zh": "OpenAI：推出新基准 LifeVal，依据数千名 ChatGPT 用户反馈，评测 AI 助手在找托育等日常要紧事务上的帮助能力。",
+  "url": "https://x.com/OpenAI/status/2117307611338997846"
+ },
+ {
   "id": "2117113121102045347",
   "created_at": "2026-11-02T04:34:36Z",
   "user": "sundarpichai",
@@ -22,13 +62,5 @@
   "text": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours — quoting: SpaceXAI's Colossus 2 in Memphis is the world's most powerful AI data center, roughly 1.11 million H100 equivalents, ahead of OpenAI's Stargate.",
   "zh": "马斯克：其他超算项目达不到目标，SpaceX 已经在实现我们的目标（引述：孟菲斯 Colossus 2 约合 111 万块 H100，是全球最强 AI 数据中心，领先 OpenAI 星际之门）。",
   "url": "https://x.com/elonmusk/status/2116991729660575998"
- },
- {
-  "id": "2116551882219090231",
-  "created_at": "2026-10-31T15:24:27Z",
-  "user": "elonmusk",
-  "text": "Tesla and SpaceX have created meaningful wealth for hundreds of thousands of employees over time and improved the retirement savings of hundreds of millions of people",
-  "zh": "马斯克：特斯拉和 SpaceX 多年来为数十万员工创造了可观财富，也改善了数亿人的养老储蓄。",
-  "url": "https://x.com/elonmusk/status/2116551882219090231"
  }
 ]
