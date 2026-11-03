@@ -1,5 +1,13 @@
 [
  {
+  "id": "2117444048227123277",
+  "created_at": "2026-11-03T02:29:35Z",
+  "user": "OpenAI",
+  "text": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do. We're planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge",
+  "zh": "OpenAI：AI 找漏洞的能力越来越强，防守方要抢在攻击者之前用上它；OpenAI 正筹备下一轮内部安全冲刺，并与 Cathedral Systems 合作，让其研究员与我们团队一起用我们的模型做攻防挑战。",
+  "url": "https://x.com/OpenAI/status/2117444048227123277"
+ },
+ {
   "id": "2117410369052557386",
   "created_at": "2026-11-03T00:15:46Z",
   "user": "WhiteHouse",
