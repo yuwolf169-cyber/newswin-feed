@@ -110,13 +110,5 @@
   "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to",
   "zh": "OpenAI：推出新基准 LifeVal，依据数千名 ChatGPT 用户反馈，评测 AI 助手在找托育等日常要紧事务上的帮助能力。",
   "url": "https://x.com/OpenAI/status/2117307611338997846"
- },
- {
-  "id": "2117113121102045347",
-  "created_at": "2026-11-02T04:34:36Z",
-  "user": "sundarpichai",
-  "text": "Great to see high quality benchmarks with headroom and look at that cost line for Carbon — quoting @SemiAnalysis_: Today we’re releasing GDPx, a benchmark for measuring agentic capabilities across the most valuable domains. GDPx is a true frontier-level benchmark: even the best model scores just 12% (1/7)",
-  "zh": "皮查伊：很高兴看到高质量、仍有提升空间的基准测试，也看看 Carbon 那条成本曲线 — 引用 @SemiAnalysis_：今日发布 GDPx，衡量高价值领域代理能力的前沿基准，目前最好模型也只得 12%",
-  "url": "https://x.com/sundarpichai/status/2117113121102045347"
  }
 ]
