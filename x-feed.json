@@ -1,5 +1,37 @@
 [
  {
+  "id": "2117722703738310713",
+  "created_at": "2026-11-03T20:56:52Z",
+  "user": "elonmusk",
+  "text": "Try asking Grok to make calls! — quoting: Grok's new calling feature is very impressive. You just tell it who to call and why, and it handles the conversation for you, with a real-time transcript.",
+  "zh": "马斯克：试试让 Grok 帮你打电话！（转引：Grok 新增代打电话功能，告诉它打给谁、为什么，它就替你完成通话并实时显示文字记录）",
+  "url": "https://x.com/elonmusk/status/2117722703738310713"
+ },
+ {
+  "id": "2117710942826123294",
+  "created_at": "2026-11-03T20:10:08Z",
+  "user": "AnthropicAI",
+  "text": "New Anthropic research: progress on provable inference for large language models. Here, we introduce FlashProve. Building on established cryptographic techniques, FlashProve allows developers to verify whether a given response came from a given AI model.",
+  "zh": "Anthropic：发布新研究 FlashProve，基于成熟密码学技术实现大模型「可证明推理」，开发者可验证某条回复是否确实出自指定 AI 模型。",
+  "url": "https://x.com/AnthropicAI/status/2117710942826123294"
+ },
+ {
+  "id": "2117692475775258785",
+  "created_at": "2026-11-03T18:56:45Z",
+  "user": "OpenAI",
+  "text": "ChatGPT and Codex are helping engineers build for the physical world. We're sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators.",
+  "zh": "OpenAI：ChatGPT 和 Codex 正在帮助工程师做实体产品，公布在机械设计、电子工程和仿真方面的进展，既加快自家硬件团队迭代，也与行业伙伴测试新工作流。",
+  "url": "https://x.com/OpenAI/status/2117692475775258785"
+ },
+ {
+  "id": "2117633046002225363",
+  "created_at": "2026-11-03T15:00:36Z",
+  "user": "NASA",
+  "text": "This smoky specter is the Cat's Head Nebula, captured in intricate detail by @NASAWebb.",
+  "zh": "NASA：韦布望远镜拍下「猫头星云」精细图像，因形似背对观者蹲坐的猫而得名。",
+  "url": "https://x.com/NASA/status/2117633046002225363"
+ },
+ {
   "id": "2117479668768981376",
   "created_at": "2026-11-03T04:51:08Z",
   "user": "elonmusk",
@@ -78,21 +110,5 @@
   "text": "Great to see high quality benchmarks with headroom and look at that cost line for Carbon — quoting @SemiAnalysis_: Today we’re releasing GDPx, a benchmark for measuring agentic capabilities across the most valuable domains. GDPx is a true frontier-level benchmark: even the best model scores just 12% (1/7)",
   "zh": "皮查伊：很高兴看到高质量、仍有提升空间的基准测试，也看看 Carbon 那条成本曲线 — 引用 @SemiAnalysis_：今日发布 GDPx，衡量高价值领域代理能力的前沿基准，目前最好模型也只得 12%",
   "url": "https://x.com/sundarpichai/status/2117113121102045347"
- },
- {
-  "id": "2117011225879970299",
-  "created_at": "2026-11-01T21:49:43Z",
-  "user": "WhiteHouse",
-  "text": "President Trump has delivered historic wins for America's fishing industry by putting American fishermen FIRST, unlocking billions of dollars in economic growth, revitalizing the industry, & providing critical regulatory relief.",
-  "zh": "白宫：特朗普为美国渔业放松监管、优先保护本国渔民，释放数十亿美元经济增长。",
-  "url": "https://x.com/WhiteHouse/status/2117011225879970299"
- },
- {
-  "id": "2116991729660575998",
-  "created_at": "2026-11-01T20:32:14Z",
-  "user": "elonmusk",
-  "text": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours — quoting: SpaceXAI's Colossus 2 in Memphis is the world's most powerful AI data center, roughly 1.11 million H100 equivalents, ahead of OpenAI's Stargate.",
-  "zh": "马斯克：其他超算项目达不到目标，SpaceX 已经在实现我们的目标（引述：孟菲斯 Colossus 2 约合 111 万块 H100，是全球最强 AI 数据中心，领先 OpenAI 星际之门）。",
-  "url": "https://x.com/elonmusk/status/2116991729660575998"
  }
 ]
