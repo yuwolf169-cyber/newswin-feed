@@ -1,5 +1,61 @@
 [
  {
+  "id": "2119921881755107788",
+  "created_at": "2026-11-09T22:35:37Z",
+  "user": "WhiteHouse",
+  "text": "President Trump delivers an update following a meeting with the Prime Minister of Qatar regarding the historically successful Naval Blockade against Iran. \"At the conclusion of the military engagement, the American people and the people of the world will be far safer.\"",
+  "zh": "白宫：特朗普在会见卡塔尔首相后就对伊朗的海上封锁发表最新讲话，称军事行动结束后，美国人民和全世界都将更安全。",
+  "url": "https://x.com/WhiteHouse/status/2119921881755107788"
+ },
+ {
+  "id": "2119913172039868579",
+  "created_at": "2026-11-09T22:01:00Z",
+  "user": "OpenAI",
+  "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.",
+  "zh": "OpenAI：推出“Control Room”中央系统，用于跟踪研究基础设施中的模型工作负载，出现安全问题时可迅速叫停。",
+  "url": "https://x.com/OpenAI/status/2119913172039868579"
+ },
+ {
+  "id": "2119909036292456711",
+  "created_at": "2026-11-09T21:44:34Z",
+  "user": "WhiteHouse",
+  "text": "\"Qatar, Saudi Arabia, UAE, Bahrain, Kuwait, and others, would prefer the status quo, in other words, a continuation of the Greatest Naval Blockade in History, and the new Operation Iron Gate — Therefore, Land and Sea.\" - President Donald J. Trump",
+  "zh": "白宫：特朗普称卡塔尔、沙特、阿联酋、巴林、科威特等国更愿维持现状，即继续史上最大规模海上封锁以及新的“铁门行动”，陆海并进。",
+  "url": "https://x.com/WhiteHouse/status/2119909036292456711"
+ },
+ {
+  "id": "2119867707546071125",
+  "created_at": "2026-11-09T19:00:21Z",
+  "user": "AnthropicAI",
+  "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now",
+  "zh": "Anthropic：Claude Fable 5.2 和 Claude Mythos 5.2 现已上线，编码、推理和视觉能力均有提升。",
+  "url": "https://x.com/AnthropicAI/status/2119867707546071125"
+ },
+ {
+  "id": "2119857335871164769",
+  "created_at": "2026-11-09T18:19:08Z",
+  "user": "sundarpichai",
+  "text": "Four distinct TPU systems in a single generation in one year!",
+  "zh": "皮查伊：谷歌一年内在单代产品中推出四种不同的TPU系统，硬件工程师与DeepMind协同设计，无需等待传统半导体周期。",
+  "url": "https://x.com/sundarpichai/status/2119857335871164769"
+ },
+ {
+  "id": "2119846862286930036",
+  "created_at": "2026-11-09T17:37:31Z",
+  "user": "NASA",
+  "text": "We're recruiting a new class of astronauts, making major advancements on the Moon Base, and challenging students to a $1 million design competition.",
+  "zh": "NASA：宣布招募新一批宇航员、推进月球基地建设，并发起100万美元的学生设计竞赛。",
+  "url": "https://x.com/NASA/status/2119846862286930036"
+ },
+ {
+  "id": "2119812607117062451",
+  "created_at": "2026-11-09T15:21:24Z",
+  "user": "elonmusk",
+  "text": "Project Crystal Sun — quoting @Tesla: Tesla has officially started construction of its massive new $10 billion solar manufacturing facility near Houston, Texas! Construction expected to finish in 2028, commercial operations Q1 2029.",
+  "zh": "马斯克：转发特斯拉消息——特斯拉已正式开工建设休斯敦附近价值100亿美元的大型太阳能制造工厂，预计2028年完工、2029年一季度投产（“水晶太阳计划”）。",
+  "url": "https://x.com/elonmusk/status/2119812607117062451"
+ },
+ {
   "id": "2119731262248132963",
   "created_at": "2026-11-09T09:58:10Z",
   "user": "esa",
@@ -86,45 +142,5 @@
   "text": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
   "zh": "马斯克：Grok Bot 针对提升 token 效率和更智能表现的修复正在进行中。",
   "url": "https://x.com/elonmusk/status/2119419126045454531"
- },
- {
-  "id": "2119188276049228152",
-  "created_at": "2026-11-07T22:00:32Z",
-  "user": "NASA",
-  "text": "Applications are now open to join NASA's astronaut corps — apply by Dec. 3",
-  "zh": "NASA：新一轮宇航员招募开放，12月3日前申请。",
-  "url": "https://x.com/NASA/status/2119136607009734978"
- },
- {
-  "id": "2119184496176087428",
-  "created_at": "2026-11-07T21:45:31Z",
-  "user": "WhiteHouse",
-  "text": "America's labor market is surging.",
-  "zh": "白宫：美国劳动力市场强劲向上。",
-  "url": "https://x.com/WhiteHouse/status/2119184496176087428"
- },
- {
-  "id": "2119146526899396725",
-  "created_at": "2026-11-07T19:14:38Z",
-  "user": "elonmusk",
-  "text": "Most people don't know that the best-selling car in the world is the Tesla Model Y. And the second and third best-selling cars are much cheaper.",
-  "zh": "马斯克：多数人不知道全球最畅销的车是特斯拉 Model Y，而第二、三名都便宜得多。",
-  "url": "https://x.com/elonmusk/status/2119146526899396725"
- },
- {
-  "id": "2119130949434888330",
-  "created_at": "2026-11-07T18:12:44Z",
-  "user": "elonmusk",
-  "text": "The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. We will add an extra shift to try to get all orders done in time.",
-  "zh": "马斯克：Cybertruck 积压订单远超明年6/7月拆线扩产 Cybercab 前的产能，将加一班产线赶在期限前交完订单。",
-  "url": "https://x.com/elonmusk/status/2119130949434888330"
- },
- {
-  "id": "2119093662957060389",
-  "created_at": "2026-11-07T15:44:34Z",
-  "user": "SpaceX",
-  "text": "Starship is preparing for catch. Flight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval",
-  "zh": "SpaceX：星舰准备回收，第15次飞行最早定于11月13日（周五）发射，待监管批准。",
-  "url": "https://x.com/SpaceX/status/2119093662957060389"
  }
 ]
