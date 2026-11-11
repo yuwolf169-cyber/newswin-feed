@@ -1,5 +1,93 @@
 [
  {
+  "id": "2120302471210033426",
+  "created_at": "2026-11-10T23:47:57Z",
+  "user": "elonmusk",
+  "text": "SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. This is for Starmind to create a sentient sun.",
+  "zh": "马斯克：SpaceX已向德国Singulus订购每年100吉瓦的HJT太阳能电池制造设备，用于Starmind卫星。",
+  "url": "https://x.com/elonmusk/status/2120302471210033426"
+ },
+ {
+  "id": "2120286644016132338",
+  "created_at": "2026-11-10T22:45:03Z",
+  "user": "WhiteHouse",
+  "text": "For 47 years, Iran has killed innocent people... President Trump had the courage to take on the Iranian threat with full force.",
+  "zh": "白宫：47年来伊朗杀害无辜民众、抗议者和美国人，并通过圣战恐怖主义对西方开战；特朗普总统有勇气全力应对伊朗威胁。",
+  "url": "https://x.com/WhiteHouse/status/2120286644016132338"
+ },
+ {
+  "id": "2120253027131232741",
+  "created_at": "2026-11-10T20:31:28Z",
+  "user": "federalreserve",
+  "text": "Speech by Vice Chair for Supervision Bowman on the U.S. economy and considerations for monetary policy",
+  "zh": "美联储：负责监管的副主席鲍曼就美国经济与货币政策考量发表讲话。",
+  "url": "https://x.com/federalreserve/status/2120253027131232741"
+ },
+ {
+  "id": "2120245613132702011",
+  "created_at": "2026-11-10T20:02:01Z",
+  "user": "nvidianewsroom",
+  "text": "A new statement from the independent members of the NVIDIA Board",
+  "zh": "英伟达新闻室：英伟达董事会独立董事发布新声明。",
+  "url": "https://x.com/nvidianewsroom/status/2120245613132702011"
+ },
+ {
+  "id": "2120231065394590007",
+  "created_at": "2026-11-10T19:04:12Z",
+  "user": "SpaceX",
+  "text": "We have signed a major supply contract with SINGULUS ... 100 GW of equipment ... Starmind satellites in Bastrop, Texas",
+  "zh": "SpaceX：与SINGULUS签下大额供货合同，支持超100吉瓦的先进太阳能电池制造设备，加速德州Bastrop的Starmind卫星生产。",
+  "url": "https://x.com/SpaceX/status/2120231065394590007"
+ },
+ {
+  "id": "2120229357608485243",
+  "created_at": "2026-11-10T18:57:25Z",
+  "user": "WhiteHouse",
+  "text": "Yet another historic investment for American manufacturing. President Trump is prioritizing MADE IN AMERICA.",
+  "zh": "白宫：美国制造业再获一笔历史性投资，特朗普总统优先推动“美国制造”，带来更多就业、投资和财富。",
+  "url": "https://x.com/WhiteHouse/status/2120229357608485243"
+ },
+ {
+  "id": "2120220290219208884",
+  "created_at": "2026-11-10T18:21:23Z",
+  "user": "SpaceX",
+  "text": "Super Heavy moved to the launch pad at Starbase. Booster 22 ...",
+  "zh": "SpaceX：超重型助推器22号（首个计划返回发射场被捕获的V3助推器）已运抵星港发射台，完成捕获高度挤压测试。",
+  "url": "https://x.com/SpaceX/status/2120220290219208884"
+ },
+ {
+  "id": "2120216592395174382",
+  "created_at": "2026-11-10T18:06:42Z",
+  "user": "OpenAI",
+  "text": "Now in beta: Businesses in ChatGPT.",
+  "zh": "OpenAI：ChatGPT「商家」功能开启测试，企业可认领资料、查看互动数据，并构建商业智能体回答客户问题。",
+  "url": "https://x.com/OpenAI/status/2120216592395174382"
+ },
+ {
+  "id": "2120186778384499073",
+  "created_at": "2026-11-10T16:08:13Z",
+  "user": "nvidia",
+  "text": "NVIDIA Alpamayo 2 Edge is here",
+  "zh": "英伟达：Alpamayo 2 Edge发布，为车端带来实时自适应AI推理，开发者可基于该开源模型开发。",
+  "url": "https://x.com/nvidia/status/2120186778384499073"
+ },
+ {
+  "id": "2120185896469496180",
+  "created_at": "2026-11-10T16:04:43Z",
+  "user": "sundarpichai",
+  "text": "Gemini 4 Carbon is rolling out today.",
+  "zh": "皮查伊：Gemini 4 Carbon今日开始推送，面向长时程任务，擅长复杂软件工程、网络安全和科学发现，通过Gemini API等提供。",
+  "url": "https://x.com/sundarpichai/status/2120185896469496180"
+ },
+ {
+  "id": "2120117722230968385",
+  "created_at": "2026-11-10T11:33:49Z",
+  "user": "AnthropicAI",
+  "text": "Anthropic has launched the roadshow for its proposed IPO",
+  "zh": "Anthropic：已启动拟议首次公开募股（IPO）的路演。",
+  "url": "https://x.com/AnthropicAI/status/2120117722230968385"
+ },
+ {
   "id": "2120102767624880364",
   "created_at": "2026-11-10T10:34:24Z",
   "user": "elonmusk",
@@ -118,53 +206,5 @@
   "text": "Just did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow.",
   "zh": "马斯克：刚与 Grok Bot 工程团队开了圆桌评审，修复将在夜间落地，预计明天就能明显感到改善；若没有，请回复该帖，会立即处理。",
   "url": "https://x.com/elonmusk/status/2119617455102333206"
- },
- {
-  "id": "2119533527809003582",
-  "created_at": "2026-11-08T20:52:26Z",
-  "user": "WhiteHouse",
-  "text": "Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran.",
-  "zh": "白宫：“铁门特遣队”已在伊朗全面生效。",
-  "url": "https://x.com/WhiteHouse/status/2119533527809003582"
- },
- {
-  "id": "2119520873577398695",
-  "created_at": "2026-11-08T20:02:09Z",
-  "user": "nvidianewsroom",
-  "text": "We just issued a press release from our board of directors.",
-  "zh": "英伟达：公司刚发布了一份来自董事会的新闻稿。",
-  "url": "https://x.com/nvidianewsroom/status/2119520873577398695"
- },
- {
-  "id": "2119469436092760547",
-  "created_at": "2026-11-08T16:37:46Z",
-  "user": "elonmusk",
-  "text": "Larry Page has made many accurate predictions and this is one of them — quoting: Larry Page reportedly said how much compute will be orbital: five nines (99.999%).",
-  "zh": "马斯克：拉里·佩奇做过很多准确预测，这是其中之一——转引称佩奇认为未来轨道算力占比将达“五个9”（99.999%）。",
-  "url": "https://x.com/elonmusk/status/2119469436092760547"
- },
- {
-  "id": "2119467718373941588",
-  "created_at": "2026-11-08T16:30:56Z",
-  "user": "NASA",
-  "text": "Just announced at MAX POWER: a $1 million Moon Base Student Challenge!",
-  "zh": "NASA：在 MAX POWER 航展上宣布设立100万美元的“月球基地学生挑战赛”，面向美国高中和高校学生团队。",
-  "url": "https://x.com/NASA/status/2119467718373941588"
- },
- {
-  "id": "2119464967892000799",
-  "created_at": "2026-11-08T16:20:00Z",
-  "user": "WhiteHouse",
-  "text": "\"I will be interviewed tonight on '60 Minutes.' ... If we get help from the Republican Senate, we can still do things that are unbelievable!\" - President Trump",
-  "zh": "白宫：特朗普称今晚将接受《60分钟》采访，若得到共和党参议院的支持，仍能做成不可思议的事。",
-  "url": "https://x.com/WhiteHouse/status/2119464967892000799"
- },
- {
-  "id": "2119419126045454531",
-  "created_at": "2026-11-08T13:17:51Z",
-  "user": "elonmusk",
-  "text": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
-  "zh": "马斯克：Grok Bot 针对提升 token 效率和更智能表现的修复正在进行中。",
-  "url": "https://x.com/elonmusk/status/2119419126045454531"
  }
 ]
