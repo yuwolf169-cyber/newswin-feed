@@ -1,5 +1,13 @@
 [
  {
+  "id": "2120351410143252485",
+  "created_at": "2026-11-11T03:02:25Z",
+  "user": "USTreasury",
+  "text": "@SecScottBessent delivered keynote remarks at the National Committee on United States-China Relations gala. \"Trade must advance the interests of both parties without diminishing the sovereignty of either...\"",
+  "zh": "美国财政部：贝森特在美中关系全国委员会晚宴发表主旨演讲称，贸易必须促进双方利益、且不损害任何一方主权，特朗普总统正是本着这一精神处理对华贸易。",
+  "url": "https://x.com/USTreasury/status/2120351410143252485"
+ },
+ {
   "id": "2120302471210033426",
   "created_at": "2026-11-10T23:47:57Z",
   "user": "elonmusk",
@@ -198,13 +206,5 @@
   "text": "Excited to be working with @Qualcomm on breakthrough technologies for 5G & beyond — quoting @SpaceX news: Qualcomm CEO Cristiano Amon says the partnership will be one of the largest 5G deployments in the US; SpaceX builds the base stations, Qualcomm provides the silicon.",
   "zh": "马斯克：很高兴与高通合作研发 5G 及更先进技术——转引高通 CEO 阿蒙称，这将是美国最大的 5G 部署之一，SpaceX 负责建基站，高通提供芯片。",
   "url": "https://x.com/elonmusk/status/2119629886377607546"
- },
- {
-  "id": "2119617455102333206",
-  "created_at": "2026-11-09T02:25:56Z",
-  "user": "elonmusk",
-  "text": "Just did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow.",
-  "zh": "马斯克：刚与 Grok Bot 工程团队开了圆桌评审，修复将在夜间落地，预计明天就能明显感到改善；若没有，请回复该帖，会立即处理。",
-  "url": "https://x.com/elonmusk/status/2119617455102333206"
  }
 ]
