@@ -1,5 +1,13 @@
 [
  {
+  "id": "2120725054933635188",
+  "created_at": "2026-11-12T03:47:08Z",
+  "user": "SpaceX",
+  "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-627 mission from California",
+  "zh": "SpaceX：一切系统状态良好、天气适宜发射，猎鹰9号即将开始加注推进剂，执行美国太空军USSF-627任务（加州发射）。",
+  "url": "https://x.com/SpaceX/status/2120725054933635188"
+ },
+ {
   "id": "2120645906961969597",
   "created_at": "2026-11-11T22:32:38Z",
   "user": "WhiteHouse",
@@ -158,13 +166,5 @@
   "text": "Speech by Governor Waller on the economic outlook @KingsCollegeLon. Watch live.",
   "zh": "美联储：沃勒理事在伦敦国王学院就经济前景发表演讲(正在直播)。",
   "url": "https://x.com/federalreserve/status/2120079543172280778"
- },
- {
-  "id": "2119989523748905221",
-  "created_at": "2026-11-10T03:04:24Z",
-  "user": "elonmusk",
-  "text": "Grok — quoting @SpaceX VP of Launch: Grok is now helping identify foreign object debris in aerospace parts; Grok (99.9%) is better at it than humans (94%).",
-  "zh": "马斯克：转发SpaceX发射副总裁的说法——Grok已用于识别航天零件中的异物碎片，准确率99.9%，高于人工的94%。",
-  "url": "https://x.com/elonmusk/status/2119989523748905221"
  }
 ]
