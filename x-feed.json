@@ -1,5 +1,53 @@
 [
  {
+  "id": "2120645906961969597",
+  "created_at": "2026-11-11T22:32:38Z",
+  "user": "WhiteHouse",
+  "text": "President Trump is actually reducing prescription drug prices.",
+  "zh": "白宫：特朗普总统正在切实降低处方药价格。",
+  "url": "https://x.com/WhiteHouse/status/2120645906961969597"
+ },
+ {
+  "id": "2120627069952340361",
+  "created_at": "2026-11-11T21:17:47Z",
+  "user": "nvidia",
+  "text": "Expanding collaboration with ElevenLabs; Nemotron models now in ElevenAgents",
+  "zh": "英伟达：扩大与 ElevenLabs 合作，Nemotron 模型接入 ElevenAgents，为全球企业和政府提供语音智能体。",
+  "url": "https://x.com/nvidia/status/2120627069952340361"
+ },
+ {
+  "id": "2120590521253126183",
+  "created_at": "2026-11-11T18:52:33Z",
+  "user": "elonmusk",
+  "text": "Starship Super Heavy rocket booster moved to launch pad",
+  "zh": "马斯克：星舰超重型助推器已移至发射台。",
+  "url": "https://x.com/elonmusk/status/2120590521253126183"
+ },
+ {
+  "id": "2120581155078729728",
+  "created_at": "2026-11-11T18:15:20Z",
+  "user": "sundarpichai",
+  "text": "Gemini Decisions API",
+  "zh": "皮查伊：推出 Gemini Decisions API（Gemini Decision 1 模型，Google AI Studio），面向封闭式选择题，一次可对最多1000个跨文本、图像、音视频和PDF的问题打分。",
+  "url": "https://x.com/sundarpichai/status/2120581155078729728"
+ },
+ {
+  "id": "2120565179276832797",
+  "created_at": "2026-11-11T17:11:51Z",
+  "user": "elonmusk",
+  "text": "Tesla self-driving now approved in Finland",
+  "zh": "马斯克：特斯拉自动驾驶已在芬兰获批。",
+  "url": "https://x.com/elonmusk/status/2120565179276832797"
+ },
+ {
+  "id": "2120565056429814073",
+  "created_at": "2026-11-11T17:11:22Z",
+  "user": "elonmusk",
+  "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
+  "zh": "马斯克：为消化更多 Cybertruck 积压订单，生产将延长至2027年夏末。",
+  "url": "https://x.com/elonmusk/status/2120565056429814073"
+ },
+ {
   "id": "2120351410143252485",
   "created_at": "2026-11-11T03:02:25Z",
   "user": "USTreasury",
@@ -118,69 +166,5 @@
   "text": "Grok — quoting @SpaceX VP of Launch: Grok is now helping identify foreign object debris in aerospace parts; Grok (99.9%) is better at it than humans (94%).",
   "zh": "马斯克：转发SpaceX发射副总裁的说法——Grok已用于识别航天零件中的异物碎片，准确率99.9%，高于人工的94%。",
   "url": "https://x.com/elonmusk/status/2119989523748905221"
- },
- {
-  "id": "2119921881755107788",
-  "created_at": "2026-11-09T22:35:37Z",
-  "user": "WhiteHouse",
-  "text": "President Trump delivers an update following a meeting with the Prime Minister of Qatar regarding the historically successful Naval Blockade against Iran. \"At the conclusion of the military engagement, the American people and the people of the world will be far safer.\"",
-  "zh": "白宫：特朗普在会见卡塔尔首相后就对伊朗的海上封锁发表最新讲话，称军事行动结束后，美国人民和全世界都将更安全。",
-  "url": "https://x.com/WhiteHouse/status/2119921881755107788"
- },
- {
-  "id": "2119913172039868579",
-  "created_at": "2026-11-09T22:01:00Z",
-  "user": "OpenAI",
-  "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.",
-  "zh": "OpenAI：推出“Control Room”中央系统，用于跟踪研究基础设施中的模型工作负载，出现安全问题时可迅速叫停。",
-  "url": "https://x.com/OpenAI/status/2119913172039868579"
- },
- {
-  "id": "2119909036292456711",
-  "created_at": "2026-11-09T21:44:34Z",
-  "user": "WhiteHouse",
-  "text": "\"Qatar, Saudi Arabia, UAE, Bahrain, Kuwait, and others, would prefer the status quo, in other words, a continuation of the Greatest Naval Blockade in History, and the new Operation Iron Gate — Therefore, Land and Sea.\" - President Donald J. Trump",
-  "zh": "白宫：特朗普称卡塔尔、沙特、阿联酋、巴林、科威特等国更愿维持现状，即继续史上最大规模海上封锁以及新的“铁门行动”，陆海并进。",
-  "url": "https://x.com/WhiteHouse/status/2119909036292456711"
- },
- {
-  "id": "2119867707546071125",
-  "created_at": "2026-11-09T19:00:21Z",
-  "user": "AnthropicAI",
-  "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now",
-  "zh": "Anthropic：Claude Fable 5.2 和 Claude Mythos 5.2 现已上线，编码、推理和视觉能力均有提升。",
-  "url": "https://x.com/AnthropicAI/status/2119867707546071125"
- },
- {
-  "id": "2119857335871164769",
-  "created_at": "2026-11-09T18:19:08Z",
-  "user": "sundarpichai",
-  "text": "Four distinct TPU systems in a single generation in one year!",
-  "zh": "皮查伊：谷歌一年内在单代产品中推出四种不同的TPU系统，硬件工程师与DeepMind协同设计，无需等待传统半导体周期。",
-  "url": "https://x.com/sundarpichai/status/2119857335871164769"
- },
- {
-  "id": "2119846862286930036",
-  "created_at": "2026-11-09T17:37:31Z",
-  "user": "NASA",
-  "text": "We're recruiting a new class of astronauts, making major advancements on the Moon Base, and challenging students to a $1 million design competition.",
-  "zh": "NASA：宣布招募新一批宇航员、推进月球基地建设，并发起100万美元的学生设计竞赛。",
-  "url": "https://x.com/NASA/status/2119846862286930036"
- },
- {
-  "id": "2119812607117062451",
-  "created_at": "2026-11-09T15:21:24Z",
-  "user": "elonmusk",
-  "text": "Project Crystal Sun — quoting @Tesla: Tesla has officially started construction of its massive new $10 billion solar manufacturing facility near Houston, Texas! Construction expected to finish in 2028, commercial operations Q1 2029.",
-  "zh": "马斯克：转发特斯拉消息——特斯拉已正式开工建设休斯敦附近价值100亿美元的大型太阳能制造工厂，预计2028年完工、2029年一季度投产（“水晶太阳计划”）。",
-  "url": "https://x.com/elonmusk/status/2119812607117062451"
- },
- {
-  "id": "2119731262248132963",
-  "created_at": "2026-11-09T09:58:10Z",
-  "user": "esa",
-  "text": "Three years of the Zero Debris Charter! More than 250 signatories from 36 countries are now working towards a zero debris future by 2030.",
-  "zh": "欧洲航天局:「零碎片宪章」迎来三周年,已有来自36个国家的250多个签署方,正朝着2030年实现零太空碎片的目标推进,技术目标有望达成。",
-  "url": "https://x.com/esa/status/2119731262248132963"
  }
 ]
