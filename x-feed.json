@@ -1,5 +1,109 @@
 [
  {
+  "id": "2122465625109090646",
+  "created_at": "2026-11-16T23:03:33Z",
+  "user": "OpenAI",
+  "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\nAbridgeHQ, AmbienceAI, Cigna, CVSHealth, and other leading healthcare organizations are putting our models to work across prior",
+  "zh": "OpenAI：ChatGPT医疗版升级，电脑操作智能体更强、临床回答更好，并新增20余个医疗插件；包括信诺、CVS健康等机构已在使用。",
+  "url": "https://x.com/OpenAI/status/2122465625109090646"
+ },
+ {
+  "id": "2122446366354096479",
+  "created_at": "2026-11-16T21:47:01Z",
+  "user": "elonmusk",
+  "text": "As I was saying …\n\nFree Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.",
+  "zh": "马斯克：此前已向运输部长达菲提供免费星链给联邦航空局，对方称不需要；事实证明其实需要。",
+  "url": "https://x.com/elonmusk/status/2122446366354096479"
+ },
+ {
+  "id": "2122427170328883425",
+  "created_at": "2026-11-16T20:30:44Z",
+  "user": "SpaceX",
+  "text": "Views from Mechazilla of the first ever Starship catch",
+  "zh": "SpaceX：机械臂「Mechazilla」视角下，星舰首次成功捕获。",
+  "url": "https://x.com/SpaceX/status/2122427170328883425"
+ },
+ {
+  "id": "2122389314407407786",
+  "created_at": "2026-11-16T18:00:19Z",
+  "user": "nvidianewsroom",
+  "text": "We’re developing a quantum-classical codesign platform with @IBM and @Fermilab to advance practical quantum computing.\n\nNVIDIA DGX B200 systems will connect with IBM quantum computers to accelerate error-correction and applications research. Separately, our new TCBP-JOBS decoder",
+  "zh": "英伟达：正与IBM和费米实验室开发量子-经典协同设计平台，DGX B200将连接IBM量子计算机，加速纠错与应用研究。",
+  "url": "https://x.com/nvidianewsroom/status/2122389314407407786"
+ },
+ {
+  "id": "2122380010287960095",
+  "created_at": "2026-11-16T17:23:21Z",
+  "user": "OpenAI",
+  "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing",
+  "zh": "OpenAI：对1800多名参与「ChatGPT学术研究」项目的科学家调研显示，使用人工智能后其生产率接近翻倍。",
+  "url": "https://x.com/OpenAI/status/2122380010287960095"
+ },
+ {
+  "id": "2122377585523126615",
+  "created_at": "2026-11-16T17:13:42Z",
+  "user": "OpenAI",
+  "text": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with training and support.\n\nApplications open Nov. 23. By default, we don’t use data shared through the program to train our models.",
+  "zh": "OpenAI：将把前沿模型免费使用权扩大至全球最多20万名科学家，并提供培训支持；11月23日起开放申请，默认不用项目数据训练模型。",
+  "url": "https://x.com/OpenAI/status/2122377585523126615"
+ },
+ {
+  "id": "2122376341131571405",
+  "created_at": "2026-11-16T17:08:46Z",
+  "user": "nvidianewsroom",
+  "text": "Today at #SC26, we announced the NVIDIA Vera CPU rack-scale platform for high-performance computing.\n\nPairing our first fully custom data center CPU with NVIDIA Quantum-X800 InfiniBand, Vera delivers up to 2x greater energy efficiency than x86. That means faster answers on",
+  "zh": "英伟达：在SC26发布Vera CPU机架级高性能计算平台，首款全自研数据中心CPU搭配Quantum-X800 InfiniBand，能效最高可达x86的两倍。",
+  "url": "https://x.com/nvidianewsroom/status/2122376341131571405"
+ },
+ {
+  "id": "2122374409306742925",
+  "created_at": "2026-11-16T17:01:05Z",
+  "user": "federalreserve",
+  "text": "Chairman Warsh delivers opening remarks at the Federal Reserve’s Productivity and Jobs Task Force Conference hosted by the @sffed:\n\nWatch live:\n\nLearn more about Chairman Warsh:",
+  "zh": "美联储：主席沃什在旧金山联储主办的生产率与就业特别工作组会议上致开幕辞。",
+  "url": "https://x.com/federalreserve/status/2122374409306742925"
+ },
+ {
+  "id": "2122363483354280353",
+  "created_at": "2026-11-16T16:17:40Z",
+  "user": "esa",
+  "text": "Our planetary defence mission Hera is about to reveal the first detailed images of asteroid Dimorphos since NASA’s DART impact in 2022.\n\nJournalists, join our media briefing on 25 November, in Berlin or online.\n\nRegister by 23 November:",
+  "zh": "欧空局：行星防御任务Hera即将公布自2022年NASA的DART撞击以来双小行星Dimorphos的首批详细图像；11月25日将在柏林或线上举行媒体简报。",
+  "url": "https://x.com/esa/status/2122363483354280353"
+ },
+ {
+  "id": "2122361729921208328",
+  "created_at": "2026-11-16T16:10:42Z",
+  "user": "WhiteHouse",
+  "text": "President Donald J. Trump departs for a major trip to Asia with his first stop to the Philippines for the ASEAN Summit, followed by a visit to Shenzhen, China, for the APEC Leaders' Summit. Peace through strength.",
+  "zh": "白宫：特朗普启程亚洲之行，先赴菲律宾出席东盟峰会，再访中国深圳参加APEC领导人峰会。",
+  "url": "https://x.com/WhiteHouse/status/2122361729921208328"
+ },
+ {
+  "id": "2122361006764511621",
+  "created_at": "2026-11-16T16:07:50Z",
+  "user": "nvidianewsroom",
+  "text": "Ready to build your own agent to speed scientific discovery?\n\nIntroducing Nemotron for Science, helping researchers develop agents that reason through scientific problems and put specialized research tools to work.\n\nUsed by @argonne, @RIKEN_en & more. #SC26",
+  "zh": "英伟达：推出面向科学的Nemotron，帮助研究人员开发能推理科学问题并调用专业研究工具的智能体；阿贡、理研等已在使用。",
+  "url": "https://x.com/nvidianewsroom/status/2122361006764511621"
+ },
+ {
+  "id": "2122359930628063248",
+  "created_at": "2026-11-16T16:03:33Z",
+  "user": "OpenAI",
+  "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and",
+  "zh": "OpenAI：正与Apollo Research、METR、Transluce、Goodfire合作开展嵌入式评估，让外部专家深入访问内部模型与系统，核查对齐并测试安全措施。",
+  "url": "https://x.com/OpenAI/status/2122359930628063248"
+ },
+ {
+  "id": "2122339168135319767",
+  "created_at": "2026-11-16T14:41:03Z",
+  "user": "WhiteHouse",
+  "text": "President Trump on Friday's FAA ground stop:  \"We have old equipment, broken equipment. We've been telling that to Congress... We essentially want to blow it up and put new in... We need the funding to get it done.\"",
+  "zh": "白宫：特朗普谈周五联邦航空局停飞：设备陈旧损坏，已向国会反复说明，希望推倒重来装上新设备，需要拨款完成。",
+  "url": "https://x.com/WhiteHouse/status/2122339168135319767"
+ },
+ {
   "id": "2122268758362444242",
   "created_at": "2026-11-16T10:01:16Z",
   "user": "federalreserve",
@@ -86,53 +190,5 @@
   "text": "Three booster catches and a ship",
   "zh": "马斯克：三次助推器回收，再加上这次接住星舰——转述：2024年10月13日首次助推器回收，至2026年11月14日首次星舰回收。",
   "url": "https://x.com/elonmusk/status/2121759042582589821"
- },
- {
-  "id": "2121738348804857963",
-  "created_at": "2026-11-14T22:53:37Z",
-  "user": "SpaceX",
-  "text": "On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight.\n\nOn Saturday, November 14, Starship returned to Starbase, Texas, and changed everything →",
-  "zh": "SpaceX：11月13日星舰第15次试飞从得州星基地升空，11月14日返回星基地，并称此举“改变了一切”。",
-  "url": "https://x.com/SpaceX/status/2121738348804857963"
- },
- {
-  "id": "2121721987794174178",
-  "created_at": "2026-11-14T21:48:36Z",
-  "user": "sundarpichai",
-  "text": "Congrats @SpaceX for that starship catch, still feels like science fiction! Watching it live was incredible. Upwards!",
-  "zh": "皮查伊：祝贺SpaceX成功捕获星舰，称现场直播仍像科幻、令人震撼。",
-  "url": "https://x.com/sundarpichai/status/2121721987794174178"
- },
- {
-  "id": "2121719148187189750",
-  "created_at": "2026-11-14T21:37:19Z",
-  "user": "WhiteHouse",
-  "text": "Sweeping up Dark Web Criminals 🌪️ Operation TorNado is the largest interagency crackdown of dark web drug vendors and buyers to date. You can't hide behind technology, justice will find you.",
-  "zh": "白宫：宣布“TorNado行动”，称是迄今最大规模跨机构打击暗网毒品买卖的行动。",
-  "url": "https://x.com/WhiteHouse/status/2121719148187189750"
- },
- {
-  "id": "2121715216597827756",
-  "created_at": "2026-11-14T21:21:41Z",
-  "user": "SpaceX",
-  "text": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!",
-  "zh": "SpaceX：机械臂“机械哥斯拉”成功捕获星舰，祝贺全团队完成这一成就。",
-  "url": "https://x.com/SpaceX/status/2121715216597827756"
- },
- {
-  "id": "2121644169462681818",
-  "created_at": "2026-11-14T16:39:22Z",
-  "user": "elonmusk",
-  "text": "Text watermarking with Grok is only on where required by law or requested by the user",
-  "zh": "马斯克：Grok的文本水印仅在法律要求或用户主动要求时开启。",
-  "url": "https://x.com/elonmusk/status/2121644169462681818"
- },
- {
-  "id": "2121613402846204253",
-  "created_at": "2026-11-14T14:37:07Z",
-  "user": "elonmusk",
-  "text": "Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract. Without Jensen, at least some of those critical deals will be lost.",
-  "zh": "马斯克：黄仁勋把英伟达供应链做成了极致，但许多交易是和他握手而非书面合同；没有他，至少部分关键交易可能流失。",
-  "url": "https://x.com/elonmusk/status/2121613402846204253"
  }
 ]
