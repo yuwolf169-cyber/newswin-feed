@@ -1,5 +1,125 @@
 [
  {
+  "id": "2122818300669239539",
+  "created_at": "2026-11-17T22:24:57Z",
+  "user": "nvidianewsroom",
+  "text": "Building the future of AI takes a global supply chain. We’re expanding commitments with Amkor Technology, Foxconn, Kinsus, Samsung Electro-Mechanics, SPIL and TSMC, building on previously announced commitments with IBIDEN, KYEC and Unimicron. Together, we’re building the",
+  "zh": "英伟达：将扩大与安靠、富士康、景硕、三星电机、矽品和台积电的合作承诺，并延续此前与揖斐电、京元电子和欣兴电子的安排，加码全球 AI 供应链。",
+  "url": "https://x.com/nvidianewsroom/status/2122818300669239539"
+ },
+ {
+  "id": "2122814338893332591",
+  "created_at": "2026-11-17T22:09:13Z",
+  "user": "SpaceX",
+  "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad",
+  "zh": "SpaceX：星舰基地发射塔“筷子”完成首次捕获星舰；该架构旨在实现快速完全重复使用，可在同一发射台反复发射和着陆。",
+  "url": "https://x.com/SpaceX/status/2122814338893332591"
+ },
+ {
+  "id": "2122811052840943943",
+  "created_at": "2026-11-17T21:56:09Z",
+  "user": "WhiteHouse",
+  "text": "\"This is not a cyberattack and this is not a coordinated effort by a nation-state.\" - Director of National Intelligence Jay Clayton.",
+  "zh": "白宫：国家情报总监克莱顿称，此事并非网络攻击，也不是某个国家的协同行动。",
+  "url": "https://x.com/WhiteHouse/status/2122811052840943943"
+ },
+ {
+  "id": "2122805252533670248",
+  "created_at": "2026-11-17T21:33:06Z",
+  "user": "nvidianewsroom",
+  "text": "NEWS: NVIDIA announces financial results for third quarter fiscal 2027. Revenue of $115.8 billion, up 103% from a year ago. Data Center revenue of $107.6 billion, up 110% from a year ago.",
+  "zh": "英伟达：公布 2027 财年第三季度业绩，营收 1158 亿美元、同比增长 103%，数据中心营收 1076 亿美元、同比增长 110%。",
+  "url": "https://x.com/nvidianewsroom/status/2122805252533670248"
+ },
+ {
+  "id": "2122800683867082960",
+  "created_at": "2026-11-17T21:14:57Z",
+  "user": "satyanadella",
+  "text": "With Meta’s latest models coming to Foundry, we’re giving developers and enterprises even more choice and flexibility! — quoting: Muse Wonder, Muse Spark 1.3, and Muse Ember are coming soon to Microsoft Foundry on @Azure.",
+  "zh": "纳德拉：Meta 最新模型将登陆 Foundry，为开发者和企业提供更多选择 —— 引用称：Muse Wonder、Muse Spark 1.3 和 Muse Ember 即将登陆 Azure 上的 Microsoft Foundry。",
+  "url": "https://x.com/satyanadella/status/2122800683867082960"
+ },
+ {
+  "id": "2122798039899263456",
+  "created_at": "2026-11-17T21:04:27Z",
+  "user": "sama",
+  "text": "6.2 Sol and Astra are out. These models can do amazing things and are very token-efficient; we hope people will get great value from them. In particular, 6.2 Sol ultrafast is something I think people will really enjoy.",
+  "zh": "奥特曼：GPT-6.2 的 Sol 与 Astra 已发布，强调高 token 效率；尤其推荐 6.2 Sol 超快版。",
+  "url": "https://x.com/sama/status/2122798039899263456"
+ },
+ {
+  "id": "2122794297544097976",
+  "created_at": "2026-11-17T20:49:34Z",
+  "user": "WhiteHouse",
+  "text": "Congress was warned. FAA infrastructure badly needs funding. The old systems need to be upgraded for the safety and security of the American people.",
+  "zh": "白宫：国会此前已接到警告；联邦航空管理局基础设施急需拨款，旧系统须升级，以保障美国民众的安全。",
+  "url": "https://x.com/WhiteHouse/status/2122794297544097976"
+ },
+ {
+  "id": "2122793780810264837",
+  "created_at": "2026-11-17T20:47:31Z",
+  "user": "SpaceX",
+  "text": "After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18",
+  "zh": "SpaceX：执行第 35 次商业补给任务的龙飞船在空间站停靠 34 天后，最早将于 11 月 18 日（周三）撤离。",
+  "url": "https://x.com/SpaceX/status/2122793780810264837"
+ },
+ {
+  "id": "2122757357348561008",
+  "created_at": "2026-11-17T18:22:47Z",
+  "user": "USTreasury",
+  "text": "President Trump continues to safeguard American citizens, and today @FinCENnews proposal takes the next step in implementing the President’s historic Executive Order, “Restoring Integrity to America’s Financial System.” This action will strengthen customer due diligence",
+  "zh": "美国财政部：金融犯罪执法网络（FinCEN）今日提出新方案，落实“恢复美国金融体系诚信”行政令，将加强客户尽职调查。",
+  "url": "https://x.com/USTreasury/status/2122757357348561008"
+ },
+ {
+  "id": "2122750124543926515",
+  "created_at": "2026-11-17T17:54:03Z",
+  "user": "OpenAI",
+  "text": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world.",
+  "zh": "OpenAI：GPT-6.2 的 Astra 与 Sol 现已上线，称其高效并面向实际应用。",
+  "url": "https://x.com/OpenAI/status/2122750124543926515"
+ },
+ {
+  "id": "2122741728247738688",
+  "created_at": "2026-11-17T17:20:41Z",
+  "user": "sundarpichai",
+  "text": "Knowing things → doing things → finding ways to save you time and money. We’re expanding Tasks in Gemini free of charge to hundreds of millions of people in six countries. Powered by Gemini 4 Hydrogen, Tasks lets you hand off everyday life admin directly: - Forward emails to",
+  "zh": "皮查伊：将向六个国家数亿用户免费开放 Gemini 任务功能，由 Gemini 4 Hydrogen 驱动，可代办邮件转发等日常事务。",
+  "url": "https://x.com/sundarpichai/status/2122741728247738688"
+ },
+ {
+  "id": "2122740072386609201",
+  "created_at": "2026-11-17T17:14:06Z",
+  "user": "NASA",
+  "text": "Join us in getting a look at the universe as it has never been seen before. On Dec. 7, at 3:30pm ET (2030 UTC), @NASARoman’s first images will be unveiled during a livestream from @theAGU Annual Meeting. Learn how to tune in:",
+  "zh": "NASA：罗马太空望远镜首批图像将于 12 月 7 日 15:30（美东时间，世界时 20:30）在美国地球物理联合会年会上直播公布。",
+  "url": "https://x.com/NASA/status/2122740072386609201"
+ },
+ {
+  "id": "2122733232894468308",
+  "created_at": "2026-11-17T16:46:55Z",
+  "user": "elonmusk",
+  "text": "Advanced solid state transformers at scale from Tesla — quoting: Introducing Powercore. Solid state medium voltage transformer, inverter and breaker – reliable, safe and secure. 7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power. Made in America. Operating 2027",
+  "zh": "马斯克：特斯拉将大规模推出先进固态变压器 —— 引用称：Powercore 为固态中压变压器、逆变器与断路器一体，可持续输出 7.4 兆瓦/9 兆伏安，并支持 10 兆伏安峰值，美国制造，2027 年投运。",
+  "url": "https://x.com/elonmusk/status/2122733232894468308"
+ },
+ {
+  "id": "2122705317226246612",
+  "created_at": "2026-11-17T14:56:00Z",
+  "user": "WhiteHouse",
+  "text": "President Trump & Thai Prime Minister Charnvirakul sign a reciprocal trade agreement, eliminating all tariffs on U.S. exports & securing an estimated $2.6B in U.S. agricultural purchases. A major win for American farmers, American businesses, & U.S.-Thailand trade.",
+  "zh": "白宫：特朗普与泰国总理猜瑟瓦签署对等贸易协定，取消对美出口全部关税，并锁定约 26 亿美元美国农产品采购。",
+  "url": "https://x.com/WhiteHouse/status/2122705317226246612"
+ },
+ {
+  "id": "2122695250812584194",
+  "created_at": "2026-11-17T14:16:00Z",
+  "user": "federalreserve",
+  "text": "October #IndustrialProduction: Total -0.4%, Mfg. +0.3%, Utilities -4.3%, Mining -0.8%; #CapacityUtilization 76.4%",
+  "zh": "美联储：10 月工业产出下降 0.4%，其中制造业升 0.3%、公用事业降 4.3%、采矿业降 0.8%；产能利用率为 76.4%。",
+  "url": "https://x.com/federalreserve/status/2122695250812584194"
+ },
+ {
   "id": "2122633418269954302",
   "created_at": "2026-11-17T10:10:18Z",
   "user": "nvidianewsroom",
@@ -166,45 +286,5 @@
   "text": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model.\n\nIt’s the first post on our new science blog:",
   "zh": "OpenAI：物理学家 Nathaniel Craig 介绍与 GPT-6 Astra 合作提出标准模型的候选格点定义，并开设新科学博客。",
   "url": "https://x.com/OpenAI/status/2122123437141553630"
- },
- {
-  "id": "2122109219855806886",
-  "created_at": "2026-11-15T23:27:19Z",
-  "user": "elonmusk",
-  "text": "Starlink saves lives",
-  "zh": "马斯克：星链可救命——转述@cb_doge：希腊政府用星链支撑铁路防撞预警，在无移动信号的山区也能向控制中心传送列车实时数据。",
-  "url": "https://x.com/elonmusk/status/2122109219855806886"
- },
- {
-  "id": "2122092920434274773",
-  "created_at": "2026-11-15T22:22:33Z",
-  "user": "elonmusk",
-  "text": "Starlink is a gamechanger",
-  "zh": "马斯克：星链正在改变格局——转述@xfreeze：美联航CEO称已有旅客因星链从其他航司转来；星链已覆盖其逾50%日常航班，700多架飞机已安装。",
-  "url": "https://x.com/elonmusk/status/2122092920434274773"
- },
- {
-  "id": "2122092374016806969",
-  "created_at": "2026-11-15T22:20:23Z",
-  "user": "elonmusk",
-  "text": "Yeah, I was going over the whole Starship heat shield earlier today. Overall, it looks great. The engines look great too. Ship 42 could probably be reflown with a few weeks of refurbishment.\n\nHowever, many small fixes are needed to achieve immediate reusability (like an",
-  "zh": "马斯克：今天检查了星舰隔热罩和发动机，整体很好；飞船42号大概几周整修后可再飞，但要马上重复使用还需不少小修。",
-  "url": "https://x.com/elonmusk/status/2122092374016806969"
- },
- {
-  "id": "2122025010877608198",
-  "created_at": "2026-11-15T17:52:42Z",
-  "user": "USTreasury",
-  "text": ".@SecScottBessent: “We are seeing a very strong acceleration across all parts of the economy. 2025 was setting the table with the tax bill, with trade policy, with energy policy, with the deregulatory policy. And now, second half of 2026, everything is coming into place. We are",
-  "zh": "美国财政部：财长贝森特称经济各领域在明显加速，2025年税制、贸易、能源与放松监管打下基础，2026年下半年正在兑现。",
-  "url": "https://x.com/USTreasury/status/2122025010877608198"
- },
- {
-  "id": "2122016534587383894",
-  "created_at": "2026-11-15T17:19:01Z",
-  "user": "WhiteHouse",
-  "text": "Decades of underinvestment have left the FAA and air traffic control network outdated. While there is more work to be done, the Trump Admin is prioritizing modernization while ensuring Americans fly safely.\n\nCongress must approve critical funding so this admin can continue to",
-  "zh": "白宫：称FAA与空管网络因长期投入不足而老化，政府正优先推进现代化并保障飞行安全，促国会批准关键资金。",
-  "url": "https://x.com/WhiteHouse/status/2122016534587383894"
  }
 ]
