@@ -1,5 +1,141 @@
 [
  {
+  "id": "2123196808675405860",
+  "created_at": "2026-11-18T23:29:00Z",
+  "user": "AnthropicAI",
+  "text": "We’ve priced our IPO at $83 per share, with trading expected to begin on Nasdaq tomorrow.\n\nLegal disclaimer: A registration statement relating to the Class A common stock was declared effective by the Securities and Exchange Commission on November 18,",
+  "zh": "Anthropic：IPO发行价定为每股83美元，预计明天在纳斯达克开始交易。",
+  "url": "https://x.com/AnthropicAI/status/2123196808675405860"
+ },
+ {
+  "id": "2123193048574419212",
+  "created_at": "2026-11-18T23:14:04Z",
+  "user": "SpaceX",
+  "text": "As Texas communities consider major supercomputing investments, careful long-term tax planning is essential. Under Texas’s no-new-revenue tax framework, rising property values generally drive tax rates down. But as expensive computing equipment rapidly depreciates, this can — quoting @outerspacetoday: JUST IN: Texas officials have rejected SpaceX's request to advance a property tax break for a proposed $24 billion data center and power plant near Starbase.",
+  "zh": "SpaceX：得州社区若大举投资超算，须做好长期税收规划；引用称得州官员已拒绝其为星舰基地附近240亿美元数据中心和电厂申请的税收减免。",
+  "url": "https://x.com/SpaceX/status/2123193048574419212"
+ },
+ {
+  "id": "2123191365983248653",
+  "created_at": "2026-11-18T23:07:23Z",
+  "user": "OpenAI",
+  "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and",
+  "zh": "OpenAI：公布内部研究新数据，研究人员使用AI呈指数上升，智能体可完成更长任务，但人仍是研究核心，且花在安全上的时间在增加。",
+  "url": "https://x.com/OpenAI/status/2123191365983248653"
+ },
+ {
+  "id": "2123179682086416681",
+  "created_at": "2026-11-18T22:20:57Z",
+  "user": "WhiteHouse",
+  "text": "President Trump has one priority on his mind: the American people.\n\n$17 billion in commercial deals and strategic investments for U.S. companies secured. 🇺🇸",
+  "zh": "白宫：称已为美国公司争取到170亿美元商业协议与战略投资。",
+  "url": "https://x.com/WhiteHouse/status/2123179682086416681"
+ },
+ {
+  "id": "2123169377855922254",
+  "created_at": "2026-11-18T21:40:00Z",
+  "user": "NASA",
+  "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\"",
+  "zh": "NASA：在仙女座星系外围观测到一颗略小于太阳的恒星并入膨胀超巨星，合并后的新星被称作“Bao”。",
+  "url": "https://x.com/NASA/status/2123169377855922254"
+ },
+ {
+  "id": "2123167780988125621",
+  "created_at": "2026-11-18T21:33:40Z",
+  "user": "sundarpichai",
+  "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra",
+  "zh": "皮查伊：Gemini 4 Neon即日起在Gemini API、Google AI Studio、企业版及付费Pro/Ultra用户中推出，主打复杂软件工程、知识工作与科学流程的快速端到端完成。",
+  "url": "https://x.com/sundarpichai/status/2123167780988125621"
+ },
+ {
+  "id": "2123165872261075233",
+  "created_at": "2026-11-18T21:26:05Z",
+  "user": "OpenAI",
+  "text": "We’re sharing how we approach safety at every stage of a model’s lifecycle, from early research to internal use to public deployment.",
+  "zh": "OpenAI：介绍其在模型从早期研究、内部使用到公开发布各阶段的安全做法。",
+  "url": "https://x.com/OpenAI/status/2123165872261075233"
+ },
+ {
+  "id": "2123129448644190523",
+  "created_at": "2026-11-18T19:01:21Z",
+  "user": "federalreserve",
+  "text": "We have posted the minutes from the #FOMC meeting held October 27-28, 2026:",
+  "zh": "美联储：已公布2026年10月27日至28日FOMC会议纪要。",
+  "url": "https://x.com/federalreserve/status/2123129448644190523"
+ },
+ {
+  "id": "2123123201672716598",
+  "created_at": "2026-11-18T18:36:31Z",
+  "user": "federalreserve",
+  "text": "Speech by Governor Barr on community development investments @NewYorkFed:\n\nLearn more about Governor Barr:",
+  "zh": "美联储：巴尔理事就社区发展投资发表讲话。",
+  "url": "https://x.com/federalreserve/status/2123123201672716598"
+ },
+ {
+  "id": "2123119560803176533",
+  "created_at": "2026-11-18T18:22:03Z",
+  "user": "satyanadella",
+  "text": "Bringing Salesforce to Copilot as we build Copilot as the OS for work! — quoting @salesforce: Introducing Copilotforce. Salesforce customer context and sales workflows are coming to Copilot and Teams.",
+  "zh": "纳德拉：将把Salesforce接入Copilot，并把Copilot打造成工作操作系统。——引用Salesforce：推出Copilotforce，客户与销售流程将进入Copilot和Teams。",
+  "url": "https://x.com/satyanadella/status/2123119560803176533"
+ },
+ {
+  "id": "2123115437219098651",
+  "created_at": "2026-11-18T18:05:40Z",
+  "user": "USTreasury",
+  "text": "Today, Treasury’s Office of Foreign Assets Control (OFAC) designated the Wa Ta’awanu Association, a charity that provides cover for Hizballah’s activities under the guise of delivering humanitarian services. OFAC today also designated members of a Lebanon- and Türkiye-based gold",
+  "zh": "美国财政部：海外资产控制办公室将以慈善为名掩护真主党活动的Wa Ta’awanu协会，以及一个黎巴嫩与土耳其黄金网络的成员列入制裁名单。",
+  "url": "https://x.com/USTreasury/status/2123115437219098651"
+ },
+ {
+  "id": "2123110241130729542",
+  "created_at": "2026-11-18T17:45:01Z",
+  "user": "NASA",
+  "text": "After nearly 50 years, Voyager 1 has traveled more than one light-day from Earth.\n\nHear about what the Voyager mission has taught us about our solar system—and beyond—in the newest episode of our Curious Universe podcast:",
+  "zh": "NASA：旅行者1号在近50年后已飞离地球超过1光日。",
+  "url": "https://x.com/NASA/status/2123110241130729542"
+ },
+ {
+  "id": "2123104796022313043",
+  "created_at": "2026-11-18T17:23:23Z",
+  "user": "SECGov",
+  "text": "In collaboration with @ndstudio, we’re excited to share that EDGAR content is now available through  🎉\n\nThis enhancement expands access to market information, helping investors, researchers, market participants, and the public interact with EDGAR data in",
+  "zh": "美国证交会：EDGAR内容已通过新渠道开放，便于投资者、研究与市场参与者获取相关市场信息。",
+  "url": "https://x.com/SECGov/status/2123104796022313043"
+ },
+ {
+  "id": "2123103123262615791",
+  "created_at": "2026-11-18T17:16:44Z",
+  "user": "WhiteHouse",
+  "text": ".@ODNIgov Director Jay Clayton tells congress on recent tech outages: \"We have no evidence that this is a coordinated cyberattack or state-sponsored activity.\" ⤵️",
+  "zh": "白宫：国家情报总监克莱顿向国会表示，近期技术故障没有证据表明是协同网络攻击或国家支持的行动。",
+  "url": "https://x.com/WhiteHouse/status/2123103123262615791"
+ },
+ {
+  "id": "2123100386638877054",
+  "created_at": "2026-11-18T17:05:52Z",
+  "user": "OpenAI",
+  "text": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing.\n\nThe same approach helped improve Jalapeño, our first custom inference chip, with gains verified",
+  "zh": "OpenAI：与AMD合作，不到五个月即在其旗舰GPU IP上识别出最高14%的PPA（性能-功耗-面积）改进，并据此改进首款自研推理芯片Jalapeño。",
+  "url": "https://x.com/OpenAI/status/2123100386638877054"
+ },
+ {
+  "id": "2123097995679867195",
+  "created_at": "2026-11-18T16:56:22Z",
+  "user": "SpaceX",
+  "text": "The Starbase tower team on location with the first caught Starship🍌",
+  "zh": "SpaceX：星舰基地塔架团队在现场展示首次被塔架成功捕捉的星舰。",
+  "url": "https://x.com/SpaceX/status/2123097995679867195"
+ },
+ {
+  "id": "2123017891167785201",
+  "created_at": "2026-11-18T11:38:03Z",
+  "user": "elonmusk",
+  "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely.",
+  "zh": "马斯克：修昔底德陷阱恐怕难以避免，最有戏剧性的结局往往也最可能发生。",
+  "url": "https://x.com/elonmusk/status/2123017891167785201"
+ },
+ {
   "id": "2122874155838124188",
   "created_at": "2026-11-18T02:06:54Z",
   "user": "WhiteHouse",
@@ -150,109 +286,5 @@
   "text": "VP JD Vance on much-needed infrastructure funding for the FAA:\n\n“Sometimes you have to work on a patchwork of solutions to keep a 50-year-old system up and running, why do we have a 50-year-old system in the first place?”",
   "zh": "白宫：万斯谈FAA急需基建资金：为何还在靠打补丁维持一套已运行50年的系统？",
   "url": "https://x.com/WhiteHouse/status/2122496717585350922"
- },
- {
-  "id": "2122465625109090646",
-  "created_at": "2026-11-16T23:03:33Z",
-  "user": "OpenAI",
-  "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\nAbridgeHQ, AmbienceAI, Cigna, CVSHealth, and other leading healthcare organizations are putting our models to work across prior",
-  "zh": "OpenAI：ChatGPT医疗版升级，电脑操作智能体更强、临床回答更好，并新增20余个医疗插件；包括信诺、CVS健康等机构已在使用。",
-  "url": "https://x.com/OpenAI/status/2122465625109090646"
- },
- {
-  "id": "2122446366354096479",
-  "created_at": "2026-11-16T21:47:01Z",
-  "user": "elonmusk",
-  "text": "As I was saying …\n\nFree Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.",
-  "zh": "马斯克：此前已向运输部长达菲提供免费星链给联邦航空局，对方称不需要；事实证明其实需要。",
-  "url": "https://x.com/elonmusk/status/2122446366354096479"
- },
- {
-  "id": "2122427170328883425",
-  "created_at": "2026-11-16T20:30:44Z",
-  "user": "SpaceX",
-  "text": "Views from Mechazilla of the first ever Starship catch",
-  "zh": "SpaceX：机械臂「Mechazilla」视角下，星舰首次成功捕获。",
-  "url": "https://x.com/SpaceX/status/2122427170328883425"
- },
- {
-  "id": "2122389314407407786",
-  "created_at": "2026-11-16T18:00:19Z",
-  "user": "nvidianewsroom",
-  "text": "We’re developing a quantum-classical codesign platform with @IBM and @Fermilab to advance practical quantum computing.\n\nNVIDIA DGX B200 systems will connect with IBM quantum computers to accelerate error-correction and applications research. Separately, our new TCBP-JOBS decoder",
-  "zh": "英伟达：正与IBM和费米实验室开发量子-经典协同设计平台，DGX B200将连接IBM量子计算机，加速纠错与应用研究。",
-  "url": "https://x.com/nvidianewsroom/status/2122389314407407786"
- },
- {
-  "id": "2122380010287960095",
-  "created_at": "2026-11-16T17:23:21Z",
-  "user": "OpenAI",
-  "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing",
-  "zh": "OpenAI：对1800多名参与「ChatGPT学术研究」项目的科学家调研显示，使用人工智能后其生产率接近翻倍。",
-  "url": "https://x.com/OpenAI/status/2122380010287960095"
- },
- {
-  "id": "2122377585523126615",
-  "created_at": "2026-11-16T17:13:42Z",
-  "user": "OpenAI",
-  "text": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with training and support.\n\nApplications open Nov. 23. By default, we don’t use data shared through the program to train our models.",
-  "zh": "OpenAI：将把前沿模型免费使用权扩大至全球最多20万名科学家，并提供培训支持；11月23日起开放申请，默认不用项目数据训练模型。",
-  "url": "https://x.com/OpenAI/status/2122377585523126615"
- },
- {
-  "id": "2122376341131571405",
-  "created_at": "2026-11-16T17:08:46Z",
-  "user": "nvidianewsroom",
-  "text": "Today at #SC26, we announced the NVIDIA Vera CPU rack-scale platform for high-performance computing.\n\nPairing our first fully custom data center CPU with NVIDIA Quantum-X800 InfiniBand, Vera delivers up to 2x greater energy efficiency than x86. That means faster answers on",
-  "zh": "英伟达：在SC26发布Vera CPU机架级高性能计算平台，首款全自研数据中心CPU搭配Quantum-X800 InfiniBand，能效最高可达x86的两倍。",
-  "url": "https://x.com/nvidianewsroom/status/2122376341131571405"
- },
- {
-  "id": "2122374409306742925",
-  "created_at": "2026-11-16T17:01:05Z",
-  "user": "federalreserve",
-  "text": "Chairman Warsh delivers opening remarks at the Federal Reserve’s Productivity and Jobs Task Force Conference hosted by the @sffed:\n\nWatch live:\n\nLearn more about Chairman Warsh:",
-  "zh": "美联储：主席沃什在旧金山联储主办的生产率与就业特别工作组会议上致开幕辞。",
-  "url": "https://x.com/federalreserve/status/2122374409306742925"
- },
- {
-  "id": "2122363483354280353",
-  "created_at": "2026-11-16T16:17:40Z",
-  "user": "esa",
-  "text": "Our planetary defence mission Hera is about to reveal the first detailed images of asteroid Dimorphos since NASA’s DART impact in 2022.\n\nJournalists, join our media briefing on 25 November, in Berlin or online.\n\nRegister by 23 November:",
-  "zh": "欧空局：行星防御任务Hera即将公布自2022年NASA的DART撞击以来双小行星Dimorphos的首批详细图像；11月25日将在柏林或线上举行媒体简报。",
-  "url": "https://x.com/esa/status/2122363483354280353"
- },
- {
-  "id": "2122361729921208328",
-  "created_at": "2026-11-16T16:10:42Z",
-  "user": "WhiteHouse",
-  "text": "President Donald J. Trump departs for a major trip to Asia with his first stop to the Philippines for the ASEAN Summit, followed by a visit to Shenzhen, China, for the APEC Leaders' Summit. Peace through strength.",
-  "zh": "白宫：特朗普启程亚洲之行，先赴菲律宾出席东盟峰会，再访中国深圳参加APEC领导人峰会。",
-  "url": "https://x.com/WhiteHouse/status/2122361729921208328"
- },
- {
-  "id": "2122361006764511621",
-  "created_at": "2026-11-16T16:07:50Z",
-  "user": "nvidianewsroom",
-  "text": "Ready to build your own agent to speed scientific discovery?\n\nIntroducing Nemotron for Science, helping researchers develop agents that reason through scientific problems and put specialized research tools to work.\n\nUsed by @argonne, @RIKEN_en & more. #SC26",
-  "zh": "英伟达：推出面向科学的Nemotron，帮助研究人员开发能推理科学问题并调用专业研究工具的智能体；阿贡、理研等已在使用。",
-  "url": "https://x.com/nvidianewsroom/status/2122361006764511621"
- },
- {
-  "id": "2122359930628063248",
-  "created_at": "2026-11-16T16:03:33Z",
-  "user": "OpenAI",
-  "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and",
-  "zh": "OpenAI：正与Apollo Research、METR、Transluce、Goodfire合作开展嵌入式评估，让外部专家深入访问内部模型与系统，核查对齐并测试安全措施。",
-  "url": "https://x.com/OpenAI/status/2122359930628063248"
- },
- {
-  "id": "2122339168135319767",
-  "created_at": "2026-11-16T14:41:03Z",
-  "user": "WhiteHouse",
-  "text": "President Trump on Friday's FAA ground stop:  \"We have old equipment, broken equipment. We've been telling that to Congress... We essentially want to blow it up and put new in... We need the funding to get it done.\"",
-  "zh": "白宫：特朗普谈周五联邦航空局停飞：设备陈旧损坏，已向国会反复说明，希望推倒重来装上新设备，需要拨款完成。",
-  "url": "https://x.com/WhiteHouse/status/2122339168135319767"
  }
 ]
