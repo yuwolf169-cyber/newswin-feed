@@ -1,5 +1,13 @@
 [
  {
+  "id": "2123220899264679988",
+  "created_at": "2026-11-19T01:04:44Z",
+  "user": "elonmusk",
+  "text": "Catching the ship was the last major piece of the puzzle — quoting: Elon Musk on why the historic Starship catch is a much bigger milestone than most people realize. “Catching the ship was the final major piece.” SpaceX has now achieved: 3 successful Super Heavy booster catches; a booster that was reflown and caught again; the FIRST EVER.",
+  "zh": "马斯克：捕捉飞船是拼图的最后一块关键部分。",
+  "url": "https://x.com/elonmusk/status/2123220899264679988"
+ },
+ {
   "id": "2123196808675405860",
   "created_at": "2026-11-18T23:29:00Z",
   "user": "AnthropicAI",
@@ -278,13 +286,5 @@
   "text": "Our Hera mission is now studying asteroid Didymos from just 28.5 km away in visible light and infrared to reveal its surface features, composition and temperature. These observations will help us better understand asteroid properties and improve planetary defence.",
   "zh": "欧空局：Hera探测器已在距双旋星小行星28.5公里处进行可见光与红外观测，以了解其表面特征、成分和温度，并改进行星防御。",
   "url": "https://x.com/esa/status/2122628843013828852"
- },
- {
-  "id": "2122496717585350922",
-  "created_at": "2026-11-17T01:07:06Z",
-  "user": "WhiteHouse",
-  "text": "VP JD Vance on much-needed infrastructure funding for the FAA:\n\n“Sometimes you have to work on a patchwork of solutions to keep a 50-year-old system up and running, why do we have a 50-year-old system in the first place?”",
-  "zh": "白宫：万斯谈FAA急需基建资金：为何还在靠打补丁维持一套已运行50年的系统？",
-  "url": "https://x.com/WhiteHouse/status/2122496717585350922"
  }
 ]
