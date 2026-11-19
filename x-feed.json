@@ -1,5 +1,21 @@
 [
  {
+  "id": "2123319956381339961",
+  "created_at": "2026-11-19T07:38:21Z",
+  "user": "elonmusk",
+  "text": "Moving all text conversations to be encrypted to ensure user privacy",
+  "zh": "马斯克：所有文字对话将改为加密以保障用户隐私——引用称本周五起停止支持XChat旧版群组，未加密对话将全部加密，周五前未加入XChat的群成员需注册后才能重新进入。",
+  "url": "https://x.com/elonmusk/status/2123319956381339961"
+ },
+ {
+  "id": "2123317934747746611",
+  "created_at": "2026-11-19T07:30:19Z",
+  "user": "elonmusk",
+  "text": "X Money is growing fast",
+  "zh": "马斯克：X Money增长很快——引用称现已可从X直接向27个国家进行国际银行转账，收款人按当地货币到账。",
+  "url": "https://x.com/elonmusk/status/2123317934747746611"
+ },
+ {
   "id": "2123298515573207075",
   "created_at": "2026-11-19T06:13:09Z",
   "user": "elonmusk",
@@ -302,21 +318,5 @@
   "text": "President Trump & Thai Prime Minister Charnvirakul sign a reciprocal trade agreement, eliminating all tariffs on U.S. exports & securing an estimated $2.6B in U.S. agricultural purchases. A major win for American farmers, American businesses, & U.S.-Thailand trade.",
   "zh": "白宫：特朗普与泰国总理猜瑟瓦签署对等贸易协定，取消对美出口全部关税，并锁定约 26 亿美元美国农产品采购。",
   "url": "https://x.com/WhiteHouse/status/2122705317226246612"
- },
- {
-  "id": "2122695250812584194",
-  "created_at": "2026-11-17T14:16:00Z",
-  "user": "federalreserve",
-  "text": "October #IndustrialProduction: Total -0.4%, Mfg. +0.3%, Utilities -4.3%, Mining -0.8%; #CapacityUtilization 76.4%",
-  "zh": "美联储：10 月工业产出下降 0.4%，其中制造业升 0.3%、公用事业降 4.3%、采矿业降 0.8%；产能利用率为 76.4%。",
-  "url": "https://x.com/federalreserve/status/2122695250812584194"
- },
- {
-  "id": "2122633418269954302",
-  "created_at": "2026-11-17T10:10:18Z",
-  "user": "nvidianewsroom",
-  "text": "The NVIDIA Board of Directors has established the National Security and Export Control Oversight Committee. Read the release:",
-  "zh": "英伟达：董事会已设立国家安全与出口管制监督委员会。",
-  "url": "https://x.com/nvidianewsroom/status/2122633418269954302"
  }
 ]
