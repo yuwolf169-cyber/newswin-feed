@@ -1,5 +1,13 @@
 [
  {
+  "id": "2123298515573207075",
+  "created_at": "2026-11-19T06:13:09Z",
+  "user": "elonmusk",
+  "text": "Yes. Only questions are how fast the singularity will grow and to what size. — quoting: guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening",
+  "zh": "马斯克：是的。问题只在于奇点会增长多快、会到多大规模。 — 引用：有人说我们已身处奇点之中，有时夜里醒来才突然意识到这一切正在发生。",
+  "url": "https://x.com/elonmusk/status/2123298515573207075"
+ },
+ {
   "id": "2123287507634888825",
   "created_at": "2026-11-19T05:29:25Z",
   "user": "WhiteHouse",
@@ -310,13 +318,5 @@
   "text": "The NVIDIA Board of Directors has established the National Security and Export Control Oversight Committee. Read the release:",
   "zh": "英伟达：董事会已设立国家安全与出口管制监督委员会。",
   "url": "https://x.com/nvidianewsroom/status/2122633418269954302"
- },
- {
-  "id": "2122628843013828852",
-  "created_at": "2026-11-17T09:52:07Z",
-  "user": "esa",
-  "text": "Our Hera mission is now studying asteroid Didymos from just 28.5 km away in visible light and infrared to reveal its surface features, composition and temperature. These observations will help us better understand asteroid properties and improve planetary defence.",
-  "zh": "欧空局：Hera探测器已在距双旋星小行星28.5公里处进行可见光与红外观测，以了解其表面特征、成分和温度，并改进行星防御。",
-  "url": "https://x.com/esa/status/2122628843013828852"
  }
 ]
