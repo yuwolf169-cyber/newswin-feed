@@ -1,5 +1,13 @@
 [
  {
+  "id": "2123333341932052749",
+  "created_at": "2026-11-19T08:31:32Z",
+  "user": "elonmusk",
+  "text": "Starlink started with a speech in Seattle — quoting: ELON MUSK’S 2015 SATELLITE VISION IS NOW THE BIGGEST NETWORK ON EARTH. In 2015 Elon opened SpaceX’s satellite office in Seattle and said they wanted to change satellites the same way they changed rockets. Eleven years later Starlink has more than 11,100 satellites in orbit.",
+  "zh": "马斯克：星链始于西雅图的一次演讲 — 引用称2015年他在西雅图开设SpaceX卫星办公室，要用改变火箭的方式改变卫星；11年后星链在轨卫星已超过11100颗",
+  "url": "https://x.com/elonmusk/status/2123333341932052749"
+ },
+ {
   "id": "2123319956381339961",
   "created_at": "2026-11-19T07:38:21Z",
   "user": "elonmusk",
@@ -310,13 +318,5 @@
   "text": "Advanced solid state transformers at scale from Tesla — quoting: Introducing Powercore. Solid state medium voltage transformer, inverter and breaker – reliable, safe and secure. 7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power. Made in America. Operating 2027",
   "zh": "马斯克：特斯拉将大规模推出先进固态变压器 —— 引用称：Powercore 为固态中压变压器、逆变器与断路器一体，可持续输出 7.4 兆瓦/9 兆伏安，并支持 10 兆伏安峰值，美国制造，2027 年投运。",
   "url": "https://x.com/elonmusk/status/2122733232894468308"
- },
- {
-  "id": "2122705317226246612",
-  "created_at": "2026-11-17T14:56:00Z",
-  "user": "WhiteHouse",
-  "text": "President Trump & Thai Prime Minister Charnvirakul sign a reciprocal trade agreement, eliminating all tariffs on U.S. exports & securing an estimated $2.6B in U.S. agricultural purchases. A major win for American farmers, American businesses, & U.S.-Thailand trade.",
-  "zh": "白宫：特朗普与泰国总理猜瑟瓦签署对等贸易协定，取消对美出口全部关税，并锁定约 26 亿美元美国农产品采购。",
-  "url": "https://x.com/WhiteHouse/status/2122705317226246612"
  }
 ]
