@@ -1,5 +1,21 @@
 [
  {
+  "id": "2123360778350977184",
+  "created_at": "2026-11-19T10:20:34Z",
+  "user": "esa",
+  "text": "On 23 November, Ariane 6 will lift off from Europe’s Spaceport, carrying 36 Amazon Leo satellites into orbit.\n\n📺 Watch live from 11:39 GMT / 12:39 CET.",
+  "zh": "欧洲航天局：阿里安6号将于11月23日从欧洲航天港升空，搭载36颗亚马逊Leo卫星入轨，直播于11:39 GMT（12:39 CET）开始。",
+  "url": "https://x.com/esa/status/2123360778350977184"
+ },
+ {
+  "id": "2123357437956940275",
+  "created_at": "2026-11-19T10:07:17Z",
+  "user": "esa",
+  "text": "On 15 December, our Member States meet in Rome to shape Europe’s future in space exploration. — quoting @AschbacherJosef: The world is not waiting for Europe. We have the talent. We have the technology. The question is whether we have the ambition to shape what comes next. On 15 December, Europe has a choice to make about its future in exploration. Let us be bold enough to grasp the moment.",
+  "zh": "欧洲航天局：成员国将于12月15日在罗马开会，规划欧洲太空探索的未来——引用ESA局长阿施巴赫：世界不会等欧洲；我们有人才和技术，问题是是否有塑造未来的雄心，希望欧洲敢于抓住这一刻。",
+  "url": "https://x.com/esa/status/2123357437956940275"
+ },
+ {
   "id": "2123337655731826810",
   "created_at": "2026-11-19T08:48:41Z",
   "user": "elonmusk",
@@ -302,21 +318,5 @@
   "text": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world.",
   "zh": "OpenAI：GPT-6.2 的 Astra 与 Sol 现已上线，称其高效并面向实际应用。",
   "url": "https://x.com/OpenAI/status/2122750124543926515"
- },
- {
-  "id": "2122741728247738688",
-  "created_at": "2026-11-17T17:20:41Z",
-  "user": "sundarpichai",
-  "text": "Knowing things → doing things → finding ways to save you time and money. We’re expanding Tasks in Gemini free of charge to hundreds of millions of people in six countries. Powered by Gemini 4 Hydrogen, Tasks lets you hand off everyday life admin directly: - Forward emails to",
-  "zh": "皮查伊：将向六个国家数亿用户免费开放 Gemini 任务功能，由 Gemini 4 Hydrogen 驱动，可代办邮件转发等日常事务。",
-  "url": "https://x.com/sundarpichai/status/2122741728247738688"
- },
- {
-  "id": "2122740072386609201",
-  "created_at": "2026-11-17T17:14:06Z",
-  "user": "NASA",
-  "text": "Join us in getting a look at the universe as it has never been seen before. On Dec. 7, at 3:30pm ET (2030 UTC), @NASARoman’s first images will be unveiled during a livestream from @theAGU Annual Meeting. Learn how to tune in:",
-  "zh": "NASA：罗马太空望远镜首批图像将于 12 月 7 日 15:30（美东时间，世界时 20:30）在美国地球物理联合会年会上直播公布。",
-  "url": "https://x.com/NASA/status/2122740072386609201"
  }
 ]
