@@ -1,5 +1,141 @@
 [
  {
+  "id": "2123551533128093935",
+  "created_at": "2026-11-19T22:58:33Z",
+  "user": "WhiteHouse",
+  "text": "The Trump Admin is delivering greater transparency.\n\nAmericans can now access SEC’s EDGAR (Electronic Data Gathering, Analysis, & Retrieval) database to easily find company info & reports, putting accurate, real-time data directly at your fingertips.",
+  "zh": "白宫：美国人现可通过SEC的EDGAR数据库直接查询公司信息与报告，实时数据更易获取。",
+  "url": "https://x.com/WhiteHouse/status/2123551533128093935"
+ },
+ {
+  "id": "2123529456606122111",
+  "created_at": "2026-11-19T21:30:50Z",
+  "user": "federalreserve",
+  "text": "Our weekly #BalanceSheet update. #FedData",
+  "zh": "美联储：发布本周资产负债表更新。",
+  "url": "https://x.com/federalreserve/status/2123529456606122111"
+ },
+ {
+  "id": "2123529356089946543",
+  "created_at": "2026-11-19T21:30:26Z",
+  "user": "sundarpichai",
+  "text": "Entanglement usually gets top billing in quantum computing, but quantum contextuality, the idea that properties don't have fixed values independent of how you measure them, may be the deeper reason quantum computers can outperform classical ones.\n\nToday on the cover of @ScienceMagazine, we put contextuality to work on our Willow quantum processor:\n\n- won the \"impossible\" magic square game 98.3% of the time (classical limit: 88.9%)\n- measured a 5.59 on state-independent contextuality tests (classical bound: 4, quantum max: 6)\n- beat classical strategies in multiplayer games up to 71 qubits\n- ran a landmark shallow-circuit algorithm at scale for the first time - up to 105 qubits\n\nThese tasks also catch subtle hardware errors random benchmarks miss, a sharper ruler for building better quantum systems.",
+  "zh": "皮查伊：称量子语境性或才是量子计算机超越经典计算机的更深原因；谷歌用Willow处理器相关实验登上《科学》封面，包括最高105量子比特的浅层电路算法等。",
+  "url": "https://x.com/sundarpichai/status/2123529356089946543"
+ },
+ {
+  "id": "2123524455490085223",
+  "created_at": "2026-11-19T21:10:58Z",
+  "user": "WhiteHouse",
+  "text": "Prioritizing high quality care for all Americans.\n\nOn this Rural Health Day, we celebrate President Trump's historic investment in rural America, committing $50 billion to transforming rural health across the country, of which $20 billion has already been distributed.\n\nThis funding goes to all 50 states and helps transform health infrastructure, disease prevention, and much more.",
+  "zh": "白宫：值农村健康日，称已承诺投入500亿美元改善农村医疗，其中200亿美元已拨付，覆盖全部50个州。",
+  "url": "https://x.com/WhiteHouse/status/2123524455490085223"
+ },
+ {
+  "id": "2123520987698270687",
+  "created_at": "2026-11-19T20:57:11Z",
+  "user": "NASA",
+  "text": "On Sunday, Nov. 29, our @NorthropGrumman cargo mission is scheduled to lift off to the @Space_Station, carrying science, equipment, and supplies—including fresh fruit, veggies, and holiday treats! Learn how to watch with us:",
+  "zh": "NASA：诺斯罗普·格鲁曼货运任务定于11月29日（周日）升空前往国际空间站，将运送科学实验、设备补给及新鲜蔬果等。",
+  "url": "https://x.com/NASA/status/2123520987698270687"
+ },
+ {
+  "id": "2123516375805379040",
+  "created_at": "2026-11-19T20:38:51Z",
+  "user": "SpaceX",
+  "text": "On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and ended its mission with a splashdown in the water off the coast of Starbase. Following splashdown, SpaceX recovery teams were immediately onsite to safe the area while our Environmental Health and Safety team worked to ensure any debris that washes onshore was recovered. When we received reports of potential debris in Mexican territory, we immediately mobilized to send specialists to aid in identification and lead any cleanup work required. Partners on the ground relayed that they have found very little debris in their sweeps of the beach, and the small amount they have found are not clearly from SpaceX operations. The majority of the social media posts online claiming widespread debris and damage are either outright fabrications or intentionally misleading. Independent tests confirm materials inside Starship and the Super Heavy booster pose no chemical, biological, or toxicological risks.",
+  "zh": "SpaceX：星舰第15次飞行中，超重型助推器在返回捕捉时执行安全中止并在星基海岸附近溅落；回收团队已到场处理，并称针对墨西哥境内残骸传闻已派人协助辨认清理，多数社交媒体相关说法不实，材料检测显示无毒理风险。",
+  "url": "https://x.com/SpaceX/status/2123516375805379040"
+ },
+ {
+  "id": "2123512450427559979",
+  "created_at": "2026-11-19T20:23:15Z",
+  "user": "USTreasury",
+  "text": "Today, Treasury’s Office of Foreign Assets Control sanctioned two international drug trafficking organizations: the Australia-headquartered Comanchero Outlaw Motorcycle Gang and the Italy-based ‘Ndrangheta, a mafia-type criminal syndicate. By providing essential logistical and operational support, the Comancheros and ‘Ndrangheta help terrorist cartels expand their international reach and sustain global narcotrafficking networks.",
+  "zh": "美国财政部：外国资产控制办公室制裁两个国际贩毒组织——总部在澳大利亚的Comanchero摩托车党，以及意大利黑手党式集团’Ndrangheta，称它们为恐怖卡特尔提供后勤支持。",
+  "url": "https://x.com/USTreasury/status/2123512450427559979"
+ },
+ {
+  "id": "2123507319040528546",
+  "created_at": "2026-11-19T20:02:52Z",
+  "user": "Tesla",
+  "text": "Cybercab expands to second city — quoting @robotaxi: Howdy Dallas. Cybercab has arrived in your city",
+  "zh": "特斯拉：Cybercab已扩展至第二座城市 — quoting @robotaxi: Cybercab已抵达达拉斯。",
+  "url": "https://x.com/Tesla/status/2123507319040528546"
+ },
+ {
+  "id": "2123480400215294353",
+  "created_at": "2026-11-19T18:15:54Z",
+  "user": "WhiteHouse",
+  "text": "NEW Op-Ed by @Sonderling47 for @WashingtonPost: 'A rule to protect these American workers gets refreshed'\n\nThis week, @USDOL finalized a new rule to ensure that every American worker who chooses to work for themselves as an independent contractor has the freedom to do so.",
+  "zh": "白宫：美国劳工部本周敲定新规，保障选择以独立承包商身份工作的美国人可继续自行从业。",
+  "url": "https://x.com/WhiteHouse/status/2123480400215294353"
+ },
+ {
+  "id": "2123475464043786417",
+  "created_at": "2026-11-19T17:56:17Z",
+  "user": "elonmusk",
+  "text": "You can create an entire company made of Grok Bots! — quoting: I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps.",
+  "zh": "马斯克：称可以用Grok Bot组建一家完整的公司 — quoting：有人说一觉醒来Grok Bot已开好多个PR、跑完测试并完成合并，就像雇了一支从不睡觉的团队。",
+  "url": "https://x.com/elonmusk/status/2123475464043786417"
+ },
+ {
+  "id": "2123466757318848592",
+  "created_at": "2026-11-19T17:21:41Z",
+  "user": "USTreasury",
+  "text": "Today, Treasury’s Office of Foreign Assets Control sanctioned several cyber scam operators and armed group facilitators in Southeast Asia. The Trump Administration will continue to unleash every available tool to stop foreign-backed criminal networks from targeting vulnerable Americans through scams.",
+  "zh": "美国财政部：外国资产控制办公室制裁东南亚多名网络诈骗运营商及武装组织协助者，称将继续打击针对美国人的境外犯罪网络。",
+  "url": "https://x.com/USTreasury/status/2123466757318848592"
+ },
+ {
+  "id": "2123464732246254075",
+  "created_at": "2026-11-19T17:13:38Z",
+  "user": "WhiteHouse",
+  "text": "After a busy, consequential trip to Asia, President Donald J. Trump announces he will be giving a news conference tomorrow, Friday November 20th, at 12:00 PM at the White House.",
+  "zh": "白宫：特朗普结束亚洲行程后宣布，将于11月20日（周五）中午12时在白宫举行新闻发布会。",
+  "url": "https://x.com/WhiteHouse/status/2123464732246254075"
+ },
+ {
+  "id": "2123461658890686863",
+  "created_at": "2026-11-19T17:01:26Z",
+  "user": "AnthropicAI",
+  "text": "Remarks from Anthropic CEO @DarioAmodei on our initial public offering:\n\nMy co-founders and I started Anthropic because we believe that the most powerful technology of our time should be built for the benefit of humankind. I believe sufficiently powerful AI, working in concert with humans, could compress a century of scientific and medical progress into a decade. At the same time, we have always been honest that this technology has very real risks. And to state it unequivocally, we will pace the training and deployment of AI systems, taking as long as is necessary to have confidence that they are safe and will remain under human control. We will not bend to either business or political pressure. Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing.",
+  "zh": "阿莫代伊：就Anthropic IPO发表讲话，称创立公司是为了让当代最强大的技术造福人类；认为足够强大的人工智能可与人协作，将百年科学与医学进步压缩到十年，并强调不会向商业或政治压力让步，将按安全节奏训练和部署系统。",
+  "url": "https://x.com/AnthropicAI/status/2123461658890686863"
+ },
+ {
+  "id": "2123438604353458199",
+  "created_at": "2026-11-19T15:29:49Z",
+  "user": "WhiteHouse",
+  "text": "President Trump departs China after a historic trip.\n\n- Secured $17 billion for U.S. companies.\n- Met with the world's most important leaders and nations, including President Xi, President Putin, and President Marcos.\n- Delivered key remarks at both the ASEAN and APEC Summits.",
+  "zh": "白宫：特朗普结束对华行程，称此行为美国公司争取到170亿美元，并会晤习近平、普京和马科斯，还在东盟与APEC峰会发表讲话。",
+  "url": "https://x.com/WhiteHouse/status/2123438604353458199"
+ },
+ {
+  "id": "2123422587464159617",
+  "created_at": "2026-11-19T14:26:10Z",
+  "user": "federalreserve",
+  "text": "Speech by Vice Chair Jefferson on economic shocks.",
+  "zh": "美联储：副主席杰斐逊就经济冲击发表演讲。",
+  "url": "https://x.com/federalreserve/status/2123422587464159617"
+ },
+ {
+  "id": "2123420037373460620",
+  "created_at": "2026-11-19T14:16:02Z",
+  "user": "WhiteHouse",
+  "text": "A historic first on the world stage.\n\nPresident Donald J. Trump, President Xi, and President Putin hold trilateral talks in China.",
+  "zh": "白宫：特朗普、习近平与普京在华举行三边会谈，称这是世界舞台上的历史性首次。",
+  "url": "https://x.com/WhiteHouse/status/2123420037373460620"
+ },
+ {
+  "id": "2123401811327619388",
+  "created_at": "2026-11-19T13:03:37Z",
+  "user": "WhiteHouse",
+  "text": "President Donald J. Trump Addresses Historic Trilateral Meeting with Chinese President Xi and Russian President Putin.\n\n\"We have a special responsibility to maintain open, respectful, & productive dialogue on issues impacting not just our people, but the entire planet.\" - @POTUS",
+  "zh": "白宫：特朗普在与习近平、普京的三边会晤中表示，三国对保持开放、尊重且富有成效的对话负有特殊责任，事关各国人民乃至整个地球。",
+  "url": "https://x.com/WhiteHouse/status/2123401811327619388"
+ },
+ {
   "id": "2123360778350977184",
   "created_at": "2026-11-19T10:20:34Z",
   "user": "esa",
@@ -182,141 +318,5 @@
   "text": "Today, Treasury’s Office of Foreign Assets Control (OFAC) designated the Wa Ta’awanu Association, a charity that provides cover for Hizballah’s activities under the guise of delivering humanitarian services. OFAC today also designated members of a Lebanon- and Türkiye-based gold",
   "zh": "美国财政部：海外资产控制办公室将以慈善为名掩护真主党活动的Wa Ta’awanu协会，以及一个黎巴嫩与土耳其黄金网络的成员列入制裁名单。",
   "url": "https://x.com/USTreasury/status/2123115437219098651"
- },
- {
-  "id": "2123110241130729542",
-  "created_at": "2026-11-18T17:45:01Z",
-  "user": "NASA",
-  "text": "After nearly 50 years, Voyager 1 has traveled more than one light-day from Earth.\n\nHear about what the Voyager mission has taught us about our solar system—and beyond—in the newest episode of our Curious Universe podcast:",
-  "zh": "NASA：旅行者1号在近50年后已飞离地球超过1光日。",
-  "url": "https://x.com/NASA/status/2123110241130729542"
- },
- {
-  "id": "2123104796022313043",
-  "created_at": "2026-11-18T17:23:23Z",
-  "user": "SECGov",
-  "text": "In collaboration with @ndstudio, we’re excited to share that EDGAR content is now available through  🎉\n\nThis enhancement expands access to market information, helping investors, researchers, market participants, and the public interact with EDGAR data in",
-  "zh": "美国证交会：EDGAR内容已通过新渠道开放，便于投资者、研究与市场参与者获取相关市场信息。",
-  "url": "https://x.com/SECGov/status/2123104796022313043"
- },
- {
-  "id": "2123103123262615791",
-  "created_at": "2026-11-18T17:16:44Z",
-  "user": "WhiteHouse",
-  "text": ".@ODNIgov Director Jay Clayton tells congress on recent tech outages: \"We have no evidence that this is a coordinated cyberattack or state-sponsored activity.\" ⤵️",
-  "zh": "白宫：国家情报总监克莱顿向国会表示，近期技术故障没有证据表明是协同网络攻击或国家支持的行动。",
-  "url": "https://x.com/WhiteHouse/status/2123103123262615791"
- },
- {
-  "id": "2123100386638877054",
-  "created_at": "2026-11-18T17:05:52Z",
-  "user": "OpenAI",
-  "text": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing.\n\nThe same approach helped improve Jalapeño, our first custom inference chip, with gains verified",
-  "zh": "OpenAI：与AMD合作，不到五个月即在其旗舰GPU IP上识别出最高14%的PPA（性能-功耗-面积）改进，并据此改进首款自研推理芯片Jalapeño。",
-  "url": "https://x.com/OpenAI/status/2123100386638877054"
- },
- {
-  "id": "2123097995679867195",
-  "created_at": "2026-11-18T16:56:22Z",
-  "user": "SpaceX",
-  "text": "The Starbase tower team on location with the first caught Starship🍌",
-  "zh": "SpaceX：星舰基地塔架团队在现场展示首次被塔架成功捕捉的星舰。",
-  "url": "https://x.com/SpaceX/status/2123097995679867195"
- },
- {
-  "id": "2123017891167785201",
-  "created_at": "2026-11-18T11:38:03Z",
-  "user": "elonmusk",
-  "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely.",
-  "zh": "马斯克：修昔底德陷阱恐怕难以避免，最有戏剧性的结局往往也最可能发生。",
-  "url": "https://x.com/elonmusk/status/2123017891167785201"
- },
- {
-  "id": "2122874155838124188",
-  "created_at": "2026-11-18T02:06:54Z",
-  "user": "WhiteHouse",
-  "text": "“The best way to deal with people’s uncertainty and discomfort is to share with them transparently what we know… Every indicator that we have is that every single one of these events has an explanation or a cause that has nothing to do with a cyber criminal, has nothing to do with a hostile actor or another country.” - Secretary of State Marco Rubio",
-  "zh": "白宫：国务卿鲁比奥称，现有迹象表明这些事件均有解释或原因，与网络犯罪、敌对势力或他国无关。",
-  "url": "https://x.com/WhiteHouse/status/2122874155838124188"
- },
- {
-  "id": "2122818300669239539",
-  "created_at": "2026-11-17T22:24:57Z",
-  "user": "nvidianewsroom",
-  "text": "Building the future of AI takes a global supply chain. We’re expanding commitments with Amkor Technology, Foxconn, Kinsus, Samsung Electro-Mechanics, SPIL and TSMC, building on previously announced commitments with IBIDEN, KYEC and Unimicron. Together, we’re building the",
-  "zh": "英伟达：将扩大与安靠、富士康、景硕、三星电机、矽品和台积电的合作承诺，并延续此前与揖斐电、京元电子和欣兴电子的安排，加码全球 AI 供应链。",
-  "url": "https://x.com/nvidianewsroom/status/2122818300669239539"
- },
- {
-  "id": "2122814338893332591",
-  "created_at": "2026-11-17T22:09:13Z",
-  "user": "SpaceX",
-  "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad",
-  "zh": "SpaceX：星舰基地发射塔“筷子”完成首次捕获星舰；该架构旨在实现快速完全重复使用，可在同一发射台反复发射和着陆。",
-  "url": "https://x.com/SpaceX/status/2122814338893332591"
- },
- {
-  "id": "2122811052840943943",
-  "created_at": "2026-11-17T21:56:09Z",
-  "user": "WhiteHouse",
-  "text": "\"This is not a cyberattack and this is not a coordinated effort by a nation-state.\" - Director of National Intelligence Jay Clayton.",
-  "zh": "白宫：国家情报总监克莱顿称，此事并非网络攻击，也不是某个国家的协同行动。",
-  "url": "https://x.com/WhiteHouse/status/2122811052840943943"
- },
- {
-  "id": "2122805252533670248",
-  "created_at": "2026-11-17T21:33:06Z",
-  "user": "nvidianewsroom",
-  "text": "NEWS: NVIDIA announces financial results for third quarter fiscal 2027. Revenue of $115.8 billion, up 103% from a year ago. Data Center revenue of $107.6 billion, up 110% from a year ago.",
-  "zh": "英伟达：公布 2027 财年第三季度业绩，营收 1158 亿美元、同比增长 103%，数据中心营收 1076 亿美元、同比增长 110%。",
-  "url": "https://x.com/nvidianewsroom/status/2122805252533670248"
- },
- {
-  "id": "2122800683867082960",
-  "created_at": "2026-11-17T21:14:57Z",
-  "user": "satyanadella",
-  "text": "With Meta’s latest models coming to Foundry, we’re giving developers and enterprises even more choice and flexibility! — quoting: Muse Wonder, Muse Spark 1.3, and Muse Ember are coming soon to Microsoft Foundry on @Azure.",
-  "zh": "纳德拉：Meta 最新模型将登陆 Foundry，为开发者和企业提供更多选择 —— 引用称：Muse Wonder、Muse Spark 1.3 和 Muse Ember 即将登陆 Azure 上的 Microsoft Foundry。",
-  "url": "https://x.com/satyanadella/status/2122800683867082960"
- },
- {
-  "id": "2122798039899263456",
-  "created_at": "2026-11-17T21:04:27Z",
-  "user": "sama",
-  "text": "6.2 Sol and Astra are out. These models can do amazing things and are very token-efficient; we hope people will get great value from them. In particular, 6.2 Sol ultrafast is something I think people will really enjoy.",
-  "zh": "奥特曼：GPT-6.2 的 Sol 与 Astra 已发布，强调高 token 效率；尤其推荐 6.2 Sol 超快版。",
-  "url": "https://x.com/sama/status/2122798039899263456"
- },
- {
-  "id": "2122794297544097976",
-  "created_at": "2026-11-17T20:49:34Z",
-  "user": "WhiteHouse",
-  "text": "Congress was warned. FAA infrastructure badly needs funding. The old systems need to be upgraded for the safety and security of the American people.",
-  "zh": "白宫：国会此前已接到警告；联邦航空管理局基础设施急需拨款，旧系统须升级，以保障美国民众的安全。",
-  "url": "https://x.com/WhiteHouse/status/2122794297544097976"
- },
- {
-  "id": "2122793780810264837",
-  "created_at": "2026-11-17T20:47:31Z",
-  "user": "SpaceX",
-  "text": "After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18",
-  "zh": "SpaceX：执行第 35 次商业补给任务的龙飞船在空间站停靠 34 天后，最早将于 11 月 18 日（周三）撤离。",
-  "url": "https://x.com/SpaceX/status/2122793780810264837"
- },
- {
-  "id": "2122757357348561008",
-  "created_at": "2026-11-17T18:22:47Z",
-  "user": "USTreasury",
-  "text": "President Trump continues to safeguard American citizens, and today @FinCENnews proposal takes the next step in implementing the President’s historic Executive Order, “Restoring Integrity to America’s Financial System.” This action will strengthen customer due diligence",
-  "zh": "美国财政部：金融犯罪执法网络（FinCEN）今日提出新方案，落实“恢复美国金融体系诚信”行政令，将加强客户尽职调查。",
-  "url": "https://x.com/USTreasury/status/2122757357348561008"
- },
- {
-  "id": "2122750124543926515",
-  "created_at": "2026-11-17T17:54:03Z",
-  "user": "OpenAI",
-  "text": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world.",
-  "zh": "OpenAI：GPT-6.2 的 Astra 与 Sol 现已上线，称其高效并面向实际应用。",
-  "url": "https://x.com/OpenAI/status/2122750124543926515"
  }
 ]
