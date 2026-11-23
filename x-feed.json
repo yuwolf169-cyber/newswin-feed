@@ -1,5 +1,13 @@
 [
  {
+  "id": "2124765401363976335",
+  "created_at": "2026-11-23T07:22:02Z",
+  "user": "esa",
+  "text": "The Ariane 6 #VA271 launch is postponed to no earlier than 24 November.",
+  "zh": "欧空局：阿里安6号VA271发射推迟至最早11月24日。",
+  "url": "https://x.com/esa/status/2124765401363976335"
+ },
+ {
   "id": "2124641197058662647",
   "created_at": "2026-11-22T23:08:29Z",
   "user": "WhiteHouse",
@@ -174,13 +182,5 @@
   "text": "We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life. — quoting @1818311005698678784: How it started vs how it's going. In April 2021, Neuralink showed Pager the macaque playing MindPong with his brain. Now a Neuralink patient is flying a plane in GTA VI with 2 joysticks and 12 buttons of control, all with his brain. Before the implant, he used a mouth stick.",
   "zh": "马斯克：Neuralink患者已能用脑机接口在《GTA VI》中开飞机，控制两个摇杆和12个按钮；公司五年前曾展示猴子用意念玩游戏。",
   "url": "https://x.com/elonmusk/status/2124044780099285426"
- },
- {
-  "id": "2124042864891982292",
-  "created_at": "2026-11-21T07:30:56Z",
-  "user": "elonmusk",
-  "text": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. And having a “system prompt” is silly! Default behavior should be sensible. The above are already true for Tesla AI (not yet deserving of “super”). It is the most efficient AI on Earth. FSD V15 goes to wide release next month. It will be something special.",
-  "zh": "马斯克：认为监督微调（SFT）应并入主训练，系统提示也不合理；并称特斯拉AI已是全球最高效的AI，FSD V15将于下月大范围推送。",
-  "url": "https://x.com/elonmusk/status/2124042864891982292"
  }
 ]
