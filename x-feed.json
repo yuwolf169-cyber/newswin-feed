@@ -1,322 +1,186 @@
 [
  {
-  "id": "2123551533128093935",
-  "created_at": "2026-11-19T22:58:33Z",
+  "id": "2124641197058662647",
+  "created_at": "2026-11-22T23:08:29Z",
   "user": "WhiteHouse",
-  "text": "The Trump Admin is delivering greater transparency.\n\nAmericans can now access SEC’s EDGAR (Electronic Data Gathering, Analysis, & Retrieval) database to easily find company info & reports, putting accurate, real-time data directly at your fingertips.",
-  "zh": "白宫：美国人现可通过SEC的EDGAR数据库直接查询公司信息与报告，实时数据更易获取。",
-  "url": "https://x.com/WhiteHouse/status/2123551533128093935"
+  "text": "Gas prices fall to an 8-month low after 4 weeks of decline, delivering lower prices as Thanksgiving approaches.",
+  "zh": "白宫：美国汽油价格连续四周下跌，降至8个月低点，感恩节前出行成本下降。",
+  "url": "https://x.com/WhiteHouse/status/2124641197058662647"
  },
  {
-  "id": "2123529456606122111",
-  "created_at": "2026-11-19T21:30:50Z",
-  "user": "federalreserve",
-  "text": "Our weekly #BalanceSheet update. #FedData",
-  "zh": "美联储：发布本周资产负债表更新。",
-  "url": "https://x.com/federalreserve/status/2123529456606122111"
+  "id": "2124621998521212940",
+  "created_at": "2026-11-22T21:52:12Z",
+  "user": "elonmusk",
+  "text": "Starlink helps kids with education — quoting @1818311005698678784: Starlink is bringing high-speed internet to thousands of students in rural Honduras, one school at a time. At Escuela Sergio Palacios in El Hatillo, 200 students now have access to Starlink internet through an installation by Conatel, part of a wider effort that has connected 1,212 institutions.",
+  "zh": "马斯克：Starlink正在为洪都拉斯农村学校接入高速互联网，当地一所学校200名学生已用上，并纳入更大规模的连通计划。",
+  "url": "https://x.com/elonmusk/status/2124621998521212940"
  },
  {
-  "id": "2123529356089946543",
-  "created_at": "2026-11-19T21:30:26Z",
-  "user": "sundarpichai",
-  "text": "Entanglement usually gets top billing in quantum computing, but quantum contextuality, the idea that properties don't have fixed values independent of how you measure them, may be the deeper reason quantum computers can outperform classical ones.\n\nToday on the cover of @ScienceMagazine, we put contextuality to work on our Willow quantum processor:\n\n- won the \"impossible\" magic square game 98.3% of the time (classical limit: 88.9%)\n- measured a 5.59 on state-independent contextuality tests (classical bound: 4, quantum max: 6)\n- beat classical strategies in multiplayer games up to 71 qubits\n- ran a landmark shallow-circuit algorithm at scale for the first time - up to 105 qubits\n\nThese tasks also catch subtle hardware errors random benchmarks miss, a sharper ruler for building better quantum systems.",
-  "zh": "皮查伊：称量子语境性或才是量子计算机超越经典计算机的更深原因；谷歌用Willow处理器相关实验登上《科学》封面，包括最高105量子比特的浅层电路算法等。",
-  "url": "https://x.com/sundarpichai/status/2123529356089946543"
+  "id": "2124619599882920139",
+  "created_at": "2026-11-22T21:42:40Z",
+  "user": "elonmusk",
+  "text": "Consciousness is either an illusion or ubiquitous on a gradient. Difficult to argue that carbon is conscious, but silicon is not.",
+  "zh": "马斯克：意识要么是幻觉，要么普遍存在于连续谱上；很难论证碳基有意识而硅基没有。",
+  "url": "https://x.com/elonmusk/status/2124619599882920139"
  },
  {
-  "id": "2123524455490085223",
-  "created_at": "2026-11-19T21:10:58Z",
-  "user": "WhiteHouse",
-  "text": "Prioritizing high quality care for all Americans.\n\nOn this Rural Health Day, we celebrate President Trump's historic investment in rural America, committing $50 billion to transforming rural health across the country, of which $20 billion has already been distributed.\n\nThis funding goes to all 50 states and helps transform health infrastructure, disease prevention, and much more.",
-  "zh": "白宫：值农村健康日，称已承诺投入500亿美元改善农村医疗，其中200亿美元已拨付，覆盖全部50个州。",
-  "url": "https://x.com/WhiteHouse/status/2123524455490085223"
+  "id": "2124608788158447644",
+  "created_at": "2026-11-22T20:59:43Z",
+  "user": "elonmusk",
+  "text": "This was done without AI/SI, but we will be using a lot of SI in the future — quoting @3167257102: I still can’t get over the fact that this happened. The precision of this, down to sub-meter accuracy when it was traveling at OVER 7,000 m/s.",
+  "zh": "马斯克：猎鹰回收目前尚未依靠人工智能或超级智能，却能在超过7000米/秒的速度下实现亚米级精度着陆；未来将大量使用超级智能。",
+  "url": "https://x.com/elonmusk/status/2124608788158447644"
  },
  {
-  "id": "2123520987698270687",
-  "created_at": "2026-11-19T20:57:11Z",
-  "user": "NASA",
-  "text": "On Sunday, Nov. 29, our @NorthropGrumman cargo mission is scheduled to lift off to the @Space_Station, carrying science, equipment, and supplies—including fresh fruit, veggies, and holiday treats! Learn how to watch with us:",
-  "zh": "NASA：诺斯罗普·格鲁曼货运任务定于11月29日（周日）升空前往国际空间站，将运送科学实验、设备补给及新鲜蔬果等。",
-  "url": "https://x.com/NASA/status/2123520987698270687"
+  "id": "2124589255565680900",
+  "created_at": "2026-11-22T19:42:06Z",
+  "user": "elonmusk",
+  "text": "32 hour launch pad recycle. Great work by SpaceX team. — quoting @SpaceX: Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad",
+  "zh": "马斯克：SpaceX同一发射台在32小时内完成两次发射，创下最快翻台纪录，并称赞团队表现出色。",
+  "url": "https://x.com/elonmusk/status/2124589255565680900"
  },
  {
-  "id": "2123516375805379040",
-  "created_at": "2026-11-19T20:38:51Z",
+  "id": "2124576203113636183",
+  "created_at": "2026-11-22T18:50:14Z",
   "user": "SpaceX",
-  "text": "On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and ended its mission with a splashdown in the water off the coast of Starbase. Following splashdown, SpaceX recovery teams were immediately onsite to safe the area while our Environmental Health and Safety team worked to ensure any debris that washes onshore was recovered. When we received reports of potential debris in Mexican territory, we immediately mobilized to send specialists to aid in identification and lead any cleanup work required. Partners on the ground relayed that they have found very little debris in their sweeps of the beach, and the small amount they have found are not clearly from SpaceX operations. The majority of the social media posts online claiming widespread debris and damage are either outright fabrications or intentionally misleading. Independent tests confirm materials inside Starship and the Super Heavy booster pose no chemical, biological, or toxicological risks.",
-  "zh": "SpaceX：星舰第15次飞行中，超重型助推器在返回捕捉时执行安全中止并在星基海岸附近溅落；回收团队已到场处理，并称针对墨西哥境内残骸传闻已派人协助辨认清理，多数社交媒体相关说法不实，材料检测显示无毒理风险。",
-  "url": "https://x.com/SpaceX/status/2123516375805379040"
+  "text": "Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad",
+  "zh": "SpaceX：猎鹰9号从加州4E工位发射NROL-136任务，距同工位发射USSF-317仅间隔32小时，创下同台最快翻台纪录。",
+  "url": "https://x.com/SpaceX/status/2124576203113636183"
  },
  {
-  "id": "2123512450427559979",
-  "created_at": "2026-11-19T20:23:15Z",
-  "user": "USTreasury",
-  "text": "Today, Treasury’s Office of Foreign Assets Control sanctioned two international drug trafficking organizations: the Australia-headquartered Comanchero Outlaw Motorcycle Gang and the Italy-based ‘Ndrangheta, a mafia-type criminal syndicate. By providing essential logistical and operational support, the Comancheros and ‘Ndrangheta help terrorist cartels expand their international reach and sustain global narcotrafficking networks.",
-  "zh": "美国财政部：外国资产控制办公室制裁两个国际贩毒组织——总部在澳大利亚的Comanchero摩托车党，以及意大利黑手党式集团’Ndrangheta，称它们为恐怖卡特尔提供后勤支持。",
-  "url": "https://x.com/USTreasury/status/2123512450427559979"
+  "id": "2124551594691932405",
+  "created_at": "2026-11-22T17:12:27Z",
+  "user": "sama",
+  "text": "This is the most important thing OpenAI has published in awhile. We are providing a lot of transparency into our pretraining progress and hope we can agree as a frield to common limits. I think that would be very wise and help ensure safety and control. — quoting @1032406226502479872: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.",
+  "zh": "奥特曼：称这是OpenAI近来最重要的发布，公司正提高预训练进展的透明度，并呼吁业界就共同上限达成一致，以保障安全与可控。",
+  "url": "https://x.com/sama/status/2124551594691932405"
  },
  {
-  "id": "2123507319040528546",
-  "created_at": "2026-11-19T20:02:52Z",
+  "id": "2124477713142665551",
+  "created_at": "2026-11-22T12:18:52Z",
+  "user": "elonmusk",
+  "text": "Starlink saves lives — quoting @1389913567671975937: Starlink helped rescue an injured hiker stranded in Japan’s mountains with no mobile signal. After a 6-metre fall, he was bleeding heavily, had a broken finger and could no longer walk. He used Starlink to text his wife his exact coordinates. He spent the night under an emergency blanket before rescuers reached him around 10:30 the next morning and arranged a helicopter flight to hospital.",
+  "zh": "马斯克：一名徒步者在日本山区坠落受伤且无手机信号，靠Starlink向妻子发送准确坐标后获救。",
+  "url": "https://x.com/elonmusk/status/2124477713142665551"
+ },
+ {
+  "id": "2124463264037769352",
+  "created_at": "2026-11-22T11:21:27Z",
+  "user": "elonmusk",
+  "text": "Some people thought we meant 25% improvement, no we mean 25 times! Welcome to the singularity. Hope you’re enjoying your stay. — quoting @1118594454515003393: FSD V15 is 25x safer than V14 I would have guessed V14 is at MINIMUM 2x safer than a human (probably more).",
+  "zh": "马斯克：FSD V15安全性提升的是25倍而非25%，并称这标志着奇点已至。",
+  "url": "https://x.com/elonmusk/status/2124463264037769352"
+ },
+ {
+  "id": "2124325451908948451",
+  "created_at": "2026-11-22T02:13:50Z",
+  "user": "elonmusk",
+  "text": "Looks like an SI curve — quoting @4375247427: SpaceX has now launched more payload mass to orbit in 20 years than the rest of the US combined since 1957.",
+  "zh": "马斯克：SpaceX在约20年内送入轨道的载荷质量，已超过美国其余各方自1957年以来的总和。",
+  "url": "https://x.com/elonmusk/status/2124325451908948451"
+ },
+ {
+  "id": "2124294755316310346",
+  "created_at": "2026-11-22T00:11:51Z",
+  "user": "elonmusk",
+  "text": "Tesla FSD V15 is a banger release! Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence.",
+  "zh": "马斯克：特斯拉FSD V15是一次重大更新，采用全新架构，称其驾驶能力已超过人类智能。",
+  "url": "https://x.com/elonmusk/status/2124294755316310346"
+ },
+ {
+  "id": "2124270426402836626",
+  "created_at": "2026-11-21T22:35:11Z",
+  "user": "elonmusk",
+  "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …",
+  "zh": "马斯克：实时AI视频生成（非游戏引擎）仅用一枚AI4 TRIP加速器的一半算力即可完成。",
+  "url": "https://x.com/elonmusk/status/2124270426402836626"
+ },
+ {
+  "id": "2124262638192660846",
+  "created_at": "2026-11-21T22:04:14Z",
+  "user": "SpaceX",
+  "text": "Splashdown of Dragon confirmed, completing SpaceX’s 35th Commercial Resupply Services mission to the @Space_Station!",
+  "zh": "SpaceX：龙飞船确认溅落，完成第35次国际空间站商业补给任务（CRS-35）。",
+  "url": "https://x.com/SpaceX/status/2124262638192660846"
+ },
+ {
+  "id": "2124238164512714925",
+  "created_at": "2026-11-21T20:26:59Z",
+  "user": "elonmusk",
+  "text": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to make your car go there.",
+  "zh": "马斯克：FSD V15中，特斯拉AI电脑会重新渲染现实画面，转向提示像游戏一样显示在空中，点击画面任意点即可让车辆前往。",
+  "url": "https://x.com/elonmusk/status/2124238164512714925"
+ },
+ {
+  "id": "2124222447855743019",
+  "created_at": "2026-11-21T19:24:32Z",
   "user": "Tesla",
-  "text": "Cybercab expands to second city — quoting @robotaxi: Howdy Dallas. Cybercab has arrived in your city",
-  "zh": "特斯拉：Cybercab已扩展至第二座城市 — quoting @robotaxi: Cybercab已抵达达拉斯。",
-  "url": "https://x.com/Tesla/status/2123507319040528546"
+  "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network Safety 25x better handling of safety critical cases Tesla Reality View Adds a live visualization of the drive that lets you see & control what FSD is planning to do Navigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route. You also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather. Lastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+  "zh": "特斯拉：FSD v15开始推送，端到端驾驶网络全面升级，称关键安全场景处理提升25倍，并新增Tesla Reality View实时可视化、起止路段端到端导航学习、测速摄像头减速及自行车架模式等。",
+  "url": "https://x.com/Tesla/status/2124222447855743019"
  },
  {
-  "id": "2123480400215294353",
-  "created_at": "2026-11-19T18:15:54Z",
-  "user": "WhiteHouse",
-  "text": "NEW Op-Ed by @Sonderling47 for @WashingtonPost: 'A rule to protect these American workers gets refreshed'\n\nThis week, @USDOL finalized a new rule to ensure that every American worker who chooses to work for themselves as an independent contractor has the freedom to do so.",
-  "zh": "白宫：美国劳工部本周敲定新规，保障选择以独立承包商身份工作的美国人可继续自行从业。",
-  "url": "https://x.com/WhiteHouse/status/2123480400215294353"
- },
- {
-  "id": "2123475464043786417",
-  "created_at": "2026-11-19T17:56:17Z",
+  "id": "2124213680422387741",
+  "created_at": "2026-11-21T18:49:42Z",
   "user": "elonmusk",
-  "text": "You can create an entire company made of Grok Bots! — quoting: I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps.",
-  "zh": "马斯克：称可以用Grok Bot组建一家完整的公司 — quoting：有人说一觉醒来Grok Bot已开好多个PR、跑完测试并完成合并，就像雇了一支从不睡觉的团队。",
-  "url": "https://x.com/elonmusk/status/2123475464043786417"
+  "text": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence …",
+  "zh": "马斯克：黎曼猜想证明的意义在于消除了依赖该猜想的其他数学定理的条件性，并称这是超级智能的又一突破。",
+  "url": "https://x.com/elonmusk/status/2124213680422387741"
  },
  {
-  "id": "2123466757318848592",
-  "created_at": "2026-11-19T17:21:41Z",
-  "user": "USTreasury",
-  "text": "Today, Treasury’s Office of Foreign Assets Control sanctioned several cyber scam operators and armed group facilitators in Southeast Asia. The Trump Administration will continue to unleash every available tool to stop foreign-backed criminal networks from targeting vulnerable Americans through scams.",
-  "zh": "美国财政部：外国资产控制办公室制裁东南亚多名网络诈骗运营商及武装组织协助者，称将继续打击针对美国人的境外犯罪网络。",
-  "url": "https://x.com/USTreasury/status/2123466757318848592"
- },
- {
-  "id": "2123464732246254075",
-  "created_at": "2026-11-19T17:13:38Z",
+  "id": "2124207121956741256",
+  "created_at": "2026-11-21T18:23:38Z",
   "user": "WhiteHouse",
-  "text": "After a busy, consequential trip to Asia, President Donald J. Trump announces he will be giving a news conference tomorrow, Friday November 20th, at 12:00 PM at the White House.",
-  "zh": "白宫：特朗普结束亚洲行程后宣布，将于11月20日（周五）中午12时在白宫举行新闻发布会。",
-  "url": "https://x.com/WhiteHouse/status/2123464732246254075"
+  "text": "During his 4 day historic trip to Asia, President Trump met with more than 20 world leaders, secured two new trade deals, attended four major international summits, reaffirmed America's alliances throughout the region, & advanced the cause of peace & security around the world.",
+  "zh": "白宫：特朗普为期4天的亚洲之行会见20多位领导人，达成两项新贸易协议，并出席四场大型国际峰会。",
+  "url": "https://x.com/WhiteHouse/status/2124207121956741256"
  },
  {
-  "id": "2123461658890686863",
-  "created_at": "2026-11-19T17:01:26Z",
-  "user": "AnthropicAI",
-  "text": "Remarks from Anthropic CEO @DarioAmodei on our initial public offering:\n\nMy co-founders and I started Anthropic because we believe that the most powerful technology of our time should be built for the benefit of humankind. I believe sufficiently powerful AI, working in concert with humans, could compress a century of scientific and medical progress into a decade. At the same time, we have always been honest that this technology has very real risks. And to state it unequivocally, we will pace the training and deployment of AI systems, taking as long as is necessary to have confidence that they are safe and will remain under human control. We will not bend to either business or political pressure. Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing.",
-  "zh": "阿莫代伊：就Anthropic IPO发表讲话，称创立公司是为了让当代最强大的技术造福人类；认为足够强大的人工智能可与人协作，将百年科学与医学进步压缩到十年，并强调不会向商业或政治压力让步，将按安全节奏训练和部署系统。",
-  "url": "https://x.com/AnthropicAI/status/2123461658890686863"
- },
- {
-  "id": "2123438604353458199",
-  "created_at": "2026-11-19T15:29:49Z",
+  "id": "2124165072356286747",
+  "created_at": "2026-11-21T15:36:32Z",
   "user": "WhiteHouse",
-  "text": "President Trump departs China after a historic trip.\n\n- Secured $17 billion for U.S. companies.\n- Met with the world's most important leaders and nations, including President Xi, President Putin, and President Marcos.\n- Delivered key remarks at both the ASEAN and APEC Summits.",
-  "zh": "白宫：特朗普结束对华行程，称此行为美国公司争取到170亿美元，并会晤习近平、普京和马科斯，还在东盟与APEC峰会发表讲话。",
-  "url": "https://x.com/WhiteHouse/status/2123438604353458199"
+  "text": "President Donald J. Trump on a deal with Iran: “I’m not going to let somebody allow them to have a nuclear weapon.”",
+  "zh": "白宫：特朗普谈伊朗协议时表示，不会允许伊朗拥有核武器。",
+  "url": "https://x.com/WhiteHouse/status/2124165072356286747"
  },
  {
-  "id": "2123422587464159617",
-  "created_at": "2026-11-19T14:26:10Z",
-  "user": "federalreserve",
-  "text": "Speech by Vice Chair Jefferson on economic shocks.",
-  "zh": "美联储：副主席杰斐逊就经济冲击发表演讲。",
-  "url": "https://x.com/federalreserve/status/2123422587464159617"
- },
- {
-  "id": "2123420037373460620",
-  "created_at": "2026-11-19T14:16:02Z",
-  "user": "WhiteHouse",
-  "text": "A historic first on the world stage.\n\nPresident Donald J. Trump, President Xi, and President Putin hold trilateral talks in China.",
-  "zh": "白宫：特朗普、习近平与普京在华举行三边会谈，称这是世界舞台上的历史性首次。",
-  "url": "https://x.com/WhiteHouse/status/2123420037373460620"
- },
- {
-  "id": "2123401811327619388",
-  "created_at": "2026-11-19T13:03:37Z",
-  "user": "WhiteHouse",
-  "text": "President Donald J. Trump Addresses Historic Trilateral Meeting with Chinese President Xi and Russian President Putin.\n\n\"We have a special responsibility to maintain open, respectful, & productive dialogue on issues impacting not just our people, but the entire planet.\" - @POTUS",
-  "zh": "白宫：特朗普在与习近平、普京的三边会晤中表示，三国对保持开放、尊重且富有成效的对话负有特殊责任，事关各国人民乃至整个地球。",
-  "url": "https://x.com/WhiteHouse/status/2123401811327619388"
- },
- {
-  "id": "2123360778350977184",
-  "created_at": "2026-11-19T10:20:34Z",
-  "user": "esa",
-  "text": "On 23 November, Ariane 6 will lift off from Europe’s Spaceport, carrying 36 Amazon Leo satellites into orbit.\n\n📺 Watch live from 11:39 GMT / 12:39 CET.",
-  "zh": "欧洲航天局：阿里安6号将于11月23日从欧洲航天港升空，搭载36颗亚马逊Leo卫星入轨，直播于11:39 GMT（12:39 CET）开始。",
-  "url": "https://x.com/esa/status/2123360778350977184"
- },
- {
-  "id": "2123357437956940275",
-  "created_at": "2026-11-19T10:07:17Z",
-  "user": "esa",
-  "text": "On 15 December, our Member States meet in Rome to shape Europe’s future in space exploration. — quoting @AschbacherJosef: The world is not waiting for Europe. We have the talent. We have the technology. The question is whether we have the ambition to shape what comes next. On 15 December, Europe has a choice to make about its future in exploration. Let us be bold enough to grasp the moment.",
-  "zh": "欧洲航天局：成员国将于12月15日在罗马开会，规划欧洲太空探索的未来——引用ESA局长阿施巴赫：世界不会等欧洲；我们有人才和技术，问题是是否有塑造未来的雄心，希望欧洲敢于抓住这一刻。",
-  "url": "https://x.com/esa/status/2123357437956940275"
- },
- {
-  "id": "2123337655731826810",
-  "created_at": "2026-11-19T08:48:41Z",
-  "user": "elonmusk",
-  "text": "Extend consciousness to the stars — quoting: Back in 2016, Elon Musk laid out the scale of what it would actually take to build a self-sustaining city on Mars. The goal was to build a civilization that can survive on its own. The scale Elon laid out: • ~100 people per ship • Mars launch opportunities roughly every 2",
-  "zh": "马斯克称要将意识延伸至星辰，并引用其2016年规划：建设可自给自足的火星城市，每艘飞船约100人，发射窗口大约每两年一次。",
-  "url": "https://x.com/elonmusk/status/2123337655731826810"
- },
- {
-  "id": "2123333341932052749",
-  "created_at": "2026-11-19T08:31:32Z",
-  "user": "elonmusk",
-  "text": "Starlink started with a speech in Seattle — quoting: ELON MUSK’S 2015 SATELLITE VISION IS NOW THE BIGGEST NETWORK ON EARTH. In 2015 Elon opened SpaceX’s satellite office in Seattle and said they wanted to change satellites the same way they changed rockets. Eleven years later Starlink has more than 11,100 satellites in orbit.",
-  "zh": "马斯克：星链始于西雅图的一次演讲 — 引用称2015年他在西雅图开设SpaceX卫星办公室，要用改变火箭的方式改变卫星；11年后星链在轨卫星已超过11100颗",
-  "url": "https://x.com/elonmusk/status/2123333341932052749"
- },
- {
-  "id": "2123319956381339961",
-  "created_at": "2026-11-19T07:38:21Z",
-  "user": "elonmusk",
-  "text": "Moving all text conversations to be encrypted to ensure user privacy",
-  "zh": "马斯克：所有文字对话将改为加密以保障用户隐私——引用称本周五起停止支持XChat旧版群组，未加密对话将全部加密，周五前未加入XChat的群成员需注册后才能重新进入。",
-  "url": "https://x.com/elonmusk/status/2123319956381339961"
- },
- {
-  "id": "2123317934747746611",
-  "created_at": "2026-11-19T07:30:19Z",
-  "user": "elonmusk",
-  "text": "X Money is growing fast",
-  "zh": "马斯克：X Money增长很快——引用称现已可从X直接向27个国家进行国际银行转账，收款人按当地货币到账。",
-  "url": "https://x.com/elonmusk/status/2123317934747746611"
- },
- {
-  "id": "2123298515573207075",
-  "created_at": "2026-11-19T06:13:09Z",
-  "user": "elonmusk",
-  "text": "Yes. Only questions are how fast the singularity will grow and to what size. — quoting: guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening",
-  "zh": "马斯克：是的。问题只在于奇点会增长多快、会到多大规模。 — 引用：有人说我们已身处奇点之中，有时夜里醒来才突然意识到这一切正在发生。",
-  "url": "https://x.com/elonmusk/status/2123298515573207075"
- },
- {
-  "id": "2123287507634888825",
-  "created_at": "2026-11-19T05:29:25Z",
-  "user": "WhiteHouse",
-  "text": "President Donald J. Trump meets with Russian President Vladimir Putin at the APEC Summit in Shenzhen, China.",
-  "zh": "白宫：特朗普在深圳APEC峰会会见俄罗斯总统普京。",
-  "url": "https://x.com/WhiteHouse/status/2123287507634888825"
- },
- {
-  "id": "2123274614210166931",
-  "created_at": "2026-11-19T04:38:11Z",
-  "user": "WhiteHouse",
-  "text": "JUST NOW: President Donald J. Trump and Russian President Vladimir Putin meet in China.\n\n\"We've known each other for a long time, and I think a lot of wonderful things can come out of this — or at least start.\"",
-  "zh": "白宫：特朗普与普京在华会面；特朗普称相识已久，相信由此可产生许多好事，或至少由此起步。",
-  "url": "https://x.com/WhiteHouse/status/2123274614210166931"
- },
- {
-  "id": "2123241253982916795",
-  "created_at": "2026-11-19T02:25:37Z",
-  "user": "sundarpichai",
-  "text": "Really neat part of Genie 4 is you can type new prompts while exploring a generated world, like dropping in characters or changing the scene + the native audio adapts in real time! Now available in Project Genie for eligible Google AI Ultra subscribers.",
-  "zh": "皮查伊：Genie 4可在探索生成世界时输入新提示，如加入角色或改变场景，原生音频也会实时适配；现已向符合条件的Google AI Ultra订阅用户在Project Genie中开放。",
-  "url": "https://x.com/sundarpichai/status/2123241253982916795"
- },
- {
-  "id": "2123238264186482880",
-  "created_at": "2026-11-19T02:13:44Z",
-  "user": "WhiteHouse",
-  "text": "President Donald J. Trump greets Chinese President Xi Jinping as he arrives at the APEC Summit in Shenzhen.",
-  "zh": "白宫：特朗普在深圳APEC峰会迎接中国国家主席习近平到场。",
-  "url": "https://x.com/WhiteHouse/status/2123238264186482880"
- },
- {
-  "id": "2123220899264679988",
-  "created_at": "2026-11-19T01:04:44Z",
-  "user": "elonmusk",
-  "text": "Catching the ship was the last major piece of the puzzle — quoting: Elon Musk on why the historic Starship catch is a much bigger milestone than most people realize. “Catching the ship was the final major piece.” SpaceX has now achieved: 3 successful Super Heavy booster catches; a booster that was reflown and caught again; the FIRST EVER.",
-  "zh": "马斯克：捕捉飞船是拼图的最后一块关键部分。",
-  "url": "https://x.com/elonmusk/status/2123220899264679988"
- },
- {
-  "id": "2123196808675405860",
-  "created_at": "2026-11-18T23:29:00Z",
-  "user": "AnthropicAI",
-  "text": "We’ve priced our IPO at $83 per share, with trading expected to begin on Nasdaq tomorrow.\n\nLegal disclaimer: A registration statement relating to the Class A common stock was declared effective by the Securities and Exchange Commission on November 18,",
-  "zh": "Anthropic：IPO发行价定为每股83美元，预计明天在纳斯达克开始交易。",
-  "url": "https://x.com/AnthropicAI/status/2123196808675405860"
- },
- {
-  "id": "2123193048574419212",
-  "created_at": "2026-11-18T23:14:04Z",
+  "id": "2124122550339002718",
+  "created_at": "2026-11-21T12:47:34Z",
   "user": "SpaceX",
-  "text": "As Texas communities consider major supercomputing investments, careful long-term tax planning is essential. Under Texas’s no-new-revenue tax framework, rising property values generally drive tax rates down. But as expensive computing equipment rapidly depreciates, this can — quoting @outerspacetoday: JUST IN: Texas officials have rejected SpaceX's request to advance a property tax break for a proposed $24 billion data center and power plant near Starbase.",
-  "zh": "SpaceX：得州社区若大举投资超算，须做好长期税收规划；引用称得州官员已拒绝其为星舰基地附近240亿美元数据中心和电厂申请的税收减免。",
-  "url": "https://x.com/SpaceX/status/2123193048574419212"
+  "text": "Falcon 9 launches USSF-317 to orbit from pad 4E in California",
+  "zh": "SpaceX：猎鹰9号从加州4E工位将美国太空军USSF-317任务送入轨道。",
+  "url": "https://x.com/SpaceX/status/2124122550339002718"
  },
  {
-  "id": "2123191365983248653",
-  "created_at": "2026-11-18T23:07:23Z",
-  "user": "OpenAI",
-  "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and",
-  "zh": "OpenAI：公布内部研究新数据，研究人员使用AI呈指数上升，智能体可完成更长任务，但人仍是研究核心，且花在安全上的时间在增加。",
-  "url": "https://x.com/OpenAI/status/2123191365983248653"
+  "id": "2124069831989178660",
+  "created_at": "2026-11-21T09:18:05Z",
+  "user": "elonmusk",
+  "text": "Starlink saves lives — quoting @1389913567671975937: Starlink is being deployed to help fight DR Congo’s deadly Ebola outbreak. Africa CDC has donated Starlink kits to health officials in Beni to help frontline teams share critical data in real time and coordinate faster responses, even in remote communities.",
+  "zh": "马斯克：非洲疾控中心向刚果（金）埃博拉防疫前线捐赠Starlink套装，以便偏远地区实时共享数据、加快响应。",
+  "url": "https://x.com/elonmusk/status/2124069831989178660"
  },
  {
-  "id": "2123179682086416681",
-  "created_at": "2026-11-18T22:20:57Z",
-  "user": "WhiteHouse",
-  "text": "President Trump has one priority on his mind: the American people.\n\n$17 billion in commercial deals and strategic investments for U.S. companies secured. 🇺🇸",
-  "zh": "白宫：称已为美国公司争取到170亿美元商业协议与战略投资。",
-  "url": "https://x.com/WhiteHouse/status/2123179682086416681"
+  "id": "2124069585590813180",
+  "created_at": "2026-11-21T09:17:07Z",
+  "user": "elonmusk",
+  "text": "Starlink helps education — quoting @1818311005698678784: SpaceX has donated 1,600 Starlink kits to help connect some of Paraguay's most remote schools to high-speed internet. COPACO has completed the first phase, connecting 800 schools across Paraguay.",
+  "zh": "马斯克：SpaceX向巴拉圭偏远学校捐赠1600套Starlink，第一阶段已连通800所学校。",
+  "url": "https://x.com/elonmusk/status/2124069585590813180"
  },
  {
-  "id": "2123169377855922254",
-  "created_at": "2026-11-18T21:40:00Z",
-  "user": "NASA",
-  "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\"",
-  "zh": "NASA：在仙女座星系外围观测到一颗略小于太阳的恒星并入膨胀超巨星，合并后的新星被称作“Bao”。",
-  "url": "https://x.com/NASA/status/2123169377855922254"
+  "id": "2124044780099285426",
+  "created_at": "2026-11-21T07:38:33Z",
+  "user": "elonmusk",
+  "text": "We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life. — quoting @1818311005698678784: How it started vs how it's going. In April 2021, Neuralink showed Pager the macaque playing MindPong with his brain. Now a Neuralink patient is flying a plane in GTA VI with 2 joysticks and 12 buttons of control, all with his brain. Before the implant, he used a mouth stick.",
+  "zh": "马斯克：Neuralink患者已能用脑机接口在《GTA VI》中开飞机，控制两个摇杆和12个按钮；公司五年前曾展示猴子用意念玩游戏。",
+  "url": "https://x.com/elonmusk/status/2124044780099285426"
  },
  {
-  "id": "2123167780988125621",
-  "created_at": "2026-11-18T21:33:40Z",
-  "user": "sundarpichai",
-  "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra",
-  "zh": "皮查伊：Gemini 4 Neon即日起在Gemini API、Google AI Studio、企业版及付费Pro/Ultra用户中推出，主打复杂软件工程、知识工作与科学流程的快速端到端完成。",
-  "url": "https://x.com/sundarpichai/status/2123167780988125621"
- },
- {
-  "id": "2123165872261075233",
-  "created_at": "2026-11-18T21:26:05Z",
-  "user": "OpenAI",
-  "text": "We’re sharing how we approach safety at every stage of a model’s lifecycle, from early research to internal use to public deployment.",
-  "zh": "OpenAI：介绍其在模型从早期研究、内部使用到公开发布各阶段的安全做法。",
-  "url": "https://x.com/OpenAI/status/2123165872261075233"
- },
- {
-  "id": "2123129448644190523",
-  "created_at": "2026-11-18T19:01:21Z",
-  "user": "federalreserve",
-  "text": "We have posted the minutes from the #FOMC meeting held October 27-28, 2026:",
-  "zh": "美联储：已公布2026年10月27日至28日FOMC会议纪要。",
-  "url": "https://x.com/federalreserve/status/2123129448644190523"
- },
- {
-  "id": "2123123201672716598",
-  "created_at": "2026-11-18T18:36:31Z",
-  "user": "federalreserve",
-  "text": "Speech by Governor Barr on community development investments @NewYorkFed:\n\nLearn more about Governor Barr:",
-  "zh": "美联储：巴尔理事就社区发展投资发表讲话。",
-  "url": "https://x.com/federalreserve/status/2123123201672716598"
- },
- {
-  "id": "2123119560803176533",
-  "created_at": "2026-11-18T18:22:03Z",
-  "user": "satyanadella",
-  "text": "Bringing Salesforce to Copilot as we build Copilot as the OS for work! — quoting @salesforce: Introducing Copilotforce. Salesforce customer context and sales workflows are coming to Copilot and Teams.",
-  "zh": "纳德拉：将把Salesforce接入Copilot，并把Copilot打造成工作操作系统。——引用Salesforce：推出Copilotforce，客户与销售流程将进入Copilot和Teams。",
-  "url": "https://x.com/satyanadella/status/2123119560803176533"
- },
- {
-  "id": "2123115437219098651",
-  "created_at": "2026-11-18T18:05:40Z",
-  "user": "USTreasury",
-  "text": "Today, Treasury’s Office of Foreign Assets Control (OFAC) designated the Wa Ta’awanu Association, a charity that provides cover for Hizballah’s activities under the guise of delivering humanitarian services. OFAC today also designated members of a Lebanon- and Türkiye-based gold",
-  "zh": "美国财政部：海外资产控制办公室将以慈善为名掩护真主党活动的Wa Ta’awanu协会，以及一个黎巴嫩与土耳其黄金网络的成员列入制裁名单。",
-  "url": "https://x.com/USTreasury/status/2123115437219098651"
+  "id": "2124042864891982292",
+  "created_at": "2026-11-21T07:30:56Z",
+  "user": "elonmusk",
+  "text": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. And having a “system prompt” is silly! Default behavior should be sensible. The above are already true for Tesla AI (not yet deserving of “super”). It is the most efficient AI on Earth. FSD V15 goes to wide release next month. It will be something special.",
+  "zh": "马斯克：认为监督微调（SFT）应并入主训练，系统提示也不合理；并称特斯拉AI已是全球最高效的AI，FSD V15将于下月大范围推送。",
+  "url": "https://x.com/elonmusk/status/2124042864891982292"
  }
 ]
