@@ -1,5 +1,93 @@
 [
  {
+  "id": "2125007927098699827",
+  "created_at": "2026-11-23T23:25:45Z",
+  "user": "OpenAI",
+  "text": "In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review.\n\nOur researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream.\n\nRead the research:",
+  "zh": "OpenAI：一次运行中，GPT-6 Cyber协助验证了948个可导致本地root权限的Linux内核漏洞，并生成补丁供审查。",
+  "url": "https://x.com/OpenAI/status/2125007927098699827"
+ },
+ {
+  "id": "2124987751955312972",
+  "created_at": "2026-11-23T22:05:35Z",
+  "user": "USTreasury",
+  "text": "In a new Financial Trend Analysis, @FinCENnews identified nearly $15 billion in financial activity from January 2025 to August 2026 potentially linked to Iranian shadow banking.\n\nRead more here:",
+  "zh": "美国财政部：金融犯罪执法网络发现，2025年1月至2026年8月约有150亿美元资金活动可能与伊朗影子银行有关。",
+  "url": "https://x.com/USTreasury/status/2124987751955312972"
+ },
+ {
+  "id": "2124980590717911527",
+  "created_at": "2026-11-23T21:37:07Z",
+  "user": "OpenAI",
+  "text": "We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI.\n\nShirudo is a first step toward self-defending infrastructure that can adapt to new threats while keeping services running. Our goal is for defenders to work with AI agents to find affected systems, test and share shields, and deploy them without disrupting workloads.",
+  "zh": "OpenAI：与思科合作推出开源Linux运行时Shirudo，让智能体通过动态eBPF在不停机的情况下防护系统、抵御漏洞利用。",
+  "url": "https://x.com/OpenAI/status/2124980590717911527"
+ },
+ {
+  "id": "2124976746005139541",
+  "created_at": "2026-11-23T21:21:51Z",
+  "user": "WhiteHouse",
+  "text": "Gavin Newsom’s radical commutation of 548 death sentences is a grave threat to public safety &amp; an injustice to the victims and their families. Sparing some of the most brutal &amp; violent murderers in American history.\n\nSome of the gruesome killers who were spared death row ⬇️",
+  "zh": "白宫：指责加州州长纽森大规模改判548例死刑，称此举威胁公共安全、对不起受害者及家属。",
+  "url": "https://x.com/WhiteHouse/status/2124976746005139541"
+ },
+ {
+  "id": "2124950601247186986",
+  "created_at": "2026-11-23T19:37:57Z",
+  "user": "USTreasury",
+  "text": "Today, as part of Operation Economic Outcast, Treasury sanctioned over two dozen Iranian exchange houses, front companies, and key personnel in a sweeping effort to disrupt Iran’s global shadow banking networks. As Iran’s economy remains battered by punishing economic sanctions and its oil revenues continue to decline, the regime’s shadow banking facilitators have increasingly failed to repatriate dwindling export earnings while simultaneously enriching themselves by stealing state resources that rightfully belong to the Iranian people.",
+  "zh": "美国财政部：在“经济放逐”行动中制裁二十多家伊朗兑换所、空壳公司及相关人员，以打击伊朗全球影子银行网络。",
+  "url": "https://x.com/USTreasury/status/2124950601247186986"
+ },
+ {
+  "id": "2124942828274925651",
+  "created_at": "2026-11-23T19:07:04Z",
+  "user": "elonmusk",
+  "text": "Everyone I know at Nvidia wanted Jensen back and it shows",
+  "zh": "马斯克：据他所知，英伟达内部都希望黄仁勋回归，而现在看来也确实如此。",
+  "url": "https://x.com/elonmusk/status/2124942828274925651"
+ },
+ {
+  "id": "2124939363075100989",
+  "created_at": "2026-11-23T18:53:18Z",
+  "user": "esa",
+  "text": "BepiColombo is safely in orbit around Mercury!\n\nDespite a software issue that cut its orbit insertion manoeuvre short, the ESA/JAXA spacecraft is safe and in a stable orbit after an eight-year journey.\n\nNext up ➡️ separation of its two science orbiters on 9 December.\n\nRead more:",
+  "zh": "欧洲航天局：尽管软件故障使入轨机动提前中断，BepiColombo在八年飞行后已安全进入水星稳定轨道，两个科学轨道器将于12月9日分离。",
+  "url": "https://x.com/esa/status/2124939363075100989"
+ },
+ {
+  "id": "2124922133545714160",
+  "created_at": "2026-11-23T17:44:50Z",
+  "user": "OpenAI",
+  "text": "Through our new program OpenWorks, we fund local AI experts to help small businesses develop the tools and skills they need to grow their own business, at no cost to them.\n\nWe invite AI experts who love teaching others and small business owners who want to learn to implement AI to join us at",
+  "zh": "OpenAI：推出OpenWorks项目，资助本地AI专家免费帮助小企业掌握和应用AI工具。",
+  "url": "https://x.com/OpenAI/status/2124922133545714160"
+ },
+ {
+  "id": "2124917923391443211",
+  "created_at": "2026-11-23T17:28:06Z",
+  "user": "elonmusk",
+  "text": "Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world.",
+  "zh": "马斯克：在X平台违法者无论身处世界何地，都将被起诉。",
+  "url": "https://x.com/elonmusk/status/2124917923391443211"
+ },
+ {
+  "id": "2124872428723552741",
+  "created_at": "2026-11-23T14:27:19Z",
+  "user": "WhiteHouse",
+  "text": "“The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO… Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World!” - President DONALD J. TRUMP",
+  "zh": "白宫转发特朗普：英伟达董事会让黄仁勋回归CEO是正确决定，并向黄仁勋、董事会以及美国和世界人民表示祝贺。",
+  "url": "https://x.com/WhiteHouse/status/2124872428723552741"
+ },
+ {
+  "id": "2124865060397019480",
+  "created_at": "2026-11-23T13:58:03Z",
+  "user": "nvidianewsroom",
+  "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.\n\nRead the release:",
+  "zh": "英伟达：董事会已恢复黄仁勋担任总裁、首席执行官兼董事。",
+  "url": "https://x.com/nvidianewsroom/status/2124865060397019480"
+ },
+ {
   "id": "2124765401363976335",
   "created_at": "2026-11-23T07:22:02Z",
   "user": "esa",
@@ -94,93 +182,5 @@
   "text": "Tesla FSD V15 is a banger release! Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence.",
   "zh": "马斯克：特斯拉FSD V15是一次重大更新，采用全新架构，称其驾驶能力已超过人类智能。",
   "url": "https://x.com/elonmusk/status/2124294755316310346"
- },
- {
-  "id": "2124270426402836626",
-  "created_at": "2026-11-21T22:35:11Z",
-  "user": "elonmusk",
-  "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …",
-  "zh": "马斯克：实时AI视频生成（非游戏引擎）仅用一枚AI4 TRIP加速器的一半算力即可完成。",
-  "url": "https://x.com/elonmusk/status/2124270426402836626"
- },
- {
-  "id": "2124262638192660846",
-  "created_at": "2026-11-21T22:04:14Z",
-  "user": "SpaceX",
-  "text": "Splashdown of Dragon confirmed, completing SpaceX’s 35th Commercial Resupply Services mission to the @Space_Station!",
-  "zh": "SpaceX：龙飞船确认溅落，完成第35次国际空间站商业补给任务（CRS-35）。",
-  "url": "https://x.com/SpaceX/status/2124262638192660846"
- },
- {
-  "id": "2124238164512714925",
-  "created_at": "2026-11-21T20:26:59Z",
-  "user": "elonmusk",
-  "text": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to make your car go there.",
-  "zh": "马斯克：FSD V15中，特斯拉AI电脑会重新渲染现实画面，转向提示像游戏一样显示在空中，点击画面任意点即可让车辆前往。",
-  "url": "https://x.com/elonmusk/status/2124238164512714925"
- },
- {
-  "id": "2124222447855743019",
-  "created_at": "2026-11-21T19:24:32Z",
-  "user": "Tesla",
-  "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network Safety 25x better handling of safety critical cases Tesla Reality View Adds a live visualization of the drive that lets you see & control what FSD is planning to do Navigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route. You also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather. Lastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
-  "zh": "特斯拉：FSD v15开始推送，端到端驾驶网络全面升级，称关键安全场景处理提升25倍，并新增Tesla Reality View实时可视化、起止路段端到端导航学习、测速摄像头减速及自行车架模式等。",
-  "url": "https://x.com/Tesla/status/2124222447855743019"
- },
- {
-  "id": "2124213680422387741",
-  "created_at": "2026-11-21T18:49:42Z",
-  "user": "elonmusk",
-  "text": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence …",
-  "zh": "马斯克：黎曼猜想证明的意义在于消除了依赖该猜想的其他数学定理的条件性，并称这是超级智能的又一突破。",
-  "url": "https://x.com/elonmusk/status/2124213680422387741"
- },
- {
-  "id": "2124207121956741256",
-  "created_at": "2026-11-21T18:23:38Z",
-  "user": "WhiteHouse",
-  "text": "During his 4 day historic trip to Asia, President Trump met with more than 20 world leaders, secured two new trade deals, attended four major international summits, reaffirmed America's alliances throughout the region, & advanced the cause of peace & security around the world.",
-  "zh": "白宫：特朗普为期4天的亚洲之行会见20多位领导人，达成两项新贸易协议，并出席四场大型国际峰会。",
-  "url": "https://x.com/WhiteHouse/status/2124207121956741256"
- },
- {
-  "id": "2124165072356286747",
-  "created_at": "2026-11-21T15:36:32Z",
-  "user": "WhiteHouse",
-  "text": "President Donald J. Trump on a deal with Iran: “I’m not going to let somebody allow them to have a nuclear weapon.”",
-  "zh": "白宫：特朗普谈伊朗协议时表示，不会允许伊朗拥有核武器。",
-  "url": "https://x.com/WhiteHouse/status/2124165072356286747"
- },
- {
-  "id": "2124122550339002718",
-  "created_at": "2026-11-21T12:47:34Z",
-  "user": "SpaceX",
-  "text": "Falcon 9 launches USSF-317 to orbit from pad 4E in California",
-  "zh": "SpaceX：猎鹰9号从加州4E工位将美国太空军USSF-317任务送入轨道。",
-  "url": "https://x.com/SpaceX/status/2124122550339002718"
- },
- {
-  "id": "2124069831989178660",
-  "created_at": "2026-11-21T09:18:05Z",
-  "user": "elonmusk",
-  "text": "Starlink saves lives — quoting @1389913567671975937: Starlink is being deployed to help fight DR Congo’s deadly Ebola outbreak. Africa CDC has donated Starlink kits to health officials in Beni to help frontline teams share critical data in real time and coordinate faster responses, even in remote communities.",
-  "zh": "马斯克：非洲疾控中心向刚果（金）埃博拉防疫前线捐赠Starlink套装，以便偏远地区实时共享数据、加快响应。",
-  "url": "https://x.com/elonmusk/status/2124069831989178660"
- },
- {
-  "id": "2124069585590813180",
-  "created_at": "2026-11-21T09:17:07Z",
-  "user": "elonmusk",
-  "text": "Starlink helps education — quoting @1818311005698678784: SpaceX has donated 1,600 Starlink kits to help connect some of Paraguay's most remote schools to high-speed internet. COPACO has completed the first phase, connecting 800 schools across Paraguay.",
-  "zh": "马斯克：SpaceX向巴拉圭偏远学校捐赠1600套Starlink，第一阶段已连通800所学校。",
-  "url": "https://x.com/elonmusk/status/2124069585590813180"
- },
- {
-  "id": "2124044780099285426",
-  "created_at": "2026-11-21T07:38:33Z",
-  "user": "elonmusk",
-  "text": "We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life. — quoting @1818311005698678784: How it started vs how it's going. In April 2021, Neuralink showed Pager the macaque playing MindPong with his brain. Now a Neuralink patient is flying a plane in GTA VI with 2 joysticks and 12 buttons of control, all with his brain. Before the implant, he used a mouth stick.",
-  "zh": "马斯克：Neuralink患者已能用脑机接口在《GTA VI》中开飞机，控制两个摇杆和12个按钮；公司五年前曾展示猴子用意念玩游戏。",
-  "url": "https://x.com/elonmusk/status/2124044780099285426"
  }
 ]
