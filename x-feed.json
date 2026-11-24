@@ -1,5 +1,13 @@
 [
  {
+  "id": "2125037582815785250",
+  "created_at": "2026-11-24T01:23:35Z",
+  "user": "WhiteHouse",
+  "text": "Far too often, capital sentences are delayed for years, if not decades, stalling the justice the victims’ families deserve.\n\nToday, President Trump signed a Memorandum to pursue capital punishment for heinous federal crimes &amp; expedite the enforcement of capital sentences.",
+  "zh": "白宫：特朗普总统签署备忘录，要求对严重联邦重罪推进死刑并加快死刑执行。",
+  "url": "https://x.com/WhiteHouse/status/2125037582815785250"
+ },
+ {
   "id": "2125007927098699827",
   "created_at": "2026-11-23T23:25:45Z",
   "user": "OpenAI",
@@ -174,13 +182,5 @@
   "text": "Looks like an SI curve — quoting @4375247427: SpaceX has now launched more payload mass to orbit in 20 years than the rest of the US combined since 1957.",
   "zh": "马斯克：SpaceX在约20年内送入轨道的载荷质量，已超过美国其余各方自1957年以来的总和。",
   "url": "https://x.com/elonmusk/status/2124325451908948451"
- },
- {
-  "id": "2124294755316310346",
-  "created_at": "2026-11-22T00:11:51Z",
-  "user": "elonmusk",
-  "text": "Tesla FSD V15 is a banger release! Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence.",
-  "zh": "马斯克：特斯拉FSD V15是一次重大更新，采用全新架构，称其驾驶能力已超过人类智能。",
-  "url": "https://x.com/elonmusk/status/2124294755316310346"
  }
 ]
