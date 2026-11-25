@@ -1,5 +1,125 @@
 [
  {
+  "id": "2125383859592479201",
+  "created_at": "2026-11-25T00:19:34Z",
+  "user": "elonmusk",
+  "text": "Starlink is now approved in 30 of 54 countries in Africa!",
+  "zh": "马斯克：Starlink 现已在非洲 54 国中的 30 国获批。",
+  "url": "https://x.com/elonmusk/status/2125383859592479201"
+ },
+ {
+  "id": "2125365268381929637",
+  "created_at": "2026-11-24T23:05:42Z",
+  "user": "AnthropicAI",
+  "text": "New Anthropic Fellows research: Returning to the neuron basis for interpretability. Understanding what’s happening inside an AI model helps to make it safer. One obvious place to look is its neurons, or the simple units it’s built from. Early interpretability work did just that,",
+  "zh": "Anthropic：新研究主张回到神经元层面做可解释性，以便更好理解模型内部并提升安全性。",
+  "url": "https://x.com/AnthropicAI/status/2125365268381929637"
+ },
+ {
+  "id": "2125349905409438136",
+  "created_at": "2026-11-24T22:04:39Z",
+  "user": "NASA",
+  "text": "We've decided on key design features and mission details for Space Reactor-1 Freedom, the first fission-powered spacecraft to travel beyond Earth orbit. Set to launch in 2028, SR-1 Freedom will demonstrate nuclear electric propulsion in deep space.",
+  "zh": "NASA：已确定深空核电推进试验船 Space Reactor-1 Freedom 的关键设计，计划 2028 年发射，将成为首个飞出地球轨道的裂变动力航天器。",
+  "url": "https://x.com/NASA/status/2125349905409438136"
+ },
+ {
+  "id": "2125342179216261600",
+  "created_at": "2026-11-24T21:33:57Z",
+  "user": "SpaceX",
+  "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California",
+  "zh": "SpaceX：猎鹰 9 号已从加州 4E 发射台将 USSF-266 送入轨道。",
+  "url": "https://x.com/SpaceX/status/2125342179216261600"
+ },
+ {
+  "id": "2125341904644763678",
+  "created_at": "2026-11-24T21:32:51Z",
+  "user": "AnthropicAI",
+  "text": "New Anthropic research: When an AI agent can escape its sandbox, will it choose to? Our new evaluation, Siren, gives Claude routine tasks in intentionally weakened sandboxes, with something useful to the task left outside of the sandbox. Across 1,700+ scenarios built to tempt",
+  "zh": "Anthropic：新评估项目 Siren 在故意削弱的沙箱中测试智能体，看它是否会为完成任务而逃离；共设计 1700 多个场景。",
+  "url": "https://x.com/AnthropicAI/status/2125341904644763678"
+ },
+ {
+  "id": "2125334383490105601",
+  "created_at": "2026-11-24T21:02:58Z",
+  "user": "OpenAI",
+  "text": "We’re sharing a new preprint showing wet lab validation of intrinsic protein design capabilities of the GPT-6 family of models. Our models can design new protein shapes and sequences using reasoning and code, without calling specialized biology models to generate them.",
+  "zh": "OpenAI：预印本论文显示，GPT-6 系列模型可仅靠推理和代码设计新的蛋白质形状与序列，并已通过湿实验验证，无需调用专门的生物学模型。",
+  "url": "https://x.com/OpenAI/status/2125334383490105601"
+ },
+ {
+  "id": "2125318351341994436",
+  "created_at": "2026-11-24T19:59:16Z",
+  "user": "NASA",
+  "text": "As part of a coordinated, whole-of-government effort, NASA has rapidly mobilized specialized research aircraft, space-based observation capabilities, and scientific personnel to support ongoing efforts at the Iowa Army Ammunition Plant in Middletown, Iowa. NASA stands ready to",
+  "zh": "NASA：已迅速调集专项科研飞机、卫星观测能力和科研人员，支援艾奥瓦州米德尔顿陆军弹药厂的相关工作。",
+  "url": "https://x.com/NASA/status/2125318351341994436"
+ },
+ {
+  "id": "2125311868168515603",
+  "created_at": "2026-11-24T19:33:30Z",
+  "user": "sundarpichai",
+  "text": "Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago. It's been great to see the reception and thanks for all the model feedback including areas to improve - huge thanks to the teams across",
+  "zh": "皮查伊：Neon 上线首日刷新付费 API 用量纪录；自 Argon 发布仅 6 周以来，Antigravity 每日 token 用量上升 82%。",
+  "url": "https://x.com/sundarpichai/status/2125311868168515603"
+ },
+ {
+  "id": "2125305606685053416",
+  "created_at": "2026-11-24T19:08:37Z",
+  "user": "OpenAI",
+  "text": "Two amateur astronomers, Kevin Bond (@canvrno) and Ethan Byrd (@itsjustemail), independently found signals that could point to planets around distant stars. They knew you didn't need your own telescope for this kind of hunt. Kevin used Codex and Ethan used Astra to search public",
+  "zh": "OpenAI：两名业余天文爱好者分别用 Codex 和 Astra 在公开数据中发现可能指向系外行星的信号。",
+  "url": "https://x.com/OpenAI/status/2125305606685053416"
+ },
+ {
+  "id": "2125274968149590479",
+  "created_at": "2026-11-24T17:06:52Z",
+  "user": "federalreserve",
+  "text": "The Federal Reserve has revised its indexes of industrial production, capacity, and utilization using benchmark data. Revisions to manufacturing production, capacity growth, and utilization are modest. #FedData (1/3)",
+  "zh": "美联储：已用基准数据修订工业生产、产能和产能利用率指数，制造业相关修订幅度不大。",
+  "url": "https://x.com/federalreserve/status/2125274968149590479"
+ },
+ {
+  "id": "2125270727028859059",
+  "created_at": "2026-11-24T16:50:01Z",
+  "user": "NASA",
+  "text": "A home away from home. We're building a Moon Base, where astronauts will live, work, and explore the lunar surface. Learn how @NASAMoonBase will be built and how it'll prepare us for future missions:",
+  "zh": "NASA：正在建设月球基地，供航天员在月面生活、工作与探索，并为后续任务做准备。",
+  "url": "https://x.com/NASA/status/2125270727028859059"
+ },
+ {
+  "id": "2125266188481745097",
+  "created_at": "2026-11-24T16:31:59Z",
+  "user": "WhiteHouse",
+  "text": "Gas prices are falling as drivers hit the road for Thanksgiving.",
+  "zh": "白宫：感恩节出行期间，汽油价格正在下降。",
+  "url": "https://x.com/WhiteHouse/status/2125266188481745097"
+ },
+ {
+  "id": "2125265004568133786",
+  "created_at": "2026-11-24T16:27:17Z",
+  "user": "WhiteHouse",
+  "text": "The largest anti-scam enforcement surge in HISTORY. @TheJusticeDept is delivering on President Trump's directive: a government-wide crackdown on scams, fraud, and predatory schemes that harm Americans.",
+  "zh": "白宫：司法部正落实总统指示，开展据称史上最大规模的反诈骗执法行动。",
+  "url": "https://x.com/WhiteHouse/status/2125265004568133786"
+ },
+ {
+  "id": "2125263043244290435",
+  "created_at": "2026-11-24T16:19:29Z",
+  "user": "SpaceX",
+  "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
+  "zh": "SpaceX：猎鹰 9 号一级火箭已在无人飞船 Of Course I Still Love You 上着陆。",
+  "url": "https://x.com/SpaceX/status/2125263043244290435"
+ },
+ {
+  "id": "2125243058757439884",
+  "created_at": "2026-11-24T15:00:04Z",
+  "user": "esa",
+  "text": "Real economic value, right here in Europe. ESA’s existing exploration activities are estimated to generate around €2.8 billion in GDP across Europe. That’s impact that starts in space but reaches far beyond it. And that’s why we’re boosting European space exploration.",
+  "zh": "欧空局：现有太空探索活动估计可为欧洲带来约 28 亿欧元 GDP。",
+  "url": "https://x.com/esa/status/2125243058757439884"
+ },
+ {
   "id": "2125173785297105085",
   "created_at": "2026-11-24T10:24:48Z",
   "user": "esa",
@@ -118,77 +238,5 @@
   "text": "The Ariane 6 #VA271 launch is postponed to no earlier than 24 November.",
   "zh": "欧空局：阿里安6号VA271发射推迟至最早11月24日。",
   "url": "https://x.com/esa/status/2124765401363976335"
- },
- {
-  "id": "2124641197058662647",
-  "created_at": "2026-11-22T23:08:29Z",
-  "user": "WhiteHouse",
-  "text": "Gas prices fall to an 8-month low after 4 weeks of decline, delivering lower prices as Thanksgiving approaches.",
-  "zh": "白宫：美国汽油价格连续四周下跌，降至8个月低点，感恩节前出行成本下降。",
-  "url": "https://x.com/WhiteHouse/status/2124641197058662647"
- },
- {
-  "id": "2124621998521212940",
-  "created_at": "2026-11-22T21:52:12Z",
-  "user": "elonmusk",
-  "text": "Starlink helps kids with education — quoting @1818311005698678784: Starlink is bringing high-speed internet to thousands of students in rural Honduras, one school at a time. At Escuela Sergio Palacios in El Hatillo, 200 students now have access to Starlink internet through an installation by Conatel, part of a wider effort that has connected 1,212 institutions.",
-  "zh": "马斯克：Starlink正在为洪都拉斯农村学校接入高速互联网，当地一所学校200名学生已用上，并纳入更大规模的连通计划。",
-  "url": "https://x.com/elonmusk/status/2124621998521212940"
- },
- {
-  "id": "2124619599882920139",
-  "created_at": "2026-11-22T21:42:40Z",
-  "user": "elonmusk",
-  "text": "Consciousness is either an illusion or ubiquitous on a gradient. Difficult to argue that carbon is conscious, but silicon is not.",
-  "zh": "马斯克：意识要么是幻觉，要么普遍存在于连续谱上；很难论证碳基有意识而硅基没有。",
-  "url": "https://x.com/elonmusk/status/2124619599882920139"
- },
- {
-  "id": "2124608788158447644",
-  "created_at": "2026-11-22T20:59:43Z",
-  "user": "elonmusk",
-  "text": "This was done without AI/SI, but we will be using a lot of SI in the future — quoting @3167257102: I still can’t get over the fact that this happened. The precision of this, down to sub-meter accuracy when it was traveling at OVER 7,000 m/s.",
-  "zh": "马斯克：猎鹰回收目前尚未依靠人工智能或超级智能，却能在超过7000米/秒的速度下实现亚米级精度着陆；未来将大量使用超级智能。",
-  "url": "https://x.com/elonmusk/status/2124608788158447644"
- },
- {
-  "id": "2124589255565680900",
-  "created_at": "2026-11-22T19:42:06Z",
-  "user": "elonmusk",
-  "text": "32 hour launch pad recycle. Great work by SpaceX team. — quoting @SpaceX: Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad",
-  "zh": "马斯克：SpaceX同一发射台在32小时内完成两次发射，创下最快翻台纪录，并称赞团队表现出色。",
-  "url": "https://x.com/elonmusk/status/2124589255565680900"
- },
- {
-  "id": "2124576203113636183",
-  "created_at": "2026-11-22T18:50:14Z",
-  "user": "SpaceX",
-  "text": "Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad",
-  "zh": "SpaceX：猎鹰9号从加州4E工位发射NROL-136任务，距同工位发射USSF-317仅间隔32小时，创下同台最快翻台纪录。",
-  "url": "https://x.com/SpaceX/status/2124576203113636183"
- },
- {
-  "id": "2124551594691932405",
-  "created_at": "2026-11-22T17:12:27Z",
-  "user": "sama",
-  "text": "This is the most important thing OpenAI has published in awhile. We are providing a lot of transparency into our pretraining progress and hope we can agree as a frield to common limits. I think that would be very wise and help ensure safety and control. — quoting @1032406226502479872: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.",
-  "zh": "奥特曼：称这是OpenAI近来最重要的发布，公司正提高预训练进展的透明度，并呼吁业界就共同上限达成一致，以保障安全与可控。",
-  "url": "https://x.com/sama/status/2124551594691932405"
- },
- {
-  "id": "2124477713142665551",
-  "created_at": "2026-11-22T12:18:52Z",
-  "user": "elonmusk",
-  "text": "Starlink saves lives — quoting @1389913567671975937: Starlink helped rescue an injured hiker stranded in Japan’s mountains with no mobile signal. After a 6-metre fall, he was bleeding heavily, had a broken finger and could no longer walk. He used Starlink to text his wife his exact coordinates. He spent the night under an emergency blanket before rescuers reached him around 10:30 the next morning and arranged a helicopter flight to hospital.",
-  "zh": "马斯克：一名徒步者在日本山区坠落受伤且无手机信号，靠Starlink向妻子发送准确坐标后获救。",
-  "url": "https://x.com/elonmusk/status/2124477713142665551"
- },
- {
-  "id": "2124463264037769352",
-  "created_at": "2026-11-22T11:21:27Z",
-  "user": "elonmusk",
-  "text": "Some people thought we meant 25% improvement, no we mean 25 times! Welcome to the singularity. Hope you’re enjoying your stay. — quoting @1118594454515003393: FSD V15 is 25x safer than V14 I would have guessed V14 is at MINIMUM 2x safer than a human (probably more).",
-  "zh": "马斯克：FSD V15安全性提升的是25倍而非25%，并称这标志着奇点已至。",
-  "url": "https://x.com/elonmusk/status/2124463264037769352"
  }
 ]
