@@ -1,5 +1,13 @@
 [
  {
+  "id": "2125463852146114994",
+  "created_at": "2026-11-25T05:37:26Z",
+  "user": "elonmusk",
+  "text": "Impressive work by Google — quoting @sundarpichai: Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago.",
+  "zh": "马斯克：称赞谷歌工作出色，并转引皮查伊称 Neon 上线首日创下付费 API 用量新高，Antigravity 日均 token 较 Argon 发布六周以来上升 82%。",
+  "url": "https://x.com/elonmusk/status/2125463852146114994"
+ },
+ {
   "id": "2125383859592479201",
   "created_at": "2026-11-25T00:19:34Z",
   "user": "elonmusk",
@@ -230,13 +238,5 @@
   "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.\n\nRead the release:",
   "zh": "英伟达：董事会已恢复黄仁勋担任总裁、首席执行官兼董事。",
   "url": "https://x.com/nvidianewsroom/status/2124865060397019480"
- },
- {
-  "id": "2124765401363976335",
-  "created_at": "2026-11-23T07:22:02Z",
-  "user": "esa",
-  "text": "The Ariane 6 #VA271 launch is postponed to no earlier than 24 November.",
-  "zh": "欧空局：阿里安6号VA271发射推迟至最早11月24日。",
-  "url": "https://x.com/esa/status/2124765401363976335"
  }
 ]
