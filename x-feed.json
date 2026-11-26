@@ -1,5 +1,101 @@
 [
  {
+  "id": "2125686741969314071",
+  "created_at": "2026-11-25T20:23:07Z",
+  "user": "WhiteHouse",
+  "text": "Reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations.",
+  "zh": "白宫：称爱荷华方面的消息显示，陆军的缓解措施效果远超预期。",
+  "url": "https://x.com/WhiteHouse/status/2125686741969314071"
+ },
+ {
+  "id": "2125682701672087612",
+  "created_at": "2026-11-25T20:07:04Z",
+  "user": "federalreserve",
+  "text": "@USOCC and the Consumer Financial Protection Bureau announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans.",
+  "zh": "美联储：与货币监理署、消费者金融保护局共同公布高价抵押贷款中较小贷款可豁免评估的美元门槛。",
+  "url": "https://x.com/federalreserve/status/2125682701672087612"
+ },
+ {
+  "id": "2125681502079881291",
+  "created_at": "2026-11-25T20:02:18Z",
+  "user": "federalreserve",
+  "text": "and the Consumer Financial Protection Bureau announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions.",
+  "zh": "美联储：与消费者金融保护局共同公布诚实借贷和消费者租赁规则的适用美元门槛。",
+  "url": "https://x.com/federalreserve/status/2125681502079881291"
+ },
+ {
+  "id": "2125671356339499494",
+  "created_at": "2026-11-25T19:21:59Z",
+  "user": "SpaceX",
+  "text": "SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children",
+  "zh": "SpaceX：宣布向数百万美国儿童各赠一股公司股票，认为打造多行星生存基础设施的公司所有权应延伸到下一代美国人。",
+  "url": "https://x.com/SpaceX/status/2125671356339499494"
+ },
+ {
+  "id": "2125670164821852505",
+  "created_at": "2026-11-25T19:17:14Z",
+  "user": "federalreserve",
+  "text": "Read about economic conditions in Reserve Bank Districts in the #BeigeBook.",
+  "zh": "美联储：已发布最新《褐皮书》，介绍各储备区经济状况。",
+  "url": "https://x.com/federalreserve/status/2125670164821852505"
+ },
+ {
+  "id": "2125653121208656145",
+  "created_at": "2026-11-25T18:09:31Z",
+  "user": "esa",
+  "text": "BIG NEWS! We have a whole new look at Dimorphos, the first asteroid humans have ever moved. @ESA_Hera mission has captured Dimorphos completing a full orbit around its larger companion, Didymos. Look closely and you will see the impact site come into view, and Dimorphos",
+  "zh": "欧空局：赫拉探测器拍到迪莫弗斯绕伴星迪迪莫斯运行完整一圈的新图像，可看到撞击点；这是人类首次移动过的小行星。",
+  "url": "https://x.com/esa/status/2125653121208656145"
+ },
+ {
+  "id": "2125649126398591003",
+  "created_at": "2026-11-25T17:53:39Z",
+  "user": "SpaceX",
+  "text": "Teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9’s launch of @northropgrumman's commercial resupply mission to the @Space_Station. Liftoff is targeted for 10:47 a.m. ET on Sunday, November 29.",
+  "zh": "SpaceX：已完成 Cygnus XL 整流罩封装，猎鹰9号计划于11月29日周日美东时间上午10:47发射，为诺格执行国际空间站商业补给任务。",
+  "url": "https://x.com/SpaceX/status/2125649126398591003"
+ },
+ {
+  "id": "2125638790593274259",
+  "created_at": "2026-11-25T17:12:34Z",
+  "user": "sama",
+  "text": "We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers. Stronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out",
+  "zh": "阿尔特曼：OpenAI 正在小范围客户中测试 Private Inference（私有推理），作为 Private Intelligence 的最新服务，以加强企业隐私保护。",
+  "url": "https://x.com/sama/status/2125638790593274259"
+ },
+ {
+  "id": "2125637438710153247",
+  "created_at": "2026-11-25T17:07:12Z",
+  "user": "SpaceX",
+  "text": "Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs to",
+  "zh": "SpaceX：科奇斯县超算中心按亚利桑那条件设计，不用燃气电厂、不取工业用水，并采用干冷闭式循环；还将向当地投资逾500亿美元，带来约1000个长期岗位和最多5500个建筑岗位。",
+  "url": "https://x.com/SpaceX/status/2125637438710153247"
+ },
+ {
+  "id": "2125627317263466739",
+  "created_at": "2026-11-25T16:26:59Z",
+  "user": "AnthropicAI",
+  "text": "We recently migrated our Messages API from Python to Rust. On our engineering blog, we share how we used the existing service to verify the new one, with teams of Claude agents tracking down and fixing differences between the two versions.",
+  "zh": "Anthropic：已将 Messages API 从 Python 迁到 Rust，并在工程博客介绍如何用原服务校验新服务、由多组 Claude 智能体排查两边差异。",
+  "url": "https://x.com/AnthropicAI/status/2125627317263466739"
+ },
+ {
+  "id": "2125597813405012435",
+  "created_at": "2026-11-25T14:29:45Z",
+  "user": "WhiteHouse",
+  "text": "NEW: U.S. Economy Grows FASTER THAN EXPECTED in Q3. HUGE.",
+  "zh": "白宫：称美国经济第三季度增速快于预期。",
+  "url": "https://x.com/WhiteHouse/status/2125597813405012435"
+ },
+ {
+  "id": "2125567252254564840",
+  "created_at": "2026-11-25T12:28:18Z",
+  "user": "federalreserve",
+  "text": "Speech by Vice Chair for Supervision Bowman on modernizing banking supervision: a shared agenda for the Americas.",
+  "zh": "美联储：监管副主席鲍曼发表演讲，谈推进美洲银行监管现代化的共同议程。",
+  "url": "https://x.com/federalreserve/status/2125567252254564840"
+ },
+ {
   "id": "2125463852146114994",
   "created_at": "2026-11-25T05:37:26Z",
   "user": "elonmusk",
@@ -150,93 +246,5 @@
   "text": "Far too often, capital sentences are delayed for years, if not decades, stalling the justice the victims’ families deserve.\n\nToday, President Trump signed a Memorandum to pursue capital punishment for heinous federal crimes &amp; expedite the enforcement of capital sentences.",
   "zh": "白宫：特朗普总统签署备忘录，要求对严重联邦重罪推进死刑并加快死刑执行。",
   "url": "https://x.com/WhiteHouse/status/2125037582815785250"
- },
- {
-  "id": "2125007927098699827",
-  "created_at": "2026-11-23T23:25:45Z",
-  "user": "OpenAI",
-  "text": "In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review.\n\nOur researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream.\n\nRead the research:",
-  "zh": "OpenAI：一次运行中，GPT-6 Cyber协助验证了948个可导致本地root权限的Linux内核漏洞，并生成补丁供审查。",
-  "url": "https://x.com/OpenAI/status/2125007927098699827"
- },
- {
-  "id": "2124987751955312972",
-  "created_at": "2026-11-23T22:05:35Z",
-  "user": "USTreasury",
-  "text": "In a new Financial Trend Analysis, @FinCENnews identified nearly $15 billion in financial activity from January 2025 to August 2026 potentially linked to Iranian shadow banking.\n\nRead more here:",
-  "zh": "美国财政部：金融犯罪执法网络发现，2025年1月至2026年8月约有150亿美元资金活动可能与伊朗影子银行有关。",
-  "url": "https://x.com/USTreasury/status/2124987751955312972"
- },
- {
-  "id": "2124980590717911527",
-  "created_at": "2026-11-23T21:37:07Z",
-  "user": "OpenAI",
-  "text": "We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI.\n\nShirudo is a first step toward self-defending infrastructure that can adapt to new threats while keeping services running. Our goal is for defenders to work with AI agents to find affected systems, test and share shields, and deploy them without disrupting workloads.",
-  "zh": "OpenAI：与思科合作推出开源Linux运行时Shirudo，让智能体通过动态eBPF在不停机的情况下防护系统、抵御漏洞利用。",
-  "url": "https://x.com/OpenAI/status/2124980590717911527"
- },
- {
-  "id": "2124976746005139541",
-  "created_at": "2026-11-23T21:21:51Z",
-  "user": "WhiteHouse",
-  "text": "Gavin Newsom’s radical commutation of 548 death sentences is a grave threat to public safety &amp; an injustice to the victims and their families. Sparing some of the most brutal &amp; violent murderers in American history.\n\nSome of the gruesome killers who were spared death row ⬇️",
-  "zh": "白宫：指责加州州长纽森大规模改判548例死刑，称此举威胁公共安全、对不起受害者及家属。",
-  "url": "https://x.com/WhiteHouse/status/2124976746005139541"
- },
- {
-  "id": "2124950601247186986",
-  "created_at": "2026-11-23T19:37:57Z",
-  "user": "USTreasury",
-  "text": "Today, as part of Operation Economic Outcast, Treasury sanctioned over two dozen Iranian exchange houses, front companies, and key personnel in a sweeping effort to disrupt Iran’s global shadow banking networks. As Iran’s economy remains battered by punishing economic sanctions and its oil revenues continue to decline, the regime’s shadow banking facilitators have increasingly failed to repatriate dwindling export earnings while simultaneously enriching themselves by stealing state resources that rightfully belong to the Iranian people.",
-  "zh": "美国财政部：在“经济放逐”行动中制裁二十多家伊朗兑换所、空壳公司及相关人员，以打击伊朗全球影子银行网络。",
-  "url": "https://x.com/USTreasury/status/2124950601247186986"
- },
- {
-  "id": "2124942828274925651",
-  "created_at": "2026-11-23T19:07:04Z",
-  "user": "elonmusk",
-  "text": "Everyone I know at Nvidia wanted Jensen back and it shows",
-  "zh": "马斯克：据他所知，英伟达内部都希望黄仁勋回归，而现在看来也确实如此。",
-  "url": "https://x.com/elonmusk/status/2124942828274925651"
- },
- {
-  "id": "2124939363075100989",
-  "created_at": "2026-11-23T18:53:18Z",
-  "user": "esa",
-  "text": "BepiColombo is safely in orbit around Mercury!\n\nDespite a software issue that cut its orbit insertion manoeuvre short, the ESA/JAXA spacecraft is safe and in a stable orbit after an eight-year journey.\n\nNext up ➡️ separation of its two science orbiters on 9 December.\n\nRead more:",
-  "zh": "欧洲航天局：尽管软件故障使入轨机动提前中断，BepiColombo在八年飞行后已安全进入水星稳定轨道，两个科学轨道器将于12月9日分离。",
-  "url": "https://x.com/esa/status/2124939363075100989"
- },
- {
-  "id": "2124922133545714160",
-  "created_at": "2026-11-23T17:44:50Z",
-  "user": "OpenAI",
-  "text": "Through our new program OpenWorks, we fund local AI experts to help small businesses develop the tools and skills they need to grow their own business, at no cost to them.\n\nWe invite AI experts who love teaching others and small business owners who want to learn to implement AI to join us at",
-  "zh": "OpenAI：推出OpenWorks项目，资助本地AI专家免费帮助小企业掌握和应用AI工具。",
-  "url": "https://x.com/OpenAI/status/2124922133545714160"
- },
- {
-  "id": "2124917923391443211",
-  "created_at": "2026-11-23T17:28:06Z",
-  "user": "elonmusk",
-  "text": "Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world.",
-  "zh": "马斯克：在X平台违法者无论身处世界何地，都将被起诉。",
-  "url": "https://x.com/elonmusk/status/2124917923391443211"
- },
- {
-  "id": "2124872428723552741",
-  "created_at": "2026-11-23T14:27:19Z",
-  "user": "WhiteHouse",
-  "text": "“The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO… Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World!” - President DONALD J. TRUMP",
-  "zh": "白宫转发特朗普：英伟达董事会让黄仁勋回归CEO是正确决定，并向黄仁勋、董事会以及美国和世界人民表示祝贺。",
-  "url": "https://x.com/WhiteHouse/status/2124872428723552741"
- },
- {
-  "id": "2124865060397019480",
-  "created_at": "2026-11-23T13:58:03Z",
-  "user": "nvidianewsroom",
-  "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.\n\nRead the release:",
-  "zh": "英伟达：董事会已恢复黄仁勋担任总裁、首席执行官兼董事。",
-  "url": "https://x.com/nvidianewsroom/status/2124865060397019480"
  }
 ]
