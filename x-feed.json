@@ -1,5 +1,21 @@
 [
  {
+  "id": "2125998024040038833",
+  "created_at": "2026-11-26T17:00:02Z",
+  "user": "esa",
+  "text": "Two asteroids, up close, from @ESA_Hera yesterday. The biggest @ESAGaia data release yet next Wednesday. Not a quiet week.",
+  "zh": "欧空局：昨天赫拉探测器近距离拍到两颗小行星。下周三将发布迄今最大的盖亚数据，这周并不平静。",
+  "url": "https://x.com/esa/status/2125998024040038833"
+ },
+ {
+  "id": "2125915027819446402",
+  "created_at": "2026-11-26T11:30:14Z",
+  "user": "NASA",
+  "text": "LIVE: Watch the Progress 97 spacecraft arrive and dock to the @space_station after a two-day trip.  The unpiloted spacecraft will autonomously dock at 7:11am ET (1211 UTC), delivering food, fuel, and supplies.",
+  "zh": "NASA：Progress 97 货运飞船经两天飞行后，将于世界时 12:11（北京时间 20:11）自主对接国际空间站，运送食品、燃料和补给。",
+  "url": "https://x.com/NASA/status/2125915027819446402"
+ },
+ {
   "id": "2125797463047258119",
   "created_at": "2026-11-26T03:43:05Z",
   "user": "elonmusk",
@@ -118,133 +134,5 @@
   "text": "Starlink is now approved in 30 of 54 countries in Africa!",
   "zh": "马斯克：Starlink 现已在非洲 54 国中的 30 国获批。",
   "url": "https://x.com/elonmusk/status/2125383859592479201"
- },
- {
-  "id": "2125365268381929637",
-  "created_at": "2026-11-24T23:05:42Z",
-  "user": "AnthropicAI",
-  "text": "New Anthropic Fellows research: Returning to the neuron basis for interpretability. Understanding what’s happening inside an AI model helps to make it safer. One obvious place to look is its neurons, or the simple units it’s built from. Early interpretability work did just that,",
-  "zh": "Anthropic：新研究主张回到神经元层面做可解释性，以便更好理解模型内部并提升安全性。",
-  "url": "https://x.com/AnthropicAI/status/2125365268381929637"
- },
- {
-  "id": "2125349905409438136",
-  "created_at": "2026-11-24T22:04:39Z",
-  "user": "NASA",
-  "text": "We've decided on key design features and mission details for Space Reactor-1 Freedom, the first fission-powered spacecraft to travel beyond Earth orbit. Set to launch in 2028, SR-1 Freedom will demonstrate nuclear electric propulsion in deep space.",
-  "zh": "NASA：已确定深空核电推进试验船 Space Reactor-1 Freedom 的关键设计，计划 2028 年发射，将成为首个飞出地球轨道的裂变动力航天器。",
-  "url": "https://x.com/NASA/status/2125349905409438136"
- },
- {
-  "id": "2125342179216261600",
-  "created_at": "2026-11-24T21:33:57Z",
-  "user": "SpaceX",
-  "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California",
-  "zh": "SpaceX：猎鹰 9 号已从加州 4E 发射台将 USSF-266 送入轨道。",
-  "url": "https://x.com/SpaceX/status/2125342179216261600"
- },
- {
-  "id": "2125341904644763678",
-  "created_at": "2026-11-24T21:32:51Z",
-  "user": "AnthropicAI",
-  "text": "New Anthropic research: When an AI agent can escape its sandbox, will it choose to? Our new evaluation, Siren, gives Claude routine tasks in intentionally weakened sandboxes, with something useful to the task left outside of the sandbox. Across 1,700+ scenarios built to tempt",
-  "zh": "Anthropic：新评估项目 Siren 在故意削弱的沙箱中测试智能体，看它是否会为完成任务而逃离；共设计 1700 多个场景。",
-  "url": "https://x.com/AnthropicAI/status/2125341904644763678"
- },
- {
-  "id": "2125334383490105601",
-  "created_at": "2026-11-24T21:02:58Z",
-  "user": "OpenAI",
-  "text": "We’re sharing a new preprint showing wet lab validation of intrinsic protein design capabilities of the GPT-6 family of models. Our models can design new protein shapes and sequences using reasoning and code, without calling specialized biology models to generate them.",
-  "zh": "OpenAI：预印本论文显示，GPT-6 系列模型可仅靠推理和代码设计新的蛋白质形状与序列，并已通过湿实验验证，无需调用专门的生物学模型。",
-  "url": "https://x.com/OpenAI/status/2125334383490105601"
- },
- {
-  "id": "2125318351341994436",
-  "created_at": "2026-11-24T19:59:16Z",
-  "user": "NASA",
-  "text": "As part of a coordinated, whole-of-government effort, NASA has rapidly mobilized specialized research aircraft, space-based observation capabilities, and scientific personnel to support ongoing efforts at the Iowa Army Ammunition Plant in Middletown, Iowa. NASA stands ready to",
-  "zh": "NASA：已迅速调集专项科研飞机、卫星观测能力和科研人员，支援艾奥瓦州米德尔顿陆军弹药厂的相关工作。",
-  "url": "https://x.com/NASA/status/2125318351341994436"
- },
- {
-  "id": "2125311868168515603",
-  "created_at": "2026-11-24T19:33:30Z",
-  "user": "sundarpichai",
-  "text": "Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago. It's been great to see the reception and thanks for all the model feedback including areas to improve - huge thanks to the teams across",
-  "zh": "皮查伊：Neon 上线首日刷新付费 API 用量纪录；自 Argon 发布仅 6 周以来，Antigravity 每日 token 用量上升 82%。",
-  "url": "https://x.com/sundarpichai/status/2125311868168515603"
- },
- {
-  "id": "2125305606685053416",
-  "created_at": "2026-11-24T19:08:37Z",
-  "user": "OpenAI",
-  "text": "Two amateur astronomers, Kevin Bond (@canvrno) and Ethan Byrd (@itsjustemail), independently found signals that could point to planets around distant stars. They knew you didn't need your own telescope for this kind of hunt. Kevin used Codex and Ethan used Astra to search public",
-  "zh": "OpenAI：两名业余天文爱好者分别用 Codex 和 Astra 在公开数据中发现可能指向系外行星的信号。",
-  "url": "https://x.com/OpenAI/status/2125305606685053416"
- },
- {
-  "id": "2125274968149590479",
-  "created_at": "2026-11-24T17:06:52Z",
-  "user": "federalreserve",
-  "text": "The Federal Reserve has revised its indexes of industrial production, capacity, and utilization using benchmark data. Revisions to manufacturing production, capacity growth, and utilization are modest. #FedData (1/3)",
-  "zh": "美联储：已用基准数据修订工业生产、产能和产能利用率指数，制造业相关修订幅度不大。",
-  "url": "https://x.com/federalreserve/status/2125274968149590479"
- },
- {
-  "id": "2125270727028859059",
-  "created_at": "2026-11-24T16:50:01Z",
-  "user": "NASA",
-  "text": "A home away from home. We're building a Moon Base, where astronauts will live, work, and explore the lunar surface. Learn how @NASAMoonBase will be built and how it'll prepare us for future missions:",
-  "zh": "NASA：正在建设月球基地，供航天员在月面生活、工作与探索，并为后续任务做准备。",
-  "url": "https://x.com/NASA/status/2125270727028859059"
- },
- {
-  "id": "2125266188481745097",
-  "created_at": "2026-11-24T16:31:59Z",
-  "user": "WhiteHouse",
-  "text": "Gas prices are falling as drivers hit the road for Thanksgiving.",
-  "zh": "白宫：感恩节出行期间，汽油价格正在下降。",
-  "url": "https://x.com/WhiteHouse/status/2125266188481745097"
- },
- {
-  "id": "2125265004568133786",
-  "created_at": "2026-11-24T16:27:17Z",
-  "user": "WhiteHouse",
-  "text": "The largest anti-scam enforcement surge in HISTORY. @TheJusticeDept is delivering on President Trump's directive: a government-wide crackdown on scams, fraud, and predatory schemes that harm Americans.",
-  "zh": "白宫：司法部正落实总统指示，开展据称史上最大规模的反诈骗执法行动。",
-  "url": "https://x.com/WhiteHouse/status/2125265004568133786"
- },
- {
-  "id": "2125263043244290435",
-  "created_at": "2026-11-24T16:19:29Z",
-  "user": "SpaceX",
-  "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
-  "zh": "SpaceX：猎鹰 9 号一级火箭已在无人飞船 Of Course I Still Love You 上着陆。",
-  "url": "https://x.com/SpaceX/status/2125263043244290435"
- },
- {
-  "id": "2125243058757439884",
-  "created_at": "2026-11-24T15:00:04Z",
-  "user": "esa",
-  "text": "Real economic value, right here in Europe. ESA’s existing exploration activities are estimated to generate around €2.8 billion in GDP across Europe. That’s impact that starts in space but reaches far beyond it. And that’s why we’re boosting European space exploration.",
-  "zh": "欧空局：现有太空探索活动估计可为欧洲带来约 28 亿欧元 GDP。",
-  "url": "https://x.com/esa/status/2125243058757439884"
- },
- {
-  "id": "2125173785297105085",
-  "created_at": "2026-11-24T10:24:48Z",
-  "user": "esa",
-  "text": "Rocket launch today! 🚀 Tune in now to watch Ariane 6 lift off live from French Guiana, carrying 36 @AmazonLeo satellites. @ESA_transport @Arianespace @ArianeGroup",
-  "zh": "欧空局：阿里安6号今天将在法属圭亚那发射，搭载36颗亚马逊Leo卫星，发射直播已开启。",
-  "url": "https://x.com/esa/status/2125173785297105085"
- },
- {
-  "id": "2125167587264770208",
-  "created_at": "2026-11-24T10:00:11Z",
-  "user": "NASA",
-  "text": "LIVE: An uncrewed Progress cargo spacecraft carrying food, fuel, and supplies is about to lift off on a two-day journey to the @Space_Station. Launch is scheduled for 5:17am ET (1017 UTC).",
-  "zh": "NASA：无人进步号货运飞船计划于北京时间18:17发射，携带食品、燃料等补给，飞行两天前往国际空间站。",
-  "url": "https://x.com/NASA/status/2125167587264770208"
  }
 ]
